@@ -6,13 +6,12 @@
 [中文](README.md) | [English](README-en.md)
 
 ## 代码库
-
 | <div style="width:30px">编号</div> | <div style="width:350px">代码库</div>       |  <div style="width:400px">介绍</div>  |
 | ----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
 |    1 | [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) ![Github stars](https://img.shields.io/github/stars/acheong08/ChatGPT.svg)                                                                    |                                                   通过逆向工程 ChatGPT API，可扩展用于聊天机器人等应用 |
 |    2 | [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) ![Github stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt.svg)                                               |                                                   Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
 |    3 | [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)![Github stars](https://img.shields.io/github/stars/wong2/chatgpt-google-extension.svg)                              | 基于ChatGPT的浏览器插件，搜索时同步查询ChatGPT，对目前流行的搜索引擎都支持。该项目2023-02-20后不再维护 |
-|    4 | [Chanzhaoyu/chatgpt-web ](https://github.com/Chanzhaoyu/chatgpt-web) ![Github stars](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web.svg)                                                    |                                                             用 Express 和 Vue3 搭建的 ChatGPT 演示网页 |
+|    4 | [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) ![Github stars](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web.svg)                                                    |                                                             用 Express 和 Vue3 搭建的 ChatGPT 演示网页 |
 |    5 | [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![Github stars](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
 |    6 | [yetone/openai-translator](https://github.com/yetone/openai-translator)  ![Github stars](https://img.shields.io/github/stars/yetone/openai-translator.svg)                                              |                                                基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 |
 |    7 | [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) ![Github stars](https://img.shields.io/github/stars/transitive-bullshit/chatgpt-api.svg)                          |                                                                         官方ChatGPT API的Node.js客户端 |
@@ -21,12 +20,13 @@
 |   10 | [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![Github stars](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
 |   11 | [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 |   12 | [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
-|   13 | [lencx/ChatGPT: ](https://github.com/lencx/ChatGPT)        ![Github stars](https://img.shields.io/github/stars/lencx/ChatGPT.svg)                                                                       |                                                   一款ChatGPT的桌面应用，支持Mac, Windows 和 Linux平台 |
+|   13 | [lencx/ChatGPT](https://github.com/lencx/ChatGPT)        ![Github stars](https://img.shields.io/github/stars/lencx/ChatGPT.svg)                                                                       |                                                   一款ChatGPT的桌面应用，支持Mac, Windows 和 Linux平台 |
 |   14 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)      ![Github stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg)                                       |                                                                             ChatGPT 调教指南（英文版） |
-|   15 | [PlexPt/awesome-chatgpt-prompts-zh: ](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)                  ![Github stars](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh.svg) |                                                                             ChatGPT 调教指南（中文版） |
+|   15 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)                  ![Github stars](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh.svg) |                                                                             ChatGPT 调教指南（中文版） |
 |   16 | [openai/evals](https://github.com/openai/evals)     ![Github stars](https://img.shields.io/github/stars/openai/evals.svg)                                                                               |                                                  Evals是一个用于评估OpenAI模型的框架和一个开源基准测试 |
 |   17 | [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![Github stars](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           使用C/C++进行LLaMA模型的推理 |
 |   18 | [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![Github stars](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
+
 
 
 ## 工具
@@ -39,7 +39,7 @@
 
 
 ## 网站
-| <div style="width:30px">编号</div>  | <div style="width:100px">网站</div>                                       | 介绍                                                                                     |
+| <div style="width:30px">编号</div>  | <div style="width:150px">网站</div>                                       | 介绍                                                                                     |
 | ----:|:------------------------------------------ |:---------------------------------------------------------------------------------------- |
 |    1 | [OpenAI](https://openai.com/)              | OpenAI是一个人工智能研究公司，旨在推动人工智能的发展以及实现更加广泛和深入的人工智能应用 |
 |    2 | [Murf AI](https://murf.ai/)                | AI语音生成器：多功能的文字转语音软件                                                     |
