@@ -1,0 +1,14 @@
+steps:
+  - name: Checkout code
+    uses: actions/checkout@v2
+
+  - name: sort repos by star count
+    run: ruby update_readme.rb
+
+  - name: Commit changes
+    run: |
+      git config --global user.email "luyingrui518@gmail.com"
+      git config --global user.name "YingRui Lu"
+      git add README.md
+      git commit -m "sort repos by star count"
+      git push
