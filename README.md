@@ -26,6 +26,11 @@
 | 16| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 17| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 18| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![Github stars](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
+|                                 19 | [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![Github stars](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                | 逆向工程微软的必应Chat API                                                                             |
+|                                 20 | [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)      ![Github stars](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg)                                                                  | ChatGLM-6B：开源双语对话语言模型                                                                       |
+| 21                                   |                 [xx025/carrot](https://github.com/xx025/carrot)  ![Github stars](https://img.shields.io/github/stars/xx025/carrot.svg)                                                                                                                                                                                       |     收集了一些免费好用的ChatGPT镜像站    |
+|22| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) ![Github stars](https://img.shields.io/github/stars/openai/openai-cookbook.svg)         | 使用 OpenAI API 的例子和指南(官方版) |
+
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
