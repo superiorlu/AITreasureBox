@@ -44,7 +44,7 @@
 
 
 ## Website
-| <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       | 介绍                                                                                     |
+| <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |
 | ----:|:------------------------------------------ |:---------------------------------------------------------------------------------------- |
 |    1 | [OpenAI](https://openai.com/)              | An artificial intelligence research lab |
 |    2 | [Murf AI](https://murf.ai/)                | AI enabled, real people's voices|

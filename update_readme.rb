@@ -3,8 +3,8 @@ require 'net/http'
 require 'uri'
 require 'json'
 
-# 从 README.md 中读取要更新的仓库名称
-def repos_list(start_str, end_str, file_name)
+# 更新 README 指定范围内容
+def update_readme(start_str, end_str, file_name)
   readme = File.read(file_name)
   lines = readme.lines
   start_index = lines.index {|e| e.include?(start_str)}
@@ -56,6 +56,6 @@ end
 
 # 主程序入口
 if __FILE__ == $0
-  repos_list('## 代码库', '## 工具', 'README.md')
-  repos_list('## Repos', '## Tools', 'README.en.md')
+  update_readme('## 代码库', '## 工具', 'README.md')
+  update_readme('## Repos', '## Tools', 'README.en.md')
 end
