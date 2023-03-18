@@ -32,6 +32,8 @@
 | 22| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![Github stars](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
 | 23| [llmapi-io/small-smart-siri](https://github.com/llmapi-io/small-smart-siri) ![Github stars](https://img.shields.io/github/stars/llmapi-io/small-smart-siri.svg)                                                              |                                                         通过苹果捷径接入ChatGPT、GPT3(NewBing、文心一言接入中)，支持连续对话，配置apikey，无需魔法和openai账号 |
 | 24| [llmapi-io/llmapi-cli](https://github.com/llmapi-io/llmapi-cli) ![Github stars](https://img.shields.io/github/stars/llmapi-io/llmapi-cli.svg)                                                              |                                                         一个接入ChatGPT、GPT3(NewBing、文心一言接入中)的命令行工具，支持连续对话，配置apikey，无需魔法和openai账号 |
+|25| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![Github stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
+|26|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs)| Rust 中使用 CPU 运行 LLaMA |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
