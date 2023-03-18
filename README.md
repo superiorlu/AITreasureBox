@@ -34,6 +34,8 @@
 | 24|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs)| Rust 中使用 CPU 运行 LLaMA |
 | 25| [llmapi-io/small-smart-siri](https://github.com/llmapi-io/small-smart-siri) ![Github stars](https://img.shields.io/github/stars/llmapi-io/small-smart-siri.svg)                                                              |                                                         通过苹果捷径接入ChatGPT、GPT3(NewBing、文心一言接入中)，支持连续对话，配置apikey，无需魔法和openai账号 |
 | 26| [llmapi-io/llmapi-cli](https://github.com/llmapi-io/llmapi-cli) ![Github stars](https://img.shields.io/github/stars/llmapi-io/llmapi-cli.svg)                                                              |                                                         一个接入ChatGPT、GPT3(NewBing、文心一言接入中)的命令行工具，支持连续对话，配置apikey，无需魔法和openai账号 |
+| 27|[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) ![Github stars](https://img.shields.io/github/stars/karpathy/nanoGPT.svg)  |最简单、最快的中等规模GPT训练/微调存储库|
+
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
