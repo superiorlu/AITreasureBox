@@ -30,6 +30,8 @@
 | 20| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 21| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 22| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![Github stars](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
+| 23| [llmapi-io/small-smart-siri](https://github.com/llmapi-io/small-smart-siri) ![Github stars](https://img.shields.io/github/stars/llmapi-io/small-smart-siri.svg)                                                              |                                                         通过苹果捷径接入ChatGPT、GPT3(NewBing、文心一言接入中)，支持连续对话，配置apikey，无需魔法和openai账号 |
+| 24| [llmapi-io/llmapi-cli](https://github.com/llmapi-io/llmapi-cli) ![Github stars](https://img.shields.io/github/stars/llmapi-io/llmapi-cli.svg)                                                              |                                                         一个接入ChatGPT、GPT3(NewBing、文心一言接入中)的命令行工具，支持连续对话，配置apikey，无需魔法和openai账号 |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
