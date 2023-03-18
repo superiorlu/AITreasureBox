@@ -39,8 +39,12 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add README.md README.en.md
-          git commit -m "sort repos by star count"
-          git push origin HEAD:refs/heads/main
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
+          else
+            git config --global user.email "actions@github.com"
+            git config --global user.name "GitHub Actions"
+            git add README.md README.en.md
+            git commit -m "sort repos by star count"
+            git push origin HEAD:refs/heads/main
+          fi
