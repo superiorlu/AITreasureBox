@@ -3,7 +3,7 @@
 > 整理实用的AI工具和网站，打造一个实用的AI百宝箱。
 > 本文翻译部分来自ChatGPT
 
-[中文](README.md) | [English](README-en.md)
+[中文](README.md) | [English](README.en.md)
 
 ## 代码库
 | <div style="width:30px">编号</div> | <div style="width:350px">代码库</div>       |  <div style="width:400px">介绍</div>  |
