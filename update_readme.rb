@@ -4,8 +4,8 @@ require 'uri'
 require 'json'
 
 # 从 README.md 中读取要更新的仓库名称
-def repos_list(start_str, end_str)
-  readme = File.read('README.md')
+def repos_list(start_str, end_str, file_name)
+  readme = File.read(file_name)
   lines = readme.lines
   start_index = lines.index {|e| e.include?(start_str)}
   end_index = lines.index {|e| e.include?(end_str)}
@@ -30,7 +30,7 @@ def repos_list(start_str, end_str)
     new_readme << line
   end
   new_readme << lines[end_index..-1].join
-  File.write('README.md', new_readme)
+  File.write(file_name, new_readme)
 end
 
 # 获取指定仓库的 star 数
@@ -56,5 +56,6 @@ end
 
 # 主程序入口
 if __FILE__ == $0
-  repos_list('## 代码库', '## 工具')
+  repos_list('## 代码库', '## 工具', 'README.md')
+  repos_list('## Repos', '## Tools', 'README.en.md')
 end
