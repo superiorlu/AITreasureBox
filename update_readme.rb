@@ -4,19 +4,24 @@ require 'uri'
 require 'json'
 
 # 更新 README 指定范围内容
-def update_readme(start_str, end_str, file_name)
+def update_readme(start_str, end_str, file_name, repo_stars)
   readme = File.read(file_name)
   lines = readme.lines
   start_index = lines.index {|e| e.include?(start_str)}
   end_index = lines.index {|e| e.include?(end_str)}
   repos = []
   Array(lines[start_index...end_index]).each_with_index do |line, index|
-    if index > 2
+    if index > 2 # 跳过表头
         _, _, repo_info, desc  = line.split('|')
         next if repo_info.nil?
         match = repo_info.match(/\[(.*?)\]/)
         next if match.nil?
-        star_count = get_star_count(match[1])
+        star_count = if repo_stars[match[1]].nil?
+                       get_star_count(match[1])
+                     else
+                       repo_stars[match[1]]
+                     end
+        repo_stars[match[1]] = star_count
         repo = { repo_info: repo_info, desc: desc, star_count:  star_count }
         repos << repo
     end
@@ -56,6 +61,7 @@ end
 
 # 主程序入口
 if __FILE__ == $0
-  update_readme('## 代码库', '## 工具', 'README.md')
-  update_readme('## Repos', '## Tools', 'README.en.md')
+  repo_stars = {} # 缓存star数
+  update_readme('## 代码库', '## 工具', 'README.md', repo_stars)
+  update_readme('## Repos', '## Tools', 'README.en.md', repo_stars)
 end
