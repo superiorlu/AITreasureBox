@@ -35,9 +35,8 @@
 | 25|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs)|Run LLaMA inference on CPU, with Rust|
 | 26| [llmapi-io/small-smart-siri](https://github.com/llmapi-io/small-smart-siri) ![Github stars](https://img.shields.io/github/stars/llmapi-io/small-smart-siri.svg)                                                              |                                                         Access ChatGPT, GPT3 (NewBing, 文心一言 supporting) through Apple shortcut, support continuous dialogue, configure private apikey |
 | 27| [llmapi-io/llmapi-cli](https://github.com/llmapi-io/llmapi-cli) ![Github stars](https://img.shields.io/github/stars/llmapi-io/llmapi-cli.svg)                                                              |                                                         A command-line tool for accessing ChatGPT, GPT3(NewBing、文心一言 supporting), support continuous dialogue, configure private apikey |
-|28|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/xx025/carrot.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
-|29|[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ![Github stars](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg)|Wechat robot based on ChatGPT, which using OpenAI api and itchat library|
-
+| 28|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/xx025/carrot.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
+| 29|[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ![Github stars](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg)|Wechat robot based on ChatGPT, which using OpenAI api and itchat library|
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
