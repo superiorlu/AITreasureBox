@@ -40,21 +40,21 @@ end
 
 # 获取指定仓库的 star 数
 def get_star_count(repo)
-  uri = URI("https://api.github.com/repos/#{repo}")
-  headers = {
-    'User-Agent': 'Mozilla/5.0',
-    'Accept': 'application/vnd.github.v3+json'
-  }
-  Net::HTTP.start(uri.host, uri.port,
-    :use_ssl => uri.scheme == 'https') do |http|
-      request = Net::HTTP::Get.new uri
-      response = http.request request
-    if response.code == '200'
-      result = JSON.parse(response.body)
-      result['stargazers_count']
-    else
-      0
-    end
+  uri = URI.parse("https://api.github.com/repos/#{repo}")
+  http = Net::HTTP.new(uri.host, uri.port)
+  http.use_ssl = true
+
+  request = Net::HTTP::Get.new(uri.request_uri)
+  request['Authorization'] = "Bearer #{ENV['GITHUB_TOKEN']}"
+  request['Accept'] = 'application/vnd.github+json'
+  request['User-Agent'] = 'Mozilla/5.0'
+
+  response = http.request(request)
+  if response.code == '200'
+    result = JSON.parse(response.body)
+    result['stargazers_count']
+  else
+    0
   end
 end
 
