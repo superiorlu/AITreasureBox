@@ -37,20 +37,22 @@
 | 27| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 28| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![Github stars](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
 | 29| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
-| 30|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
-| 31|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
+| 30| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 31| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
+| 32| [civitai/civitai](https://github.com/civitai/civitai) ![Github stars](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
+| 33| [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)  ![Github stars](https://img.shields.io/github/stars/lllyasviel/ControlNet.svg) | A neural network structure to control diffusion models by adding extra conditions|
+
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
 | ----:|:----------------------------------------------- |:------------------------------------------------------------------------------------------- |
 |    1 | [ChatGPT](https://chat.openai.com/chat)         | A sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response |
 |    2 | [DALL·E 2](https://labs.openai.com/) | Create original, realistic images and art from a text description                   |
-|    4 | [Murf AI](https://murf.ai/)                | AI enabled, real people's voices|
-|    5 | [Midjourney](https://www.midjourney.com/)  | An independent research lab that produces an artificial intelligence program under the same name that creates images from textual descriptions, used in [Discord](https://discord.com/)
-|    6 | [Make-A-Video](https://makeavideo.studio/) | Make-A-Video is a state-of-the-art AI system that generates videos from text                                                 |
-
-
-
+|    3 | [Murf AI](https://murf.ai/)                | AI enabled, real people's voices|
+|    4 | [Midjourney](https://www.midjourney.com/)  | An independent research lab that produces an artificial intelligence program under the same name that creates images from textual descriptions, used in [Discord](https://discord.com/)
+|    5 | [Make-A-Video](https://makeavideo.studio/) | Make-A-Video is a state-of-the-art AI system that generates videos from text                                                 |
+|    6 | [Creative Reality™ Studio by D-ID](https://www.d-id.com/creative-reality-studio/)| Use generative AI to create future-facing videos|
+|    7 | [chat.D-ID](https://www.d-id.com/chat/)| The First App Enabling Face-to-Face Conversations with ChatGPT|
 
 ## Website
 | <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |
@@ -58,9 +60,9 @@
 |    1 | [OpenAI](https://openai.com/)              | An artificial intelligence research lab |
 |    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | An AI system that can create realistic images and art from a description in natural language                    | 
 | 3     |                        [Whisper](https://openai.com/research/whisper)                         |          A general-purpose speech recognition model                                                                                |
-
-
-
+| 4| [CivitAI](https://civitai.com/)| A platform that makes it easy for people to share and discover resources for creating AI art|
+| 5|[D-ID](https://www.d-id.com/)| D-ID’s Generative AI enables users to transform any picture or video into extraordinary experiences|
+| 6| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| Text-to-Image Diffusion Models with Ensemble of Expert Denoisers |
 
 ## Report&Paper
 | <div style="width:30px">No</div> | <div style="width:300px">Report&Paper</div>                                                                                                           | <div style="width:400px">Description</div>                                                 |
@@ -69,11 +71,12 @@
 | 2    | [mli/paper-reading](https://github.com/mli/paper-reading)                                                      | Deep learning classics and new papers are read carefully paragraph by paragraph.                        |
 | 3    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | Talking, Drawing and Editing with Visual Foundation Models |
 |   4   |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                          The latest research report and papers from OpenAI                       |
-|5| [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
+| 5    | [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
+| 6    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| Nvidia eDiff-I - New generation of generative AI content creation tool |
 
 ## Video
 
-| <div style="width:30px">No</div> | Video                                                              | Description| 
+| <div style="width:30px">No</div> | Video                                                              | Description|
 |:---- |:---------------------------------------------------------------- | --- |
 | 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | The Machine Learning Specialization Course taught by Dr. Andrew Ng|
 

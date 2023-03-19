@@ -39,6 +39,8 @@
 | 29| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 30|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 | 31|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
+| 32| [civitai/civitai](https://github.com/civitai/civitai) ![Github stars](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
+| 33| [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)  ![Github stars](https://img.shields.io/github/stars/lllyasviel/ControlNet.svg) | 通过添加额外条件来控制扩散模型的神经网络结构 |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
@@ -48,6 +50,8 @@
 |    3 | [Murf AI](https://murf.ai/)                | AI语音生成器：多功能的文字转语音软件                                                     |
 |    4 | [Midjourney](https://www.midjourney.com/)  | 非常棒的文字生成图片AI工具，可以在[Discord](https://discord.com/)中使用                  |
 |    5 | [Make-A-Video](https://makeavideo.studio/) | Meta的一款从文本生成视频的AI的系统                                                 |
+|    6 | [Creative Reality™ Studio by D-ID](https://www.d-id.com/creative-reality-studio/) | 使用生成式人工智能创建面向未来的视频 |
+|    7 | [chat.D-ID](https://www.d-id.com/chat/)| 号称第一个可以通过ChatGPT进行面对面交谈的应用 |
 
 
 ## 网站
@@ -56,8 +60,9 @@
 |    1 | [OpenAI](https://openai.com/)              | OpenAI是一个人工智能研究公司，旨在推动人工智能的发展以及实现更加广泛和深入的人工智能应用 |
 |    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | 一种人工智能系统，可以根据自然语言描述创建逼真的图像和艺术作品                    | 
 | 3     |                        [Whisper](https://openai.com/research/whisper)                         |         一种多功能的语音识别模型，可以转录、识别和翻译多种语言                                                                                    |
-
-
+| 4| [CivitAI](https://civitai.com/)| 一个让人们可以轻松分享和发现创建AI艺术的资源平台|
+| 5|[D-ID](https://www.d-id.com/)| D-ID 的生成式AI可以让用户将任何图片或视频转化为非凡的体验|
+| 6| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| 带有专家去噪器集合的文本到图像扩散模型(Diffusion Models)|
 
 
 ## 文章
@@ -67,7 +72,8 @@
 | 2    | [mli/paper-reading](https://github.com/mli/paper-reading)                                                      | 深度学习经典、新论文逐段精读                         |
 | 3    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
 |   4   |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                            OpenAI最新的研究报告和论文                          |
-|5|[Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta的文本生成视频的论文|
+|5| [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta的文本生成视频的论文|
+| 6    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| 英伟达的eDiff-I论文  |
 
 ## 视频
 
