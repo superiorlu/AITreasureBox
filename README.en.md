@@ -46,7 +46,7 @@
 | ----:|:----------------------------------------------- |:------------------------------------------------------------------------------------------- |
 |    1 | [ChatGPT](https://chat.openai.com/chat)         | A sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response |     
 |    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | An AI system that can create realistic images and art from a description in natural language                    | 
-| 3     |                        [Whisper](https://openai.com/research/whisper)                         |          A general-purpose speech recognition model.                                                                                 |  
+| 3     |                        [Whisper](https://openai.com/research/whisper)                         |          A general-purpose speech recognition model                                                                                |
 
 
 ## Website
@@ -70,9 +70,9 @@
 
 ## Video
 
-| <div style="width:30px">No</div> | Video                                                              | 
-|:---- |:---------------------------------------------------------------- |
-| 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) 
+| <div style="width:30px">No</div> | Video                                                              | Description| 
+|:---- |:---------------------------------------------------------------- | --- |
+| 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | The Machine Learning Specialization Course taught by Dr. Andrew Ng|
 
 
 ## Thanks

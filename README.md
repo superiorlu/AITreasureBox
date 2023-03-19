@@ -46,7 +46,7 @@
 | ----:|:----------------------------------------------- |:------------------------------------------------------------------------------------------- |
 |    1 | [ChatGPT](https://chat.openai.com/chat)         | ChatGPT是一种基于自然语言处理技术的人工智能模型，可以用来回答各种问题、提供建议和进行对话等 |     
 |    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | DALL·E 2是一种人工智能系统，可以根据自然语言描述创建逼真的图像和艺术作品                    | 
-| 3     |                        [Whisper](https://openai.com/research/whisper)                         |         Whisper是一种多功能的语音识别模型，可以转录、识别和翻译多种语言                                                                                    |  
+| 3     |                        [Whisper](https://openai.com/research/whisper)                         |         Whisper是一种多功能的语音识别模型，可以转录、识别和翻译多种语言                                                                                    |
 
 
 ## 网站
@@ -70,9 +70,10 @@
 
 ## 视频
 
-| <div style="width:30px">编号</div> | 视频                                                             | 
-|:---- |:---------------------------------------------------------------- |
-| 1    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) 
+| <div style="width:30px">编号</div> | 视频                                                             | 介绍| 
+|:---- |:---------------------------------------------------------------- | ---- |
+| 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | 由[Andrew Ng](https://www.coursera.org/instructor/andrewng)博士讲的机器学习专项课程 |
+| 2    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | 李沐老师的AI论文精读和机器学习课程 |
 
 
 ## 感谢
