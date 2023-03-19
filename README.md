@@ -38,8 +38,7 @@
 | 28| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 29|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 | 30|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
-| 31| [llmapi-io/small-smart-siri](https://github.com/llmapi-io/small-smart-siri) ![Github stars](https://img.shields.io/github/stars/llmapi-io/small-smart-siri.svg)                                                              |                                                         通过苹果捷径接入ChatGPT、GPT3(NewBing、文心一言接入中)，支持连续对话，配置apikey，无需魔法和openai账号 |
-| 32| [llmapi-io/llmapi-cli](https://github.com/llmapi-io/llmapi-cli) ![Github stars](https://img.shields.io/github/stars/llmapi-io/llmapi-cli.svg)                                                              |                                                         一个接入ChatGPT、GPT3(NewBing、文心一言接入中)的命令行工具，支持连续对话，配置apikey，无需魔法和openai账号 |
+| 31|[huggingface/transformers](https://github.com/huggingface/transformers) ![Github stars](https://img.shields.io/github/stars/huggingface/transformers.svg) | 为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理 |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
