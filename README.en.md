@@ -37,6 +37,7 @@
 | 27|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
 | 28| [llmapi-io/small-smart-siri](https://github.com/llmapi-io/small-smart-siri) ![Github stars](https://img.shields.io/github/stars/llmapi-io/small-smart-siri.svg)                                                              |                                                         Access ChatGPT, GPT3 (NewBing, 文心一言 supporting) through Apple shortcut, support continuous dialogue, configure private apikey |
 | 29| [llmapi-io/llmapi-cli](https://github.com/llmapi-io/llmapi-cli) ![Github stars](https://img.shields.io/github/stars/llmapi-io/llmapi-cli.svg)                                                              |                                                         A command-line tool for accessing ChatGPT, GPT3(NewBing、文心一言 supporting), support continuous dialogue, configure private apikey |
+|30|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)![Github stars](https://img.shields.io/github/stars/tloen/alpaca-lora.svg)          | Instruct-tune LLaMA on consumer hardware|
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 

@@ -37,6 +37,7 @@
 | 27|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
 | 28| [llmapi-io/small-smart-siri](https://github.com/llmapi-io/small-smart-siri) ![Github stars](https://img.shields.io/github/stars/llmapi-io/small-smart-siri.svg)                                                              |                                                         通过苹果捷径接入ChatGPT、GPT3(NewBing、文心一言接入中)，支持连续对话，配置apikey，无需魔法和openai账号 |
 | 29| [llmapi-io/llmapi-cli](https://github.com/llmapi-io/llmapi-cli) ![Github stars](https://img.shields.io/github/stars/llmapi-io/llmapi-cli.svg)                                                              |                                                         一个接入ChatGPT、GPT3(NewBing、文心一言接入中)的命令行工具，支持连续对话，配置apikey，无需魔法和openai账号 |
+|30|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)![Github stars](https://img.shields.io/github/stars/tloen/alpaca-lora.svg)          | 在个人电子设备硬件上调整LLaMA|
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
