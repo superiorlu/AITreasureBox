@@ -8,7 +8,7 @@
 ## Repos
 | <div style="width:30px">No</div> | <div style="width:350px">Repos</div>       |  <div style="width:400px">Description</div>  |
 | ----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
-| 1|[huggingface/transformers](https://github.com/huggingface/transformers) ![Github stars](https://img.shields.io/github/stars/microsoft/huggingface/transformers.svg) | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
+| 1|[huggingface/transformers](https://github.com/huggingface/transformers) ![Github stars](https://img.shields.io/github/stars/huggingface/transformers.svg) | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
 | 2|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![Github stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg) |A browser interface based on Gradio library for Stable Diffusion|
 | 3| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)      ![Github stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg)                                       |                                                                            This repo includes ChatGPT prompt curation to use ChatGPT better. |
 | 4| [lencx/ChatGPT](https://github.com/lencx/ChatGPT)        ![Github stars](https://img.shields.io/github/stars/lencx/ChatGPT.svg)                                                                       |                                                   ChatGPT Desktop Application (Mac, Windows and Linux) |
@@ -43,18 +43,21 @@
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
 | ----:|:----------------------------------------------- |:------------------------------------------------------------------------------------------- |
-|    1 | [ChatGPT](https://chat.openai.com/chat)         | A sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response |     
-|    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | An AI system that can create realistic images and art from a description in natural language                    | 
-| 3     |                        [Whisper](https://openai.com/research/whisper)                         |          A general-purpose speech recognition model                                                                                |
+|    1 | [ChatGPT](https://chat.openai.com/chat)         | A sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response |
+|    2 | [DALL·E 2](https://labs.openai.com/) | Create original, realistic images and art from a text description                   |
+|    4 | [Murf AI](https://murf.ai/)                | AI enabled, real people's voices|
+|    5 | [Midjourney](https://www.midjourney.com/)  | An independent research lab that produces an artificial intelligence program under the same name that creates images from textual descriptions, used in [Discord](https://discord.com/)
+|    6 | [Make-A-Video](https://makeavideo.studio/) | Make-A-Video is a state-of-the-art AI system that generates videos from text                                                 |
+
+
 
 
 ## Website
 | <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |
 | ----:|:------------------------------------------ |:---------------------------------------------------------------------------------------- |
 |    1 | [OpenAI](https://openai.com/)              | An artificial intelligence research lab |
-|    2 | [Murf AI](https://murf.ai/)                | AI enabled, real people's voices|
-|    3 | [Midjourney](https://www.midjourney.com/)  | An independent research lab that produces an artificial intelligence program under the same name that creates images from textual descriptions, used in [Discord](https://discord.com/)
-|    4 | [Make-A-Video](https://makeavideo.studio/) | Make-A-Video is a state-of-the-art AI system that generates videos from text                                                 |
+|    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | An AI system that can create realistic images and art from a description in natural language                    | 
+| 3     |                        [Whisper](https://openai.com/research/whisper)                         |          A general-purpose speech recognition model                                                                                |
 
 
 
@@ -64,8 +67,9 @@
 |:---- |:-------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------- |
 | 1    | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)                                              | GPT-4 Technical Report                              |
 | 2    | [mli/paper-reading](https://github.com/mli/paper-reading)                                                      | Deep learning classics and new papers are read carefully paragraph by paragraph.                        |
-| 3    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | Talking, Drawing and Editing with Visual Foundation Models |
+| 3    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | Talking, Drawing and Editing with Visual Foundation Models |
 |   4   |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                          The latest research report and papers from OpenAI                       |
+|5|[Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
 
 ## Video
 

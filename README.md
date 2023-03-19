@@ -43,18 +43,19 @@
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
 | ----:|:----------------------------------------------- |:------------------------------------------------------------------------------------------- |
-|    1 | [ChatGPT](https://chat.openai.com/chat)         | ChatGPT是一种基于自然语言处理技术的人工智能模型，可以用来回答各种问题、提供建议和进行对话等 |     
-|    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | DALL·E 2是一种人工智能系统，可以根据自然语言描述创建逼真的图像和艺术作品                    | 
-| 3     |                        [Whisper](https://openai.com/research/whisper)                         |         Whisper是一种多功能的语音识别模型，可以转录、识别和翻译多种语言                                                                                    |
+|    1 | [ChatGPT](https://chat.openai.com/chat)         | 一种基于自然语言处理技术的人工智能模型，可以用来回答各种问题、提供建议和进行对话等 |
+|    2 | [DALL·E 2](https://labs.openai.com/) | 从文本描述中创建原创、逼真的图像和艺术作品                  |
+|    3 | [Murf AI](https://murf.ai/)                | AI语音生成器：多功能的文字转语音软件                                                     |
+|    4 | [Midjourney](https://www.midjourney.com/)  | 非常棒的文字生成图片AI工具，可以在[Discord](https://discord.com/)中使用                  |
+|    5 | [Make-A-Video](https://makeavideo.studio/) | Meta的一款从文本生成视频的AI的系统                                                 |
 
 
 ## 网站
 | <div style="width:30px">编号</div>  | <div style="width:150px">网站</div>                                       | 介绍                                                                                     |
 | ----:|:------------------------------------------ |:---------------------------------------------------------------------------------------- |
 |    1 | [OpenAI](https://openai.com/)              | OpenAI是一个人工智能研究公司，旨在推动人工智能的发展以及实现更加广泛和深入的人工智能应用 |
-|    2 | [Murf AI](https://murf.ai/)                | AI语音生成器：多功能的文字转语音软件                                                     |
-|    3 | [Midjourney](https://www.midjourney.com/)  | 非常棒的文字生成图片AI工具，可以在[Discord](https://discord.com/)中使用                  |
-|    4 | [Make-A-Video](https://makeavideo.studio/) | Meta的一款从文本生成视频的AI的系统                                                 |
+|    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | 一种人工智能系统，可以根据自然语言描述创建逼真的图像和艺术作品                    | 
+| 3     |                        [Whisper](https://openai.com/research/whisper)                         |         一种多功能的语音识别模型，可以转录、识别和翻译多种语言                                                                                    |
 
 
 
@@ -65,13 +66,14 @@
 | 1    | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)                                              | 一份官方介绍GPT-4的报告                              |
 | 2    | [mli/paper-reading](https://github.com/mli/paper-reading)                                                      | 深度学习经典、新论文逐段精读                         |
 | 3    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
-|   4   |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                            OpenAI最新的研究报告和论文                          | 
+|   4   |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                            OpenAI最新的研究报告和论文                          |
+|5|[Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta的文本生成视频的论文|
 
 ## 视频
 
 | <div style="width:30px">编号</div> | 视频                                                             | 介绍| 
 |:---- |:---------------------------------------------------------------- | ---- |
-| 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | 由[Andrew Ng](https://www.coursera.org/instructor/andrewng)博士讲的机器学习专项课程 |
+| 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | [Andrew Ng](https://www.coursera.org/instructor/andrewng)博士讲的机器学习专项课程 |
 | 2    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | 李沐老师的AI论文精读和机器学习课程 |
 
 
