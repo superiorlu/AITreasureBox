@@ -69,7 +69,7 @@
 | 2    | [mli/paper-reading](https://github.com/mli/paper-reading)                                                      | Deep learning classics and new papers are read carefully paragraph by paragraph.                        |
 | 3    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | Talking, Drawing and Editing with Visual Foundation Models |
 |   4   |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                          The latest research report and papers from OpenAI                       |
-|5|[Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
+|5| [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
 
 ## Video
 

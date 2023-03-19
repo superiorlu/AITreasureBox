@@ -73,8 +73,8 @@
 
 | <div style="width:30px">编号</div> | 视频                                                             | 介绍| 
 |:---- |:---------------------------------------------------------------- | ---- |
-| 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | [Andrew Ng](https://www.coursera.org/instructor/andrewng)博士讲的机器学习专项课程 |
-| 2    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | 李沐老师的AI论文精读和机器学习课程 |
+| 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | [Andrew Ng](https://www.coursera.org/instructor/andrewng) 博士讲的机器学习专项课程 |
+| 2    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | [李沐](https://zh.wikipedia.org/wiki/李沐_(科学家)) 老师的AI论文精读和机器学习课程 |
 
 
 ## 感谢
