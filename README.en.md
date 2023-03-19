@@ -1,7 +1,9 @@
 # AI TreasureBox
 
-> Collect practical AI tools and websites.
-> Some parts of this article are translated from ChatGPT.
+> Collect practical AI tools and websites. <br/>
+> Translated from ChatGPT, Picture from Midjourney.
+
+<img style="margin: 0 auto;" src="AiTreasureBox.png" height=400 width=850 />
 
 [中文](README.md) | [English](README.en.md)
 
