@@ -56,6 +56,8 @@
 |    5 | [Make-A-Video](https://makeavideo.studio/) | Meta的一款从文本生成视频的AI的系统                                                 |
 |    6 | [Creative Reality™ Studio by D-ID](https://www.d-id.com/creative-reality-studio/) | 使用生成式人工智能创建面向未来的视频 |
 |    7 | [chat.D-ID](https://www.d-id.com/chat/)| 号称第一个可以通过ChatGPT进行面对面交谈的应用 |
+|    8 | [Notion AI](https://www.notion.so/product/ai/)| 通过AI协助大大提升写作效率 |
+
 
 
 ## 网站

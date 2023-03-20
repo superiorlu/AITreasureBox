@@ -56,6 +56,7 @@
 |    5 | [Make-A-Video](https://makeavideo.studio/) | Make-A-Video is a state-of-the-art AI system that generates videos from text                                                 |
 |    6 | [Creative Reality™ Studio by D-ID](https://www.d-id.com/creative-reality-studio/)| Use generative AI to create future-facing videos|
 |    7 | [chat.D-ID](https://www.d-id.com/chat/)| The First App Enabling Face-to-Face Conversations with ChatGPT|
+|    8 | [Notion AI](https://www.notion.so/product/ai/)| Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. |
 
 ## Website
 | <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |
