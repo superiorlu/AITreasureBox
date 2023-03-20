@@ -44,6 +44,7 @@
 | 32| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 33| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 | 34| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
+| 35|[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) ![Github stars](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg)|High-Resolution Image Synthesis with Latent Diffusion Models|
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 

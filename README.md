@@ -44,6 +44,7 @@
 | 32| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 33|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 | 34|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
+| 35|[Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) ![Github stars](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg)|使用潜在扩散模型进行高分辨率图像合成|
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
