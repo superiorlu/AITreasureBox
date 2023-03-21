@@ -71,6 +71,7 @@
 | 4| [CivitAI](https://civitai.com/)| 一个让人们可以轻松分享和发现创建AI艺术的资源平台|
 | 5|[D-ID](https://www.d-id.com/)| D-ID 的生成式AI可以让用户将任何图片或视频转化为非凡的体验|
 | 6| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| 带有专家去噪器集合的文本到图像扩散模型(Diffusion Models)|
+| 7| [Stability AI](https://stability.ai/)| 世界领先的开源生成人工智能公司，开源了Stable Diffusion|
 
 
 ## 文章

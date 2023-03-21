@@ -69,6 +69,8 @@
 | 4| [CivitAI](https://civitai.com/)| A platform that makes it easy for people to share and discover resources for creating AI art|
 | 5|[D-ID](https://www.d-id.com/)| D-ID’s Generative AI enables users to transform any picture or video into extraordinary experiences|
 | 6| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| Text-to-Image Diffusion Models with Ensemble of Expert Denoisers |
+| 7| [Stability AI](https://stability.ai/)| The world's leading open source generative AI company which opened source Stable Diffusion |
+
 
 ## Report&Paper
 | <div style="width:30px">No</div> | <div style="width:300px">Report&Paper</div>                                                                                                           | <div style="width:400px">Description</div>                                                 |
