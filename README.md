@@ -40,14 +40,13 @@
 | 28| [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) ![Github stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT.svg)| 为ChatGPT API提供了一个轻快好用的Web图形界面|
 | 29| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![Github stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
 | 30|[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![Github stars](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
-| 31| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![Github stars](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
-| 32| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
-| 33| [civitai/civitai](https://github.com/civitai/civitai) ![Github stars](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
-| 34| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
-| 35|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
-| 36|[keijiro/AICommand](https://github.com/keijiro/AICommand) ![Github stars](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
-| 37|[TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![Github stars](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
-
+| 31|[TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![Github stars](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
+| 32| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![Github stars](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
+| 33| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
+| 34| [civitai/civitai](https://github.com/civitai/civitai) ![Github stars](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
+| 35| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
+| 36|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
+| 37|[keijiro/AICommand](https://github.com/keijiro/AICommand) ![Github stars](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
