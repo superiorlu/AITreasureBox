@@ -45,8 +45,8 @@
 | 33| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 34| [civitai/civitai](https://github.com/civitai/civitai) ![Github stars](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
 | 35| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
-| 36|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
-| 37|[keijiro/AICommand](https://github.com/keijiro/AICommand) ![Github stars](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
+| 36|[keijiro/AICommand](https://github.com/keijiro/AICommand) ![Github stars](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
+| 37|[setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 

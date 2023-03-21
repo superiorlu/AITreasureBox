@@ -45,8 +45,8 @@
 | 33| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 34| [civitai/civitai](https://github.com/civitai/civitai) ![Github stars](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 35| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
-| 36| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
-| 37|[keijiro/AICommand](https://github.com/keijiro/AICommand) ![Github stars](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
+| 36|[keijiro/AICommand](https://github.com/keijiro/AICommand) ![Github stars](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
+| 37| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
