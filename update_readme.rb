@@ -22,7 +22,8 @@ def update_readme(start_str, end_str, file_name, repo_stars)
                        repo_stars[match[1]]
                      end
         repo_stars[match[1]] = star_count
-        repo = { repo_info: repo_info, desc: desc, star_count:  star_count }
+        repo_info = repo_info.match(/\[(.*?)\].*/)
+        repo = { repo_info: repo_info[0], desc: desc, star_count:  star_count, original_index: index - 2 }
         repos << repo
     end
   end
@@ -31,11 +32,24 @@ def update_readme(start_str, end_str, file_name, repo_stars)
   new_readme << lines[0..(start_index + 2)].join
   repos.sort_by!{ |r| -r[:star_count] }
   repos.each_with_index do |repo, index|
-    line = format("| %i|%s|%s|\n", index + 1, repo[:repo_info], repo[:desc])
+    now_index = index + 1
+    line = format("| %i|%s %s|%s|\n", now_index, arrow_style(file_name, repo[:original_index], now_index), repo[:repo_info], repo[:desc])
     new_readme << line
   end
   new_readme << lines[end_index..-1].join
   File.write(file_name, new_readme)
+end
+
+# 计算arrow样式
+def arrow_style(file_name, original_index, now_index)
+  return nil if now_index == original_index
+  style = ''
+  if file_name == 'README.md'
+    style = now_index < original_index ? '<span class="red-up-arrow"></span>' : '<span class="green-down-arrow"></span>'
+  else
+    style = now_index < original_index ? '<span class="green-up-arrow"></span>' : '<span class="red-down-arrow"></span>'
+  end
+  style
 end
 
 # 获取指定仓库的 star 数
