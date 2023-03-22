@@ -51,8 +51,8 @@
 | 36| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 37| [civitai/civitai](https://github.com/civitai/civitai) ![Github stars](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 38| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
-| 39| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
-| 40| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![Github stars](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
+|![](./images/green-up-arrow.svg) 39| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![Github stars](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
+|![](./images/red-down-arrow.svg) 40| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 | 41| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ![Github stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg)| A ChatGPT clone for running locally in your browser |
 ## Tools
 
