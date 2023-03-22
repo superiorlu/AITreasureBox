@@ -9,6 +9,9 @@
 
 [中文](README.md) | [English](README.en.md)
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/superiorlu/AiTreasureBox)
+
 ## Repos
 | <div style="width:30px">No</div> | <div style="width:350px">Repos</div>       |  <div style="width:400px">Description</div>  |
 | ----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
