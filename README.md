@@ -52,6 +52,7 @@
 |37| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 |38| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 |39| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ![Github stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg)| 可在浏览器本地运行一个ChatGPT克隆版 |
+| 40| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ![Github stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide.svg)| 提示工程的指南、论文、讲座和资源 |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
