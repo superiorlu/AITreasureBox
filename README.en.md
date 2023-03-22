@@ -53,6 +53,8 @@
 |38| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 |39| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 |40| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ![Github stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg)| A ChatGPT clone for running locally in your browser |
+|41| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![Github stars](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
+
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
