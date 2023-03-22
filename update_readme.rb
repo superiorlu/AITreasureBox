@@ -32,7 +32,7 @@ def update_readme(start_str, end_str, file_name, repo_stars)
   repos.sort_by!{ |r| -r[:star_count] }
   repos.each_with_index do |repo, index|
     now_index = index + 1
-    line = format("|%s%i|%s|%s|\n", arrow_style(file_name, repo[:original_index], now_index), now_index, repo[:repo_info], repo[:desc])
+    line = format("|%s %i|%s|%s|\n", arrow_style(file_name, repo[:original_index], now_index), now_index, repo[:repo_info], repo[:desc])
     new_readme << line
   end
   new_readme << lines[end_index..-1].join
@@ -44,9 +44,9 @@ def arrow_style(file_name, original_index, now_index)
   return nil if now_index == original_index
   style = ' '
   if file_name == 'README.md'
-    style = now_index < original_index ? '<span style="color: red;">&#x2191;</span>' : '<span style="color: green;">&#x2193;</span>'
+    style = now_index < original_index ? '![](./images/red-up-arrow.svg)' : '![](./images/green-down-arrow.svg)'
   else
-    style = now_index < original_index ? '<span style="color: green;">&#x2191;</span>' : '<span style="color: red;">&#x2193;</span>'
+    style = now_index < original_index ? '![](./images/green-up-arrow.svg)' : '![](./images/red-down-arrow.svg)'
   end
   style
 end
