@@ -1,9 +1,10 @@
-# 代码部分来自ChatGPT
+# partial code from ChatGPT
 require 'net/http'
 require 'uri'
 require 'json'
+require 'date'
 
-# 更新 README 指定范围内容
+# update README scope content
 def update_readme(start_str, end_str, file_name, repo_stars)
   readme = File.read(file_name)
   lines = readme.lines
@@ -11,18 +12,23 @@ def update_readme(start_str, end_str, file_name, repo_stars)
   end_index = lines.index {|e| e.include?(end_str)}
   repos = []
   Array(lines[start_index...end_index]).each_with_index do |line, index|
-    if index > 2 # 跳过表头
+    if index > 2 # skip head of table
         _, _, repo_info, desc  = line.split('|')
         next if repo_info.nil?
-        match = repo_info.match(/\[(.*?)\]/)
-        next if match.nil?
-        star_count = if repo_stars[match[1]].nil?
-                       get_star_count(match[1])
+        repo_info.gsub!('🔥', '') # reset fire
+        match = repo_info.scan(/\[(.*?)\]/).flatten
+        next if match.empty?
+        star_count = if repo_stars[match[0]].nil?
+                       get_star_count(match[0])
                      else
-                       repo_stars[match[1]]
+                       repo_stars[match[0]]
                      end
-        repo_stars[match[1]] = star_count
-        repo = { repo_info: repo_info, desc: desc, star_count:  star_count, original_index: index - 2 }
+        repo_stars[match[0]] = star_count
+        change_stars = 0
+        date, total_stars, change_stars = sync_today_stars(match[1], star_count)
+        star_info = format("%s_%s_%s", date, total_stars, change_stars)
+        repo_info.sub!(match[1], star_info)
+        repo = { repo_info: repo_info, desc: desc, star_count:  star_count, change_stars: change_stars.to_i, original_index: index - 2 }
         repos << repo
     end
   end
@@ -32,14 +38,17 @@ def update_readme(start_str, end_str, file_name, repo_stars)
   repos.sort_by!{ |r| -r[:star_count] }
   repos.each_with_index do |repo, index|
     now_index = index + 1
-    line = format("|%s %i|%s|%s|\n", arrow_style(file_name, repo[:original_index], now_index), now_index, repo[:repo_info], repo[:desc])
+    line = format("|%s %i|%s%s|%s|\n", 
+      arrow_style(file_name, repo[:original_index], now_index), now_index, 
+      popularity_style(repo[:change_stars], 200), repo[:repo_info], repo[:desc]
+    )
     new_readme << line
   end
   new_readme << lines[end_index..-1].join
   File.write(file_name, new_readme)
 end
 
-# 计算arrow样式
+# cumulate arrow style
 def arrow_style(file_name, original_index, now_index)
   return nil if now_index == original_index
   style = ' '
@@ -51,7 +60,26 @@ def arrow_style(file_name, original_index, now_index)
   style
 end
 
-# 获取指定仓库的 star 数
+# code popularity
+def popularity_style(change_stars, threshold)
+  change_stars < threshold ? "" : "🔥"
+end
+
+# cumulate stars changes
+def sync_today_stars(info, new_stars)
+  if info.nil? || !info.include?('_')
+    [Date.today.to_s, new_stars, 0]
+  else
+    date, total_stars, change_stars = info.split('_')
+    if date != Time.now.to_date.to_s
+      change_stars = 0
+    end
+    change_stars = change_stars.to_i + (new_stars.to_i - total_stars.to_i)
+    [Date.today.to_s, new_stars, change_stars]
+  end
+end
+
+# fetch star count from github api
 def get_star_count(repo)
   uri = URI.parse("https://api.github.com/repos/#{repo}")
   http = Net::HTTP.new(uri.host, uri.port)
@@ -71,10 +99,9 @@ def get_star_count(repo)
   end
 end
 
-
-# 主程序入口
+# main
 if __FILE__ == $0
-  repo_stars = {} # 缓存star数
+  repo_stars = {} # cache stars
   update_readme('## 代码库', '## 工具', 'README.md', repo_stars)
   update_readme('## Repos', '## Tools', 'README.en.md', repo_stars)
 end
