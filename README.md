@@ -3,7 +3,7 @@
 > 整理实用的AI工具和网站，打造一个实用的AI百宝箱。<br/>
 > 本文部分内容通过ChatGPT翻译，Midjourney生成图片。
 
-<img style="margin: 0 auto;" src="AiTreasureBox.png" height=400 width=850 />
+<img style="margin: 0 auto;" src="AiTreasureBox.webp" height=400 width=850 />
 
 [中文](README.md) | [English](README.en.md)
 

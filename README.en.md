@@ -3,7 +3,7 @@
 > Collect practical AI tools and websites. <br/>
 > Translated from ChatGPT, Picture from Midjourney.
 
-<img style="margin: 0 auto;" src="AiTreasureBox.png" height=400 width=850 />
+<img style="margin: 0 auto;" src="AiTreasureBox.webp" height=400 width=850 />
 
 [中文](README.md) | [English](README.en.md)
 
