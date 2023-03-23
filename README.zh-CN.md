@@ -59,8 +59,8 @@
 | 39| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-03-23_2089_2](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 40| [civitai/civitai](https://github.com/civitai/civitai) ![2023-03-23_2076_6](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
 | 41| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-23_1835_5](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
-|![](./images/red-up-arrow.svg) 42|2023-03-23_901_0 [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) ![](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin.svg)| 插件是专门为像ChatGPT这样的语言模型设计的聊天扩展，使它们能够访问最新信息、运行计算或与第三方服务交互以响应用户请求|
-|![](./images/green-down-arrow.svg) 43| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![2023-03-23_0_-1815](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
+|![](./images/red-up-arrow.svg) 42| [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) ![2023-03-23_901_0](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin.svg)| 插件是专门为像ChatGPT这样的语言模型设计的聊天扩展，使它们能够访问最新信息、运行计算或与第三方服务交互以响应用户请求|
+|![](./images/green-down-arrow.svg) 43| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![2023-03-23_1815_0](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
