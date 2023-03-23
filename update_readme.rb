@@ -71,7 +71,7 @@ def sync_today_stars(info, new_stars)
     [Date.today.to_s, new_stars, 0]
   else
     date, total_stars, change_stars = info.split('_')
-    if date != Time.now.to_date.to_s
+    if date != Date.today.to_s
       change_stars = 0
     end
     change_stars = change_stars.to_i + (new_stars.to_i - total_stars.to_i)

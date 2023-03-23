@@ -60,7 +60,7 @@
 | 40| [civitai/civitai](https://github.com/civitai/civitai) ![2023-03-23_2076_6](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 41| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-23_1835_5](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 42| [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) ![2023-03-23_910_9](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin.svg)| Plugins are chat extensions designed specifically for language models like ChatGPT, enabling them to access up-to-date information, run computations, or interact with third-party services in response to a user's request.|
-| 43| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![2023-03-23_0_-1815](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 43| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-23_1815_0](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
