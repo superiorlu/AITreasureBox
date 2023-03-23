@@ -71,12 +71,14 @@
 | <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |
 | ----:|:------------------------------------------ |:---------------------------------------------------------------------------------------- |
 |    1 | [OpenAI](https://openai.com/)              | An artificial intelligence research lab |
-|    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | An AI system that can create realistic images and art from a description in natural language                    | 
-| 3     |                        [Whisper](https://openai.com/research/whisper)                         |          A general-purpose speech recognition model                                                                                |
-| 4| [CivitAI](https://civitai.com/)| A platform that makes it easy for people to share and discover resources for creating AI art|
-| 5|[D-ID](https://www.d-id.com/)| D-ID’s Generative AI enables users to transform any picture or video into extraordinary experiences|
-| 6| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| Text-to-Image Diffusion Models with Ensemble of Expert Denoisers |
-| 7| [Stability AI](https://stability.ai/)| The world's leading open source generative AI company which opened source Stable Diffusion |
+|    2 | [Bard](https://bard.google.com/)              | Base Google's LaMDA chatbots and pull from internet |
+|    3 | [ERNIE Bot](https://yiyan.baidu.com/)         | Baidu’s new generation knowledge-enhanced large language model is a new member of the Wenxin large model family |
+|    4 | [DALL·E 2](https://openai.com/product/dall-e-2) | An AI system that can create realistic images and art from a description in natural language                    | 
+| 5     | [Whisper](https://openai.com/research/whisper)                         |          A general-purpose speech recognition model                                                                                |
+| 6| [CivitAI](https://civitai.com/)| A platform that makes it easy for people to share and discover resources for creating AI art|
+| 7|[D-ID](https://www.d-id.com/)| D-ID’s Generative AI enables users to transform any picture or video into extraordinary experiences|
+| 8| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| Text-to-Image Diffusion Models with Ensemble of Expert Denoisers |
+| 9| [Stability AI](https://stability.ai/)| The world's leading open source generative AI company which opened source Stable Diffusion |
 
 
 ## Report&Paper

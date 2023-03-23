@@ -73,12 +73,14 @@
 | <div style="width:30px">编号</div>  | <div style="width:150px">网站</div>                                       | 介绍                                                                                     |
 | ----:|:------------------------------------------ |:---------------------------------------------------------------------------------------- |
 |    1 | [OpenAI](https://openai.com/)              | OpenAI是一个人工智能研究公司，旨在推动人工智能的发展以及实现更加广泛和深入的人工智能应用 |
-|    2 | [DALL·E 2](https://openai.com/product/dall-e-2) | 一种人工智能系统，可以根据自然语言描述创建逼真的图像和艺术作品                    | 
-| 3     |                        [Whisper](https://openai.com/research/whisper)                         |         一种多功能的语音识别模型，可以转录、识别和翻译多种语言                                                                                    |
-| 4| [CivitAI](https://civitai.com/)| 一个让人们可以轻松分享和发现创建AI艺术的资源平台|
-| 5|[D-ID](https://www.d-id.com/)| D-ID 的生成式AI可以让用户将任何图片或视频转化为非凡的体验|
-| 6| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| 带有专家去噪器集合的文本到图像扩散模型(Diffusion Models)|
-| 7| [Stability AI](https://stability.ai/)| 世界领先的开源生成人工智能公司，开源了Stable Diffusion|
+|    2 | [Bard](https://bard.google.com/)              | Google出品的人工智能聊天AI，可实时从互联网获取数据 |
+|    3 | [文心一言](https://yiyan.baidu.com/)              | 百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作等 |
+|    4 | [DALL·E 2](https://openai.com/product/dall-e-2) | 一种人工智能系统，可以根据自然语言描述创建逼真的图像和艺术作品                    | 
+| 5     |                        [Whisper](https://openai.com/research/whisper)                         |         一种多功能的语音识别模型，可以转录、识别和翻译多种语言                                                                                    |
+| 6| [CivitAI](https://civitai.com/)| 一个让人们可以轻松分享和发现创建AI艺术的资源平台|
+| 7|[D-ID](https://www.d-id.com/)| D-ID 的生成式AI可以让用户将任何图片或视频转化为非凡的体验|
+| 8| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| 带有专家去噪器集合的文本到图像扩散模型(Diffusion Models)|
+| 9| [Stability AI](https://stability.ai/)| 世界领先的开源生成人工智能公司，开源了Stable Diffusion|
 
 
 ## 文章
