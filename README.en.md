@@ -67,6 +67,9 @@
 |    6 | [Creative Reality™ Studio by D-ID](https://www.d-id.com/creative-reality-studio/)| Use generative AI to create future-facing videos|
 |    7 | [chat.D-ID](https://www.d-id.com/chat/)| The First App Enabling Face-to-Face Conversations with ChatGPT|
 |    8 | [Notion AI](https://www.notion.so/product/ai/)| Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. |
+|    9 | [Runway](https://runwayml.com/)| Text to Video with Gen-2 |
+|    10 | [Resemble AI](https://www.resemble.ai/)| Resemble’s AI voice generator lets you create human–like voice overs in seconds |
+|    11 | [Cursor](https://www.cursor.so/)| Write, edit, and chat about your code with a powerful AI |
 
 ## Website
 | <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |

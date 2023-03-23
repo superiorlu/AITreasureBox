@@ -67,6 +67,9 @@
 |    6 | [Creative Reality™ Studio by D-ID](https://www.d-id.com/creative-reality-studio/) | 使用生成式人工智能创建面向未来的视频 |
 |    7 | [chat.D-ID](https://www.d-id.com/chat/)| 号称第一个可以通过ChatGPT进行面对面交谈的应用 |
 |    8 | [Notion AI](https://www.notion.so/product/ai/)| 通过AI协助大大提升写作效率 |
+|    9 | [Runway](https://runway.com/)| 通过AI可文字生成视频 |
+|    10 | [Resemble AI](https://www.resemble.ai/)| 通过AI克隆你的声音 |
+|    11 | [Cursor](https://www.cursor.so/)| 强大的人工智能编写、编辑代码工具 |
 
 
 
