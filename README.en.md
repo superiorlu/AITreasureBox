@@ -54,6 +54,7 @@
 | 39| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ![Github stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg)| A ChatGPT clone for running locally in your browser |
 | 40| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 41| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 42| [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) ![Github stars](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg)| An open-source GitHub Copilot server |
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
