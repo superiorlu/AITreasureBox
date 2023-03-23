@@ -1,10 +1,10 @@
 # AI TreasureBox
 
-<picture>
-  <img style="margin: 0 auto;" src="AiTreasureBox.webp" height=400 width=850 />
-</picture>
 <p align="center">
-    <br> English | <a href="README.zh-CN">中文</a>
+  <img src="AiTreasureBox.webp" height=400 width=850 />
+</p>
+<p align="center">
+    <br> English | <a href="README.zh-CN.md">中文</a>
 </p>
 <p align="center">
     <em>Collect practical AI tools, websites, papers and tutorials on AI.</em><br/>

@@ -1,8 +1,8 @@
 # AI 百宝箱
 
-<picture>
-  <img style="margin: 0 auto;" src="AiTreasureBox.webp" height=400 width=850 />
-</picture>
+<p align="center">
+  <img src="AiTreasureBox.webp" height=400 width=850 />
+</p>
 <p align="center">
     <br> <a href="README.md">English</a> | 中文
 </p>
