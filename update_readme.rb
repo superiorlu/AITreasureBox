@@ -53,9 +53,9 @@ def arrow_style(file_name, original_index, now_index)
   return nil if now_index == original_index
   style = ' '
   if file_name == 'README.md'
-    style = now_index < original_index ? '![](./images/red-up-arrow.svg)' : '![](./images/green-down-arrow.svg)'
-  else
     style = now_index < original_index ? '![](./images/green-up-arrow.svg)' : '![](./images/red-down-arrow.svg)'
+  else
+    style = now_index < original_index ? '![](./images/red-up-arrow.svg)' : '![](./images/green-down-arrow.svg)'
   end
   style
 end
@@ -102,6 +102,6 @@ end
 # main
 if __FILE__ == $0
   repo_stars = {} # cache stars
-  update_readme('## 代码库', '## 工具', 'README.md', repo_stars)
-  update_readme('## Repos', '## Tools', 'README.en.md', repo_stars)
+  update_readme('## Repos', '## Tools', 'README.md', repo_stars)
+  update_readme('## 代码库', '## 工具', 'README.zh-CN.md', repo_stars)
 end
