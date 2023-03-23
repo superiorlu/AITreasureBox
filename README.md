@@ -50,10 +50,10 @@
 | 35| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![Github stars](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 36| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![Github stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 37| [civitai/civitai](https://github.com/civitai/civitai) ![Github stars](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
-| 38| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
-|![](./images/red-up-arrow.svg) 39| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![Github stars](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
-|![](./images/green-down-arrow.svg) 40| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
-| 41| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ![Github stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg)| 可在浏览器本地运行一个ChatGPT克隆版 |
+|![](./images/red-up-arrow.svg) 38| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![Github stars](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
+|![](./images/red-up-arrow.svg) 39| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ![Github stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg)| 可在浏览器本地运行一个ChatGPT克隆版 |
+|![](./images/green-down-arrow.svg) 40| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![Github stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
+|![](./images/green-down-arrow.svg) 41| [setzer22/llama-rs](https://github.com/setzer22/llama-rs) ![Github stars](https://img.shields.io/github/stars/setzer22/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
