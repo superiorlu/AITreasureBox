@@ -1,7 +1,7 @@
 # AI 百宝箱
 
 <p align="center">
-  <img src="AiTreasureBox.webp" height=400 width=850 />
+  <img src="https://user-images.githubusercontent.com/1154692/227428291-df9e62d9-b558-411b-afac-d55733f0a617.png" height=400 width=850 />
 </p>
 <p align="center">
     <br> <a href="README.md">English</a> | 中文
