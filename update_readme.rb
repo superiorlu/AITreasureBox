@@ -62,7 +62,10 @@ end
 
 # code popularity
 def popularity_style(change_stars, threshold)
-  change_stars < threshold ? "" : "🔥"
+  return ""       if change_stars < threshold
+  return "🔥"     if change_stars > threshold && change_stars <= threshold * 2
+  return "🔥🔥"   if change_stars > threshold * 2 && change_stars <= threshold * 5
+  return "🔥🔥🔥" if change_stars > threshold * 5
 end
 
 # cumulate stars changes
