@@ -61,6 +61,12 @@
 | 41| [civitai/civitai](https://github.com/civitai/civitai) ![2023-03-25_2105_2](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 42| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-25_1881_6](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 | 43| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-25_1876_2](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
+| 44| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![stars](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
+| 45| [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  ![stars](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain.svg)       | GPT4 & LangChain Chatbot for large PDF docs |
+| 46| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![stars](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
+
+
+
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
