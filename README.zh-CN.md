@@ -96,15 +96,16 @@
 | 9| [Stability AI](https://stability.ai/)| 世界领先的开源生成人工智能公司，开源了Stable Diffusion|
 
 
-## 文章
+## 报告&论文
 | <div style="width:30px">编号</div> | <div style="width:300px">文章</div>                                                                                                           | <div style="width:400px">介绍</div>                                                 |
 |:---- |:-------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------- |
 | 1    | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)                                              | 一份官方介绍GPT-4的报告                              |
 | 2    | [mli/paper-reading](https://github.com/mli/paper-reading)                                                      | 深度学习经典、新论文逐段精读                         |
-| 3    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
-|   4   |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                            OpenAI最新的研究报告和论文                          |
-|5| [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta的文本生成视频的论文|
-| 6    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| 英伟达的eDiff-I论文  |
+| 3   | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)| 包含神经网络和相关算法的简单PyTorch实现集合，每个实现都有详细的解释 |
+| 4    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) | Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
+| 5    |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                            OpenAI最新的研究报告和论文                          |
+| 6    | [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta的文本生成视频的论文|
+| 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| 英伟达的eDiff-I论文  |
 
 ## 视频
 

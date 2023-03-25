@@ -99,10 +99,13 @@
 |:---- |:-------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------- |
 | 1    | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)                                              | GPT-4 Technical Report                              |
 | 2    | [mli/paper-reading](https://github.com/mli/paper-reading)                                                      | Deep learning classics and new papers are read carefully paragraph by paragraph.                        |
-| 3    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | Talking, Drawing and Editing with Visual Foundation Models |
-|   4   |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                          The latest research report and papers from OpenAI                       |
-| 5    | [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
-| 6    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| Nvidia eDiff-I - New generation of generative AI content creation tool |
+| 3   | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)| A collection of simple PyTorch implementations of neural networks and related algorithms, which are documented with explanations |
+| 4    | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | Talking, Drawing and Editing with Visual Foundation Models |
+| 5    |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                          The latest research report and papers from OpenAI                       |
+| 6    | [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
+| 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| Nvidia eDiff-I - New generation of generative AI content creation tool |
+
+
 
 ## Video
 
