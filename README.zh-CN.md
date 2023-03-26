@@ -64,6 +64,9 @@
 | 44| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-03-26_2031_94](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
 | 45| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-26_1955_39](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 46|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-26_1938_7](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
+| 47| [getcursor/cursor](https://github.com/getcursor/cursor) ![stars](https://img.shields.io/github/stars/getcursor/cursor.svg)|  一个专为AI编程而设计的编辑器 |
+| 48| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ![stars](https://img.shields.io/github/stars/willwulfken/MidJourney-Styles-and-Keywords-Reference.svg)| 包含MidJourney AI可用的样式和关键词的参考文献|
+
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 

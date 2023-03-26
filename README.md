@@ -64,6 +64,10 @@
 | 44| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-03-26_2031_94](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
 | 45| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-26_1955_39](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 46| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-26_1938_7](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 47| [getcursor/cursor](https://github.com/getcursor/cursor) ![stars](https://img.shields.io/github/stars/getcursor/cursor.svg)| An editor made for programming with AI|
+| 48| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ![stars](https://img.shields.io/github/stars/willwulfken/MidJourney-Styles-and-Keywords-Reference.svg)| A reference containing Styles and Keywords that you can use with MidJourney AI|
+
+
 ## Tools
 
 | <div style="width:30px">No</div> | Tool                                          | Description     | 
