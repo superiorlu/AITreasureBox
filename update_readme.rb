@@ -2,10 +2,22 @@
 require 'net/http'
 require 'uri'
 require 'json'
-require 'date'
 
-# update README scope content
-def update_readme(start_str, end_str, file_name, repo_stars)
+
+# update repos
+def update_all_repos
+  repo_stars = {} # cache stars
+  update_repos('## Repos', '## Tools', 'README.md', repo_stars)
+  update_repos('## 代码库', '## 工具', 'README.zh-CN.md', repo_stars)
+end
+
+def update_all_last_update
+  last_update_time('# AI TreasureBox', '## Repos', 'README.md')
+  last_update_time('# AI 百宝箱', '## 代码库', 'README.zh-CN.md')
+end
+
+# update repos content
+def update_repos(start_str, end_str, file_name, repo_stars)
   readme = File.read(file_name)
   lines = readme.lines
   start_index = lines.index {|e| e.include?(start_str)}
@@ -48,6 +60,28 @@ def update_readme(start_str, end_str, file_name, repo_stars)
   File.write(file_name, new_readme)
 end
 
+# last update time
+def last_update_time(start_str, end_str, file_name)
+  time = Time.now.strftime('%H:%M:%S')
+  readme = File.read(file_name)
+  lines = readme.lines
+  start_index = lines.index {|e| e.include?(start_str)}
+  end_index = lines.index {|e| e.include?(end_str)}
+  new_readme = ''
+  new_readme << lines[0...start_index].join
+
+  Array(lines[start_index...end_index]).each_with_index do |line, index|
+    if line.include?('last update')
+       prev_time = line.match(/update-(.*)-brightgreen/)
+       new_readme << (prev_time.nil? ? line : line.sub(prev_time[1], time))
+    else
+      new_readme << line
+    end
+  end
+  new_readme << lines[end_index..-1].join
+  File.write(file_name, new_readme)
+end
+
 # cumulate arrow style
 def arrow_style(file_name, original_index, now_index)
   return nil if now_index == original_index
@@ -70,15 +104,16 @@ end
 
 # cumulate stars changes
 def sync_today_stars(info, new_stars)
+  today = Time.now.strftime('%Y-%m-%d')
   if info.nil? || !info.include?('_')
-    [Date.today.to_s, new_stars, 0]
+    [today, new_stars, 0]
   else
     date, total_stars, change_stars = info.split('_')
-    if date != Date.today.to_s
-      change_stars = 0
+    if date != today
+      change_stars = new_stars.to_i - total_stars.to_i
     end
     change_stars = change_stars.to_i + (new_stars.to_i - total_stars.to_i)
-    [Date.today.to_s, new_stars, change_stars]
+    [today, new_stars, change_stars]
   end
 end
 
@@ -104,7 +139,6 @@ end
 
 # main
 if __FILE__ == $0
-  repo_stars = {} # cache stars
-  update_readme('## Repos', '## Tools', 'README.md', repo_stars)
-  update_readme('## 代码库', '## 工具', 'README.zh-CN.md', repo_stars)
+  update_all_repos
+  update_all_last_update
 end
