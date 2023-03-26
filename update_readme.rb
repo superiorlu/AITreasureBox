@@ -62,7 +62,7 @@ end
 
 # last update time
 def last_update_time(start_str, end_str, file_name)
-  time = Time.now.strftime('%H:%M:%S')
+  time = Time.now.strftime('%H:%M:%S%Z')
   readme = File.read(file_name)
   lines = readme.lines
   start_index = lines.index {|e| e.include?(start_str)}
