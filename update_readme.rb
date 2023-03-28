@@ -110,7 +110,7 @@ def sync_today_stars(info, new_stars)
   else
     date, total_stars, change_stars = info.split('_')
     if date != today
-      change_stars = new_stars.to_i - total_stars.to_i
+      change_stars = 0
     end
     change_stars = change_stars.to_i + (new_stars.to_i - total_stars.to_i)
     [today, new_stars, change_stars]
