@@ -7,10 +7,11 @@ require 'json'
 # update repos
 def update_all_repos
   repo_stars = {} # cache stars
-  update_repos('## Repos', '## Tools', 'README.md', repo_stars)
-  update_repos('## 代码库', '## 工具', 'README.zh-CN.md', repo_stars)
+  update_repos('## Repos', '**Tip:**', 'README.md', repo_stars)
+  update_repos('## 代码库', '**说明:**', 'README.zh-CN.md', repo_stars)
 end
 
+# update last date
 def update_all_last_update
   last_update_time('# AI TreasureBox', '## Repos', 'README.md')
   last_update_time('# AI 百宝箱', '## 代码库', 'README.zh-CN.md')
@@ -56,6 +57,7 @@ def update_repos(start_str, end_str, file_name, repo_stars)
     )
     new_readme << line
   end
+  new_readme << "\n"
   new_readme << lines[end_index..-1].join
   File.write(file_name, new_readme)
 end
