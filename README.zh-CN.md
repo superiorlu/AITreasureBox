@@ -66,6 +66,8 @@
 | 46| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-03-28_2208_27](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 47| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-28_2109_50](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 48|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-28_2006_29](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
+| 49|[binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) ![stars](https://img.shields.io/github/stars/binary-husky/chatgpt_academic.svg)| 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验等功能|
+| 50|[databrickslabs/dolly](https://github.com/databrickslabs/dolly) ![stars](https://img.shields.io/github/stars/databrickslabs/dolly.svg) | 一个在 Databricks 机器学习平台上训练的大型语言模型 |
 
 **说明:**
 | 符号| 规则 |

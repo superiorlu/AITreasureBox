@@ -66,6 +66,8 @@
 | 46| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-03-28_2208_27](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 47| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-28_2109_50](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 48| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-28_2006_29](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 49|[binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) ![stars](https://img.shields.io/github/stars/binary-husky/chatgpt_academic.svg)| Specialized ChatGPT extension for scientific research, for academic paper proofreading and so on|
+| 50|[databrickslabs/dolly](https://github.com/databrickslabs/dolly) ![stars](https://img.shields.io/github/stars/databrickslabs/dolly.svg) | A large language model trained on the Databricks Machine Learning Platform|
 
 **Tip:**
 | symbol| rule |
