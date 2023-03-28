@@ -89,9 +89,9 @@ def arrow_style(file_name, original_index, now_index)
   return nil if now_index == original_index
   style = ' '
   if file_name == 'README.md'
-    style = now_index < original_index ? '![](./images/green-up-arrow.svg)' : '![](./images/red-down-arrow.svg)'
+    style = now_index < original_index ? '![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg)' : '![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg)'
   else
-    style = now_index < original_index ? '![](./images/red-up-arrow.svg)' : '![](./images/green-down-arrow.svg)'
+    style = now_index < original_index ? '![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg)' : '![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg)'
   end
   style
 end
