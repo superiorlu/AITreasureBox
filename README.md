@@ -68,6 +68,7 @@
 | 48| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-03-30_2282_29](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 49| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-30_2184_23](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 50| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-30_2057_8](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 51| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ![stars](https://img.shields.io/github/stars/nomic-ai/gpt4all.svg) | A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue|
 
 **Tip:**
 | symbol| rule |
@@ -117,6 +118,7 @@
 | 5    |       [OpenAI Research ](https://openai.com/research)                                                                                                         |                          The latest research report and papers from OpenAI                       |
 | 6    | [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
 | 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| Nvidia eDiff-I - New generation of generative AI content creation tool |
+| 8    | [Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo ](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf)| 2023 GPT4All Technical Report |
 
 
 
