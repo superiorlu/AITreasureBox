@@ -135,8 +135,8 @@
 ## Thanks
 If this project has been helpful to you in any way, please give it a ⭐️ by clicking on the star.
 
-## Buy Me Coffee
+## Buy Me a Coffee
 <div align="center">
-<img height="360" src="https://user-images.githubusercontent.com/1154692/229072889-a76b41bb-6cc1-411c-8e4a-62e464439eeb.png" />&nbsp;&nbsp;&nbsp;
-<img height="360" src="https://user-images.githubusercontent.com/1154692/229072914-2b9ca448-a9a2-4651-aa32-c50b82fbcb45.png" />
+<img height="360" width="296" src="https://user-images.githubusercontent.com/1154692/229072889-a76b41bb-6cc1-411c-8e4a-62e464439eeb.png" />&nbsp;&nbsp;&nbsp;
+<img height="360" width="296" src="https://user-images.githubusercontent.com/1154692/229072914-2b9ca448-a9a2-4651-aa32-c50b82fbcb45.png" />
 </div>
