@@ -69,6 +69,9 @@
 | 49| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-03-31_2318_29](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 50| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-31_2228_20](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 51| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-31_2069_7](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 52| [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) ![stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg) | Making large AI models cheaper, faster and more accessible |
+| 53| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![stars](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
+| 54| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![stars](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
 
 **Tip:**
 | symbol| rule |
@@ -131,3 +134,9 @@
 
 ## Thanks
 If this project has been helpful to you in any way, please give it a ⭐️ by clicking on the star.
+
+## Buy Me Coffee
+<div align="center">
+<img height="360" src="https://user-images.githubusercontent.com/1154692/229072889-a76b41bb-6cc1-411c-8e4a-62e464439eeb.png" />&nbsp;&nbsp;&nbsp;
+<img height="360" src="https://user-images.githubusercontent.com/1154692/229072914-2b9ca448-a9a2-4651-aa32-c50b82fbcb45.png" />
+</div>

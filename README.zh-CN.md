@@ -69,6 +69,9 @@
 | 49| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-03-31_2318_29](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 50| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-03-31_2228_20](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 51|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-03-31_2069_7](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
+| 52| [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) ![stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg) | 使得大型人工智能模型更便宜、更快速和更易于获取 |
+| 53| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![stars](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
+| 54| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![stars](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | 使用 GPT-4 控制浏览器并代表自己执行重复操作 |
 
 **说明:**
 | 符号| 规则 |
@@ -136,6 +139,6 @@
 
 ## 请作者喝一杯咖啡
 <div align="center">
-<img height="360" src="https://user-images.githubusercontent.com/1154692/229072889-a76b41bb-6cc1-411c-8e4a-62e464439eeb.png" />
+<img height="360" src="https://user-images.githubusercontent.com/1154692/229072889-a76b41bb-6cc1-411c-8e4a-62e464439eeb.png" />&nbsp;&nbsp;&nbsp;
 <img height="360" src="https://user-images.githubusercontent.com/1154692/229072914-2b9ca448-a9a2-4651-aa32-c50b82fbcb45.png" />
 </div>
