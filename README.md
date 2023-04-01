@@ -96,6 +96,8 @@
 |    9 | [Runway](https://runwayml.com/)| Text to Video with Gen-2 |
 |    10 | [Resemble AI](https://www.resemble.ai/)| Resemble’s AI voice generator lets you create human–like voice overs in seconds |
 |    11 | [Cursor](https://www.cursor.so/)| Write, edit, and chat about your code with a powerful AI |
+|    12 | [Hugging Face](https://huggingface.co/)| Build, train and deploy state of the art models powered by the reference open source in machine learning |
+
 
 ## Website
 | <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |

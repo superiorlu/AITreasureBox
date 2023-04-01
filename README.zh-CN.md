@@ -96,6 +96,7 @@
 |    9 | [Runway](https://runway.com/)| 通过AI可文字生成视频 |
 |    10 | [Resemble AI](https://www.resemble.ai/)| 通过AI克隆你的声音 |
 |    11 | [Cursor](https://www.cursor.so/)| 强大的人工智能编写、编辑代码工具 |
+|    12 | [Hugging Face](https://huggingface.co/)| 构建、训练和部署最先进的模型的平台 |
 
 
 
