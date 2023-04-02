@@ -1,6 +1,6 @@
 # AI 百宝箱
 
-<p align="center">
+<p id="top" align="center">
   <img src="https://user-images.githubusercontent.com/1154692/227428291-df9e62d9-b558-411b-afac-d55733f0a617.png" height=400 width=850 />
 </p>
 <p align="center">
@@ -81,6 +81,8 @@
 |🔥🔥🔥| stars today > 1000|
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) ![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) | 排名上升 / 下降|
 
+<p align="right">[<a href="#top">回到页首</a>]</p>
+
 ## 工具
 
 | <div style="width:30px">编号</div> | 工具                                          | 介绍                                                                                        | 
@@ -98,7 +100,7 @@
 |    11 | [Cursor](https://www.cursor.so/)| 强大的人工智能编写、编辑代码工具 |
 |    12 | [Hugging Face](https://huggingface.co/)| 构建、训练和部署最先进的模型的平台 |
 
-
+<p align="right">[<a href="#top">回到页首</a>]</p>
 
 ## 网站
 | <div style="width:30px">编号</div>  | <div style="width:150px">网站</div>                                       | 介绍                                                                                     |
@@ -113,6 +115,7 @@
 | 8| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| 带有专家去噪器集合的文本到图像扩散模型(Diffusion Models)|
 | 9| [Stability AI](https://stability.ai/)| 世界领先的开源生成人工智能公司，开源了Stable Diffusion|
 
+<p align="right">[<a href="#top">回到页首</a>]</p>
 
 ## 报告&论文
 | <div style="width:30px">编号</div> | <div style="width:300px">文章</div>                                                                                                           | <div style="width:400px">介绍</div>                                                 |
@@ -126,6 +129,7 @@
 | 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| 英伟达的eDiff-I论文  |
 | 8    | [Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo ](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf)| 2023年 GPT4All 技术报告|
 
+<p align="right">[<a href="#top">回到页首</a>]</p>
 
 ## 视频
 
@@ -134,6 +138,7 @@
 | 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | [Andrew Ng](https://www.coursera.org/instructor/andrewng) 博士讲的机器学习专项课程 |
 | 2    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | [李沐](https://zh.wikipedia.org/wiki/李沐_(科学家)) 老师的AI论文精读和机器学习课程 |
 
+<p align="right">[<a href="#top">回到页首</a>]</p>
 
 ## 感谢
 如果这个项目对你产生了一点的帮助，请为这个项目点上一颗 ⭐️
