@@ -138,8 +138,4 @@
 ## 感谢
 如果这个项目对你产生了一点的帮助，请为这个项目点上一颗 ⭐️
 
-## 请作者喝一杯咖啡
-<div align="center">
-<img height="360" width="296" src="https://user-images.githubusercontent.com/1154692/229072889-a76b41bb-6cc1-411c-8e4a-62e464439eeb.png" />&nbsp;&nbsp;&nbsp;
-<img height="360" width="296" src="https://user-images.githubusercontent.com/1154692/229072914-2b9ca448-a9a2-4651-aa32-c50b82fbcb45.png" />
-</div>
+
