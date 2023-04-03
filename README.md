@@ -72,6 +72,9 @@
 | 52| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-03_2324_16](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 53| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-03_2280_70](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 | 54| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-03_1691_55](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
+| 55| [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
+| 56| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![stars](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
+
 
 **Tip:**
 | symbol| rule |
@@ -133,11 +136,12 @@
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 
-## Video
+## Tutorial
 
-| <div style="width:30px">No</div> | Video                                                              | Description|
+| <div style="width:30px">No</div> | Tutorial                                                              | Description|
 |:---- |:---------------------------------------------------------------- | --- |
 | 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | The Machine Learning Specialization Course taught by Dr. Andrew Ng|
+| 2    | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 

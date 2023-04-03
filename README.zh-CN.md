@@ -72,6 +72,10 @@
 | 52| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-03_2324_16](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 53|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-03_2280_70](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 | 54| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-03_1691_55](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
+| 55| [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) |  一个实验性的开源尝试，旨在使GPT-4完全自主|
+| 56| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![stars](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | 中文LLaMA&Alpaca大语言模型+本地部署|
+
+
 
 **说明:**
 | 符号| 规则 |
@@ -131,12 +135,15 @@
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
 
-## 视频
+## 教程
 
-| <div style="width:30px">编号</div> | 视频                                                             | 介绍| 
+| <div style="width:30px">编号</div> | 教程                                                           | 介绍| 
 |:---- |:---------------------------------------------------------------- | ---- |
 | 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | [Andrew Ng](https://www.coursera.org/instructor/andrewng) 博士讲的机器学习专项课程 |
-| 2    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | [李沐](https://zh.wikipedia.org/wiki/李沐_(科学家)) 老师的AI论文精读和机器学习课程 |
+| 2    | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 微软面向初学者的机器学习课程|
+| 3    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | [李沐](https://zh.wikipedia.org/wiki/李沐_(科学家)) 老师的AI论文精读和机器学习课程 |
+
+
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
 
