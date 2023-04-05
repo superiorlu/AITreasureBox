@@ -74,6 +74,8 @@
 | 54| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-05_2459_8](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
 | 55| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-05_2373_10](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 56| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-05_1794_11](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
+| 57| [microsoft/JARVIS](https://github.com/microsoft/JARVIS) ![stars](https://img.shields.io/github/stars/microsoft/JARVIS.svg) |  一个将LLMs与ML社区连接起来的系统 |
+
 
 **说明:**
 | 符号| 规则 |

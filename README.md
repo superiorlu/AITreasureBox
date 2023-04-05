@@ -74,6 +74,7 @@
 | 54| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-05_2459_8](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 55| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-05_2373_10](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 56| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-05_1794_11](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
+| 57| [microsoft/JARVIS](https://github.com/microsoft/JARVIS) ![stars](https://img.shields.io/github/stars/microsoft/JARVIS.svg) |  a system to connect LLMs with ML community |
 
 **Tip:**
 | symbol| rule |
