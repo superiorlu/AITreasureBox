@@ -119,6 +119,7 @@
 | 7|[D-ID](https://www.d-id.com/)| D-ID 的生成式AI可以让用户将任何图片或视频转化为非凡的体验|
 | 8| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| 带有专家去噪器集合的文本到图像扩散模型(Diffusion Models)|
 | 9| [Stability AI](https://stability.ai/)| 世界领先的开源生成人工智能公司，开源了Stable Diffusion|
+| 10| [Meta AI](https://ai.facebook.com/)| Meta AI平台在研究、产品还是基础设施开发，致力于负责任地创新AI，造福世界 |
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
 
