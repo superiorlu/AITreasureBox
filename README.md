@@ -75,6 +75,9 @@
 | 55| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-08_2533_1](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 56| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-08_2464_4](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 57| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-08_2145_25](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
+| 58| [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) ![2023-04-08_17403_6044](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg) <a alt="Click Me" href="https://segment-anything.com/demo" target="_blank"><img src="https://img.shields.io/badge/Meta-Open%20in%20Demo-brightgreen" alt="Open in Spaces"/></a> |  Provide code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints |
+
+
 
 **Tip:**
 | symbol| rule |
@@ -132,6 +135,7 @@
 | 6    | [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/pdf/2209.14792.pdf)|Meta's Text-to-Video Generation|
 | 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| Nvidia eDiff-I - New generation of generative AI content creation tool |
 | 8    | [Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo ](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf)| 2023 GPT4All Technical Report |
+| 9    | [Segment Anything](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/10000000_900554171201033_1602411987825904100_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YLTtOW2cPwwAX9tobuh&_nc_ht=scontent-nrt1-1.xx&oh=00_AfAGSBef3mRw9-hwQVlK0BfKX7r2lt-ctsMB8RhCmKHO4w&oe=643500E7)| Meta Segment Anything |
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
