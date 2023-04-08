@@ -76,6 +76,7 @@
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 56| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-08_2534_2](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 57| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-08_2464_4](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 58| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-08_2147_27](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
+| 59| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-08_2147_27](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 
 **说明:**
 | 符号| 规则 |

@@ -76,6 +76,8 @@
 |![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 56| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-08_2534_2](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 |![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 57| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-08_2464_4](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 |![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 58| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-08_2147_27](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
+| 59| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-08_2147_27](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
+
 
 **Tip:**
 | symbol| rule |
