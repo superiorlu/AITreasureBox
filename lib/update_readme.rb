@@ -29,6 +29,7 @@ def update_repos(start_str, end_str, file_name, repo_stars)
         _, _, repo_info, desc  = line.split('|')
         next if repo_info.nil?
         repo_info.gsub!('🔥', '') # reset fire
+        repo_info.gsub!('⭐', '') # reset star
         match = repo_info.scan(/\[(.*?)\]/).flatten
         next if match.empty?
         star_count = if repo_stars[match[0]].nil?

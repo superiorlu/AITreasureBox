@@ -36,7 +36,7 @@ jobs:
       - name: Sort repos by star count
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ruby update_readme.rb
+        run: ruby lib/update_readme.rb
 
       - name: Commit changes
         run: |

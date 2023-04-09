@@ -33,7 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOS_URL: ${{ vars.REPOS_URL }}
-        run: ruby add_repos.rb
+        run: ruby lib/add_repos.rb
 
       - name: Commit changes
         run: |
