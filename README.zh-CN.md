@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:13:08UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-21:08:30UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -61,9 +61,9 @@
 | 41|🔥[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![2023-04-09_6403_306](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg)|一个Gradio Web UI，用于运行像LLaMA、llama.cpp、GPT-J、OPT和GALACTICA这样的大型语言模型|
 | 42| [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  ![2023-04-09_6352_114](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain.svg)       | GPT4和LangChain聊天机器人用于大型PDF文档 |
 | 43| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-09_6174_23](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              一个基于OpenAI API（gpt-3.5-turbo）的演示 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 44|🔥🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-09_5264_1188](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|使用OpenAI和Pinecone API来创建、优先排序和执行任务,是原始Task-Driven Autonomous Agent的简化版|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 45|🔥🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-09_5264_1124](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|使用OpenAI和Pinecone API来创建、优先排序和执行任务,是原始Task-Driven Autonomous Agent的简化版|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 46| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-09_5235_30](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                | 逆向工程微软的必应Chat API                                                                             |
+| 44|🔥🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-09_5264_1188](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|使用OpenAI和Pinecone API来创建、优先排序和执行任务,是原始Task-Driven Autonomous Agent的简化版|
+| 45|🔥🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-09_5264_1124](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|使用OpenAI和Pinecone API来创建、优先排序和执行任务,是原始Task-Driven Autonomous Agent的简化版|
+| 46| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-09_5235_30](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                | 逆向工程微软的必应Chat API                                                                             |
 | 47| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-09_4658_51](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
 | 48| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-09_4520_42](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
 | 49| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-09_4368_6](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |

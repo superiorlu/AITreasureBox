@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:13:08UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-21:08:30UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -61,9 +61,9 @@
 | 41|🔥[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![2023-04-09_6403_306](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg)|A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.|
 | 42| [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  ![2023-04-09_6352_114](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain.svg)       | GPT4 & LangChain Chatbot for large PDF docs |
 | 43| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-09_6174_23](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              A demo repo based on OpenAI API (gpt-3.5-turbo) |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 44|🔥🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-09_5264_1188](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 45|🔥🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-09_5264_1124](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 46| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-09_5235_30](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                |Reverse engineered API of Microsoft's Bing Chat                                                                           |
+| 44|🔥🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-09_5264_1188](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
+| 45|🔥🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-09_5264_1124](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
+| 46| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-09_5235_30](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                |Reverse engineered API of Microsoft's Bing Chat                                                                           |
 | 47| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-09_4658_51](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
 | 48| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-09_4520_42](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| A powerful and modular stable diffusion GUI with a graph/nodes interface. |
 | 49| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-09_4368_6](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
