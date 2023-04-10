@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:19UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:07:51UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -84,6 +84,7 @@
 | 64| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-10_1803_68](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 | 65|🔥[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-10_1382_298](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
 | 66|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-10_1358_158](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
+|⭐ 67|🔥[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-10_1199_233](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 
 **说明:**
 | 符号| 规则 |

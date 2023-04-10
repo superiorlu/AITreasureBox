@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:19UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:07:51UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -84,6 +84,7 @@
 | 64| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-10_1803_68](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
 | 65|🔥[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-10_1382_298](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
 | 66|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-10_1358_158](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
+|⭐ 67|🔥[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-10_1199_233](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 
 **Tip:**
 | symbol| rule |
