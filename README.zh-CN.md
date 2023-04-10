@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:18UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:09:20UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -33,8 +33,8 @@
 | 13|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ![2023-04-10_21572_70](https://img.shields.io/github/stars/LAION-AI/Open-Assistant.svg)|OpenAssistant是一种基于聊天的助手，它能够理解任务、与第三方系统进行交互，并动态地检索信息以执行任务|
 | 14|🔥🔥 [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) ![2023-04-10_21462_726](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg) <a alt="Click Me" href="https://segment-anything.com/demo" target="_blank"><img src="https://img.shields.io/badge/Meta-Open%20in%20Demo-brightgreen" alt="Open in Spaces"/></a> |  提供了使用SegmentAnything模型（SAM）运行推断的代码checkpoints |
 | 15| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![2023-04-10_21117_106](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           使用C/C++进行LLaMA模型的推理 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 16|🔥🔥 [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-10_19489_470](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) |  一个实验性的开源尝试，旨在使GPT-4完全自主|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 17| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-10_19477_59](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) |用于训练斯坦福大学羊驼模型和生成数据的代码和文档|
+| 16|🔥🔥 [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-10_19489_470](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) |  一个实验性的开源尝试，旨在使GPT-4完全自主|
+| 17| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-10_19477_59](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) |用于训练斯坦福大学羊驼模型和生成数据的代码和文档|
 | 18| [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) ![2023-04-10_18128_52](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg) <a alt="Click Me" href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>|使用潜在扩散模型进行高分辨率图像合成|
 | 19| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) ![2023-04-10_17201_15](https://img.shields.io/github/stars/karpathy/nanoGPT.svg)  |最简单、最快的中等规模GPT训练/微调存储库|
 | 20| [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)  ![2023-04-10_16591_35](https://img.shields.io/github/stars/lllyasviel/ControlNet.svg)<a alt="Click Me" href="https://huggingface.co/spaces/hysts/ControlNet" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>| 通过添加额外条件来控制扩散模型的神经网络结构 |

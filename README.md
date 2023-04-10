@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:18UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:09:20UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -33,8 +33,8 @@
 | 13|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ![2023-04-10_21572_70](https://img.shields.io/github/stars/LAION-AI/Open-Assistant.svg)|OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.|
 | 14|🔥🔥 [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) ![2023-04-10_21462_726](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg) <a alt="Click Me" href="https://segment-anything.com/demo" target="_blank"><img src="https://img.shields.io/badge/Meta-Open%20in%20Demo-brightgreen" alt="Open in Spaces"/></a> |  Provide code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints |
 | 15| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![2023-04-10_21117_106](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           Port of Facebook's LLaMA model in C/C++ |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 16|🔥🔥 [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-10_19489_470](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 17| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-10_19477_59](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) | Code and documentation to train Stanford's Alpaca models, and generate the data|
+| 16|🔥🔥 [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-10_19489_470](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
+| 17| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-10_19477_59](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) | Code and documentation to train Stanford's Alpaca models, and generate the data|
 | 18| [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) ![2023-04-10_18128_52](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg) <a alt="Click Me" href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a> |High-Resolution Image Synthesis with Latent Diffusion Models|
 | 19| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) ![2023-04-10_17201_15](https://img.shields.io/github/stars/karpathy/nanoGPT.svg)  |The simplest, fastest repository for training/finetuning medium-sized GPTs|
 | 20| [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)  ![2023-04-10_16591_35](https://img.shields.io/github/stars/lllyasviel/ControlNet.svg) <a alt="Click Me" href="https://huggingface.co/spaces/hysts/ControlNet" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>| A neural network structure to control diffusion models by adding extra conditions|
