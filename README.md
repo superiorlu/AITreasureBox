@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:30UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:48UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -72,8 +72,8 @@
 | 52| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-10_3845_46](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
 | 53|🔥 [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-10_3822_286](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
 | 54| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-10_3514_49](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 55| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-10_3470_25](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 56| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-10_3467_7](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
+| 55| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-10_3470_25](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
+| 56| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-10_3467_7](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
 | 57| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-10_3261_12](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 58|🔥🔥🔥[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-10_3247_1740](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs|
 | 59| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-10_2641_29](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |

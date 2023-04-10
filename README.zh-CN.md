@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:30UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:48UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -72,8 +72,8 @@
 | 52| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-10_3845_46](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | 使用 GPT-4 控制浏览器并代表自己执行重复操作 |
 | 53|🔥 [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-10_3822_286](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | 中文LLaMA&Alpaca大语言模型+本地部署|
 | 54| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-10_3514_49](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 55| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-10_3470_25](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 56| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-10_3467_7](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
+| 55| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-10_3470_25](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
+| 56| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-10_3467_7](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 57| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-10_3261_12](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 58|🔥🔥🔥[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-10_3247_1740](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|将Grounding DINO与Segment Anything & Stable Diffusion & BLIP相结合-通过图像和文本输入自动检测、分割和生成任何东西|
 | 59| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-10_2641_29](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
