@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:17:26UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:52UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -72,15 +72,15 @@
 | 52| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-10_3670_134](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
 | 53| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-10_3493_28](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
 | 54| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-10_3462_2](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 55|🔥[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-10_3459_345](https://img.shields.io/github/stars/TabbyML/tabby.svg)|Self-hosted AI coding assistant|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 56| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-10_3454_9](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
+| 55|🔥[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-10_3459_345](https://img.shields.io/github/stars/TabbyML/tabby.svg)|Self-hosted AI coding assistant|
+| 56| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-10_3454_9](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
 | 57| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-10_3256_7](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 58| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-10_2628_16](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 59| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-10_2586_12](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 60| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-10_2583_5](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 | 61| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-10_2525_11](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 62|🔥🔥[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-10_2316_809](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 63| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-10_2240_22](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
+| 62|🔥🔥[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-10_2316_809](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs|
+| 63| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-10_2240_22](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
 | 64| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-10_1780_45](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
 | 65|🔥[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-10_1359_275](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
 | 66|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-10_1303_103](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|

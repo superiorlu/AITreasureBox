@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:17:26UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:52UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -72,15 +72,15 @@
 | 52| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-10_3670_134](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | 中文LLaMA&Alpaca大语言模型+本地部署|
 | 53| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-10_3493_28](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 54| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-10_3462_2](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 55|🔥[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-10_3459_345](https://img.shields.io/github/stars/TabbyML/tabby.svg)|可搭建的人工智能编码助手|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 56| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-10_3454_9](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
+| 55|🔥[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-10_3459_345](https://img.shields.io/github/stars/TabbyML/tabby.svg)|可搭建的人工智能编码助手|
+| 56| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-10_3454_9](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
 | 57| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-10_3256_7](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 58| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-10_2628_16](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 59| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-10_2586_12](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
 | 60|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-10_2583_5](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 | 61| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-10_2525_11](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 62|🔥🔥[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-10_2316_809](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|将Grounding DINO与Segment Anything & Stable Diffusion & BLIP相结合-通过图像和文本输入自动检测、分割和生成任何东西|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 63| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-10_2240_22](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
+| 62|🔥🔥[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-10_2316_809](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|将Grounding DINO与Segment Anything & Stable Diffusion & BLIP相结合-通过图像和文本输入自动检测、分割和生成任何东西|
+| 63| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-10_2240_22](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
 | 64| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-10_1780_45](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 | 65|🔥[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-10_1359_275](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
 | 66|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-10_1303_103](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
