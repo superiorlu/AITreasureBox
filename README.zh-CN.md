@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:17UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:47UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -65,9 +65,9 @@
 | 45| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-11_5281_7](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                | 逆向工程微软的必应Chat API                                                                             |
 | 46| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-11_4742_15](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
 | 47| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-11_4618_19](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 48|🔥🔥[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-11_4381_698](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|新的Bing基于人工智能的聊天桌面应用程序（Windows，macOS和Linux）|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 49| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-11_4379_3](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 50|[databrickslabs/dolly](https://github.com/databrickslabs/dolly) ![2023-04-11_4356_4](https://img.shields.io/github/stars/databrickslabs/dolly.svg) | 一个在 Databricks 机器学习平台上训练的大型语言模型 |
+| 48|🔥🔥[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-11_4381_698](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|新的Bing基于人工智能的聊天桌面应用程序（Windows，macOS和Linux）|
+| 49| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-11_4379_3](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
+| 50|[databrickslabs/dolly](https://github.com/databrickslabs/dolly) ![2023-04-11_4356_4](https://img.shields.io/github/stars/databrickslabs/dolly.svg) | 一个在 Databricks 机器学习平台上训练的大型语言模型 |
 | 51| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-11_4296_1](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
 | 52|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-11_4112_111](https://img.shields.io/github/stars/TabbyML/tabby.svg)|可搭建的人工智能编码助手|
 | 53| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-11_4024_7](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
@@ -79,15 +79,16 @@
 | 59| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-11_3477_3](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
 | 60| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-11_3470_3](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 61| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-11_3266_3](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
-| 62| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-11_2647_6](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
-| 63| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-11_2610_11](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
-| 64|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-11_2598_2](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
-| 65| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-11_2538_1](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
-| 66| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-11_2267_10](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
-| 67| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-11_1830_18](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
-| 68|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-11_1405_10](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
-| 69|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-11_1399_27](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
-| 70|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-11_1233_8](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
+|⭐ 62|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-11_2870_39](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
+| 63| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-11_2647_6](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
+| 64| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-11_2610_11](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
+| 65|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-11_2598_2](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
+| 66| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-11_2538_1](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
+| 67| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-11_2267_10](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
+| 68| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-11_1830_18](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
+| 69|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-11_1405_10](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
+| 70|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-11_1399_27](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
+| 71|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-11_1233_8](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 
 **说明:**
 | 符号| 规则 |
