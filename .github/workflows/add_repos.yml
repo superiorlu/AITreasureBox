@@ -40,7 +40,7 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git config --global user.email "actions@github.com"
             git config --global user.name "GitHub Actions"
-            git commit -a -m "add repos"
+            git commit -a -m "🤖 add repos"
           else
             echo "Nothing Changes!"
           fi
