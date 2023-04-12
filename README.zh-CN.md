@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:23UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:47UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -89,6 +89,7 @@
 | 69|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-12_1504_32](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
 | 70|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-12_1438_4](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
 | 71|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-12_1270_7](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
+|⭐ 72|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-12_1259_150](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 
 **说明:**
 | 符号| 规则 |

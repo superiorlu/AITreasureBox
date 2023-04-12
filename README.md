@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:23UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:47UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -89,6 +89,7 @@
 | 69|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-12_1504_32](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
 | 70|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-12_1438_4](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
 | 71|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-12_1270_7](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
+|⭐ 72|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-12_1259_150](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 
 **Tip:**
 | symbol| rule |
