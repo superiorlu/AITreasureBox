@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:54UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:59UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -22,8 +22,8 @@
 | 2|🔥🔥 [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)      ![2023-04-12_64656_422](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg)   <a alt="Click Me" href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>                                     |                                                                             ChatGPT 调教指南（英文版） |
 | 3|🔥🔥 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![2023-04-12_62948_507](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg) |基于Gradio库的Stable Diffusion浏览器界面|
 | 4| [lencx/ChatGPT](https://github.com/lencx/ChatGPT)        ![2023-04-12_31325_185](https://img.shields.io/github/stars/lencx/ChatGPT.svg)                                                                       |                                                   一款ChatGPT的桌面应用，支持Mac, Windows 和 Linux平台 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 5|🔥🔥🔥 [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-12_31309_5734](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) |  一个实验性的开源尝试，旨在使GPT-4完全自主|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 6| [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) ![2023-04-12_30650_165](https://img.shields.io/github/stars/microsoft/visual-chatgpt.svg)                                               |                                                   Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
+| 5|🔥🔥🔥 [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-12_31309_5734](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) |  一个实验性的开源尝试，旨在使GPT-4完全自主|
+| 6| [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) ![2023-04-12_30650_165](https://img.shields.io/github/stars/microsoft/visual-chatgpt.svg)                                               |                                                   Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
 | 7|🔥 [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)                  ![2023-04-12_30230_309](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh.svg) |                                                                             ChatGPT 调教指南（中文版） |
 | 8|🔥🔥 [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ![2023-04-12_27926_406](https://img.shields.io/github/stars/nomic-ai/gpt4all.svg) | 一个聊天机器人，它是在包括代码、故事和对话等大量干净的助手数据集上基于LLaMa进行训练的|
 | 9| [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) ![2023-04-12_27877_162](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg) | 使得大型人工智能模型更便宜、更快速和更易于获取 |

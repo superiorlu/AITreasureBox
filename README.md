@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:54UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:59UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -22,8 +22,8 @@
 | 2|🔥🔥 [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)      ![2023-04-12_64656_422](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg) <a alt="Click Me" href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>                                      |                                                                            This repo includes ChatGPT prompt curation to use ChatGPT better. |
 | 3|🔥🔥 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ![2023-04-12_62948_507](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg) |A browser interface based on Gradio library for Stable Diffusion|
 | 4| [lencx/ChatGPT](https://github.com/lencx/ChatGPT)        ![2023-04-12_31325_185](https://img.shields.io/github/stars/lencx/ChatGPT.svg)                                                                       |                                                   ChatGPT Desktop Application (Mac, Windows and Linux) |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 5|🔥🔥🔥 [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-12_31309_5734](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 6| [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) ![2023-04-12_30650_165](https://img.shields.io/github/stars/microsoft/visual-chatgpt.svg)                                               |                                                   Talking, Drawing and Editing with Visual Foundation Models|
+| 5|🔥🔥🔥 [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-12_31309_5734](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
+| 6| [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) ![2023-04-12_30650_165](https://img.shields.io/github/stars/microsoft/visual-chatgpt.svg)                                               |                                                   Talking, Drawing and Editing with Visual Foundation Models|
 | 7|🔥 [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)                  ![2023-04-12_30230_309](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh.svg) |                                                                             ChatGPT prompt in Chinese |
 | 8|🔥🔥 [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ![2023-04-12_27926_406](https://img.shields.io/github/stars/nomic-ai/gpt4all.svg) | A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue|
 | 9| [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) ![2023-04-12_27877_162](https://img.shields.io/github/stars/hpcaitech/ColossalAI.svg) | Making large AI models cheaper, faster and more accessible |
