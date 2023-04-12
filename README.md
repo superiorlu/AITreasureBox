@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:43UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:52UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -32,8 +32,8 @@
 | 12|🔥🔥 [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) ![2023-04-12_24968_819](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg) <a alt="Click Me" href="https://segment-anything.com/demo" target="_blank"><img src="https://img.shields.io/badge/Meta-Open%20in%20Demo-brightgreen" alt="Open in Spaces"/></a> |  Provide code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints |
 | 13|🔥🔥 [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ![2023-04-12_24243_411](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide.svg)|Guides, papers, lecture, and resources for prompt engineering|
 | 14| [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) ![2023-04-12_23604_58](https://img.shields.io/github/stars/acheong08/ChatGPT.svg)                                                                    |                                                   Reverse engineered ChatGPT API |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 15|🔥 [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![2023-04-12_22148_291](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           Port of Facebook's LLaMA model in C/C++ |
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 16|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ![2023-04-12_22135_105](https://img.shields.io/github/stars/LAION-AI/Open-Assistant.svg)|OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.|
+| 15|🔥 [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![2023-04-12_22148_291](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           Port of Facebook's LLaMA model in C/C++ |
+| 16|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ![2023-04-12_22135_105](https://img.shields.io/github/stars/LAION-AI/Open-Assistant.svg)|OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.|
 | 17|🔥 [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-12_20063_208](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) | Code and documentation to train Stanford's Alpaca models, and generate the data|
 | 18| [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) ![2023-04-12_18580_166](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg) <a alt="Click Me" href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a> |High-Resolution Image Synthesis with Latent Diffusion Models|
 | 19| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) ![2023-04-12_17379_51](https://img.shields.io/github/stars/karpathy/nanoGPT.svg)  |The simplest, fastest repository for training/finetuning medium-sized GPTs|

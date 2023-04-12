@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:43UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:52UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -32,8 +32,8 @@
 | 12|🔥🔥 [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) ![2023-04-12_24968_819](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg) <a alt="Click Me" href="https://segment-anything.com/demo" target="_blank"><img src="https://img.shields.io/badge/Meta-Open%20in%20Demo-brightgreen" alt="Open in Spaces"/></a> |  提供了使用SegmentAnything模型（SAM）运行推断的代码checkpoints |
 | 13|🔥🔥 [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ![2023-04-12_24243_411](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide.svg) | 提示工程的指南、论文、讲座和资源 |
 | 14| [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) ![2023-04-12_23604_58](https://img.shields.io/github/stars/acheong08/ChatGPT.svg)                                                                    |                                                   通过逆向工程 ChatGPT API，可扩展用于聊天机器人等应用 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 15|🔥 [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![2023-04-12_22148_291](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           使用C/C++进行LLaMA模型的推理 |
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 16|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ![2023-04-12_22135_105](https://img.shields.io/github/stars/LAION-AI/Open-Assistant.svg)|OpenAssistant是一种基于聊天的助手，它能够理解任务、与第三方系统进行交互，并动态地检索信息以执行任务|
+| 15|🔥 [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![2023-04-12_22148_291](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           使用C/C++进行LLaMA模型的推理 |
+| 16|[LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ![2023-04-12_22135_105](https://img.shields.io/github/stars/LAION-AI/Open-Assistant.svg)|OpenAssistant是一种基于聊天的助手，它能够理解任务、与第三方系统进行交互，并动态地检索信息以执行任务|
 | 17|🔥 [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-12_20063_208](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) |用于训练斯坦福大学羊驼模型和生成数据的代码和文档|
 | 18| [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) ![2023-04-12_18580_166](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg) <a alt="Click Me" href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>|使用潜在扩散模型进行高分辨率图像合成|
 | 19| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) ![2023-04-12_17379_51](https://img.shields.io/github/stars/karpathy/nanoGPT.svg)  |最简单、最快的中等规模GPT训练/微调存储库|
