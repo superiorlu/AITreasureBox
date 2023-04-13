@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:43UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:37UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -85,8 +85,8 @@
 | 65| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-13_3299_12](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 66|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-13_2998_46](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 67|🔥🔥🔥[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-13_2774_1224](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 68| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-13_2717_43](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 69| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-13_2713_20](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
+| 68| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-13_2717_43](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
+| 69| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-13_2713_20](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 70| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-13_2642_17](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 | 71| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-13_2592_12](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 72|🔥[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-13_2409_254](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
@@ -95,8 +95,8 @@
 | 75| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-13_1995_62](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
 | 76|🔥[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-13_1755_349](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|A CLI that converts natural language to shell commands.|
 | 77|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-13_1733_111](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 78|🔥🔥[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-13_1715_762](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 79|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-13_1696_88](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
+| 78|🔥🔥[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-13_1715_762](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
+| 79|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-13_1696_88](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
 | 80|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-13_1446_61](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 81|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-13_1373_75](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 

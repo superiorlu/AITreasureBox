@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:43UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:37UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -85,8 +85,8 @@
 | 65| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-13_3299_12](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 66|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-13_2998_46](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 67|🔥🔥🔥[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-13_2774_1224](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 68| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-13_2717_43](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 69| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-13_2713_20](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
+| 68| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-13_2717_43](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
+| 69| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-13_2713_20](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 70|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-13_2642_17](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 | 71| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-13_2592_12](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 72|🔥[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-13_2409_254](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC 提示词可视化编辑器|
@@ -95,8 +95,8 @@
 | 75| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-13_1995_62](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 | 76|🔥[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-13_1755_349](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|将自然语言转换为Shell命令的CLI工具|
 | 77|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-13_1733_111](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 78|🔥🔥[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-13_1715_762](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 79|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-13_1696_88](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
+| 78|🔥🔥[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-13_1715_762](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
+| 79|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-13_1696_88](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
 | 80|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-13_1446_61](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 81|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-13_1373_75](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 
