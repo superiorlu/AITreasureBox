@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:09:04UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:31:09UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -99,6 +99,7 @@
 | 79|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-14_1735_39](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
 | 80|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-14_1458_9](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 81|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-14_1394_18](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
+|⭐ 82|🔥[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-14_1059_336](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 
 **说明:**
 | 符号| 规则 |

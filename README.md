@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:09:04UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:31:09UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -99,6 +99,7 @@
 | 79|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-14_1735_39](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
 | 80|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-14_1458_9](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 81|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-14_1394_18](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
+|⭐ 82|🔥[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-14_1059_336](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
 
 **Tip:**
 | symbol| rule |
