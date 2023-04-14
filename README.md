@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:44UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:47:19UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -56,8 +56,8 @@
 | 36| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ![2023-04-13_9044_99](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg)|Wechat robot based on ChatGPT, which using OpenAI api and itchat library|
 | 37| [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) ![2023-04-13_8835_96](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT.svg) <a alt="Click Me" href="https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>| Provided a lightweight and user-friendly web UI for ChatGPT API|
 | 38|🔥🔥[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![2023-04-13_8502_748](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg)|A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 39|🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-13_8421_772](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 40| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ![2023-04-13_8382_57](https://img.shields.io/github/stars/willwulfken/MidJourney-Styles-and-Keywords-Reference.svg)| A reference containing Styles and Keywords that you can use with MidJourney AI|
+| 39|🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-13_8421_772](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
+| 40| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ![2023-04-13_8382_57](https://img.shields.io/github/stars/willwulfken/MidJourney-Styles-and-Keywords-Reference.svg)| A reference containing Styles and Keywords that you can use with MidJourney AI|
 | 41| [openai/evals](https://github.com/openai/evals)     ![2023-04-13_8083_93](https://img.shields.io/github/stars/openai/evals.svg)                                                                               |                                                 Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks |
 | 42| [xx025/carrot](https://github.com/xx025/carrot)  ![2023-04-13_8021_198](https://img.shields.io/github/stars/xx025/carrot.svg)                                                                                                                                                                                       |    Free ChatGPT Site List    |
 | 43|🔥[Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) ![2023-04-13_7888_288](https://img.shields.io/github/stars/Bin-Huang/chatbox.svg)|A desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux|

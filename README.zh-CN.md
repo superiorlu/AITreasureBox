@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:44UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:47:19UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -56,8 +56,8 @@
 | 36| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ![2023-04-13_9044_99](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg)|使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现|
 | 37| [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) ![2023-04-13_8835_96](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT.svg) <a alt="Click Me" href="https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a> | 为ChatGPT API提供了一个轻快好用的Web图形界面|
 | 38|🔥🔥[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![2023-04-13_8502_748](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg)|一个Gradio Web UI，用于运行像LLaMA、llama.cpp、GPT-J、OPT和GALACTICA这样的大型语言模型|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 39|🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-13_8421_772](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|使用OpenAI和Pinecone API来创建、优先排序和执行任务,是原始Task-Driven Autonomous Agent的简化版|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 40| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ![2023-04-13_8382_57](https://img.shields.io/github/stars/willwulfken/MidJourney-Styles-and-Keywords-Reference.svg)| 包含MidJourney AI可用的样式和关键词的参考文献|
+| 39|🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-13_8421_772](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|使用OpenAI和Pinecone API来创建、优先排序和执行任务,是原始Task-Driven Autonomous Agent的简化版|
+| 40| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ![2023-04-13_8382_57](https://img.shields.io/github/stars/willwulfken/MidJourney-Styles-and-Keywords-Reference.svg)| 包含MidJourney AI可用的样式和关键词的参考文献|
 | 41| [openai/evals](https://github.com/openai/evals)     ![2023-04-13_8083_93](https://img.shields.io/github/stars/openai/evals.svg)                                                                               |                                                  Evals是一个用于评估OpenAI模型的框架和一个开源基准测试 |
 | 42| [xx025/carrot](https://github.com/xx025/carrot)  ![2023-04-13_8021_198](https://img.shields.io/github/stars/xx025/carrot.svg)                                                                                                                                                                                       |     收集了一些免费好用的ChatGPT镜像站    |
 | 43|🔥[Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) ![2023-04-13_7888_288](https://img.shields.io/github/stars/Bin-Huang/chatbox.svg)|一个支持Windows、Mac和Linux操作系统的GPT-4/GPT-3.5（OpenAI API）桌面应用程序|
