@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:29UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:02UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -82,8 +82,8 @@
 | 62| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-14_3585_25](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
 | 63| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-14_3507_5](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
 | 64|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-14_3402_46](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 65|🔥🔥[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-14_3328_477](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 66| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-14_3308_7](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
+| 65|🔥🔥[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-14_3328_477](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
+| 66| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-14_3308_7](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 67|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-14_3031_28](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 68| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-14_2748_30](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 69| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-14_2728_15](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |

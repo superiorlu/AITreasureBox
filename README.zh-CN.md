@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:29UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:02UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -82,8 +82,8 @@
 | 62| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-14_3585_25](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
 | 63| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-14_3507_5](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 64|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-14_3402_46](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 65|🔥🔥[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-14_3328_477](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 66| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-14_3308_7](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
+| 65|🔥🔥[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-14_3328_477](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
+| 66| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-14_3308_7](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 67|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-14_3031_28](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 68| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-14_2748_30](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
 | 69| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-14_2728_15](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
