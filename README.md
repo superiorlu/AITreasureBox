@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:15:43UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:00UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -89,15 +89,15 @@
 | 69|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-15_2829_104](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 70| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-15_2778_22](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 71| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-15_2743_12](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 72|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-15_2689_97](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 73| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-15_2688_18](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 72|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-15_2689_97](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
+| 73| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-15_2688_18](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
 | 74|🔥[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-15_2638_231](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
 | 75| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-15_2624_17](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 76| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-15_2419_7](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
 | 77| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-15_2083_22](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
 | 78|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-15_1993_113](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|A CLI that converts natural language to shell commands.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 79|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-15_1858_55](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 80|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-15_1856_24](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
+| 79|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-15_1858_55](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
+| 80|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-15_1856_24](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
 | 81|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-15_1501_8](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 82|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-15_1434_6](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 83|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-15_1331_95](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
