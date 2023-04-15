@@ -100,7 +100,7 @@
 | 80|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-15_1497_4](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 81|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-15_1432_4](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 82|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-15_1287_51](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
-| 83| [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-15_0_-60751](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) |  一个实验性的开源尝试，旨在使GPT-4完全自主|
+| 83| [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) ![2023-04-15_59538_13534](https://img.shields.io/github/stars/Torantulino/Auto-GPT.svg) |  一个实验性的开源尝试，旨在使GPT-4完全自主|
 
 **说明:**
 | 符号| 规则 |
