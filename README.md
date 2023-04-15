@@ -100,7 +100,7 @@
 | 80|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-15_1496_3](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 81|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-15_1432_4](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 82|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-15_1289_53](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
-| 83| [Significant-Gravitas](https://github.com/Significant-Gravitas) ![2023-04-15_0_-46004](https://img.shields.io/github/stars/Significant-Gravitas.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
+| 83| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ![2023-04-15_59538_13534](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
 
 **Tip:**
 | symbol| rule |
