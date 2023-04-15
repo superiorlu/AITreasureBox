@@ -128,7 +128,7 @@
 |    10 | [Resemble AI](https://www.resemble.ai/)| Resemble’s AI voice generator lets you create human–like voice overs in seconds |
 |    11 | [Cursor](https://www.cursor.so/)| Write, edit, and chat about your code with a powerful AI |
 |    12 | [Hugging Face](https://huggingface.co/)| Build, train and deploy state of the art models powered by the reference open source in machine learning |
-|    13 | [Claude](https://www.anthropic.com/product) <a alt="Click Me" href="https://bmpidev.slack.com/apps/A04KGS7N9A8-claude?tab=more_info" target="_blank"><img src="https://img.shields.io/badge/Slack-Open%20in%20App-brightgreen" alt="Open in App"/></a> | A next-generation AI assistant for your tasks, no matter the scale |
+|    13 | [Claude](https://www.anthropic.com/product) <a alt="Click Me" href="https://slack.com/apps/A04KGS7N9A8-claude?tab=more_info" target="_blank"><img src="https://img.shields.io/badge/Slack-Open%20in%20App-brightgreen" alt="Open in App"/></a> | A next-generation AI assistant for your tasks, no matter the scale |
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
@@ -165,6 +165,7 @@
 | 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| Nvidia eDiff-I - New generation of generative AI content creation tool |
 | 8    | [Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo ](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf)| 2023 GPT4All Technical Report |
 | 9    | [Segment Anything](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/10000000_900554171201033_1602411987825904100_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YLTtOW2cPwwAX9tobuh&_nc_ht=scontent-nrt1-1.xx&oh=00_AfAGSBef3mRw9-hwQVlK0BfKX7r2lt-ctsMB8RhCmKHO4w&oe=643500E7)| Meta Segment Anything |
+| 10    | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)| LLaMA |
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>

@@ -162,6 +162,9 @@
 | 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| 英伟达的eDiff-I论文  |
 | 8    | [Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo ](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf)| 2023年 GPT4All 技术报告|
 | 9    | [Segment Anything](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.2365-6/10000000_900554171201033_1602411987825904100_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=YLTtOW2cPwwAX9tobuh&_nc_ht=scontent-nrt1-1.xx&oh=00_AfAGSBef3mRw9-hwQVlK0BfKX7r2lt-ctsMB8RhCmKHO4w&oe=643500E7)| Meta Segment Anything模型 |
+| 10    | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)| LLaMA：开放高效的基础语言模型|
+
+
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
 
