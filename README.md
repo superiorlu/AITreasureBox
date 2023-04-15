@@ -128,6 +128,8 @@
 |    10 | [Resemble AI](https://www.resemble.ai/)| Resemble’s AI voice generator lets you create human–like voice overs in seconds |
 |    11 | [Cursor](https://www.cursor.so/)| Write, edit, and chat about your code with a powerful AI |
 |    12 | [Hugging Face](https://huggingface.co/)| Build, train and deploy state of the art models powered by the reference open source in machine learning |
+|    13 | [Claude](https://www.anthropic.com/product)| A next-generation AI assistant for your tasks, no matter the scale |
+
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 
@@ -144,6 +146,8 @@
 | 8| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| Text-to-Image Diffusion Models with Ensemble of Expert Denoisers |
 | 9| [Stability AI](https://stability.ai/)| The world's leading open source generative AI company which opened source Stable Diffusion |
 | 10| [Meta AI](https://ai.facebook.com/)| Whether it be research, product or infrastructure development, we’re driven to innovate responsibly with AI to benefit the world |
+| 11| [ANTHROP\C](https://www.anthropic.com/)| AI research and products that put safety at the frontier |
+
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>

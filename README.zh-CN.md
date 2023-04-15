@@ -128,6 +128,8 @@
 |    10 | [Resemble AI](https://www.resemble.ai/)| 通过AI克隆你的声音 |
 |    11 | [Cursor](https://www.cursor.so/)| 强大的人工智能编写、编辑代码工具 |
 |    12 | [Hugging Face](https://huggingface.co/)| 构建、训练和部署最先进的模型的平台 |
+|    13 | [Claude](https://www.anthropic.com/product)  <a alt="Click Me" href="https://bmpidev.slack.com/apps/A04KGS7N9A8-claude?tab=more_info" target="_blank"><img src="https://img.shields.io/badge/Slack-Open%20in%20App-brightgreen" alt="Open in App"/></a>  | 一个面向各种规模任务的下一代人工智能助手 |
+
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
 
@@ -144,6 +146,7 @@
 | 8| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| 带有专家去噪器集合的文本到图像扩散模型(Diffusion Models)|
 | 9| [Stability AI](https://stability.ai/)| 世界领先的开源生成人工智能公司，开源了Stable Diffusion|
 | 10| [Meta AI](https://ai.facebook.com/)| Meta AI平台在研究、产品还是基础设施开发，致力于负责任地创新AI，造福世界 |
+| 11| [ANTHROP\C](https://www.anthropic.com/)| 将安全置于前沿的人工智能研究和产品 |
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
 
