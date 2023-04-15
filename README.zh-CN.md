@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-01:08:59UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-02:17:31UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -61,8 +61,8 @@
 | 41| [xx025/carrot](https://github.com/xx025/carrot)  ![2023-04-15_8402_0](https://img.shields.io/github/stars/xx025/carrot.svg)                                                                                                                                                                                       |     收集了一些免费好用的ChatGPT镜像站    |
 | 42| [openai/evals](https://github.com/openai/evals)     ![2023-04-15_8158_4](https://img.shields.io/github/stars/openai/evals.svg)                                                                               |                                                  Evals是一个用于评估OpenAI模型的框架和一个开源基准测试 |
 | 43|[Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) ![2023-04-15_8025_6](https://img.shields.io/github/stars/Bin-Huang/chatbox.svg)|一个支持Windows、Mac和Linux操作系统的GPT-4/GPT-3.5（OpenAI API）桌面应用程序|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 44|[databrickslabs/dolly](https://github.com/databrickslabs/dolly) ![2023-04-15_6950_33](https://img.shields.io/github/stars/databrickslabs/dolly.svg) | 一个在 Databricks 机器学习平台上训练的大型语言模型 |
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 45| [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  ![2023-04-15_6932_9](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain.svg)       | GPT4和LangChain聊天机器人用于大型PDF文档 |
+| 44|[databrickslabs/dolly](https://github.com/databrickslabs/dolly) ![2023-04-15_6950_33](https://img.shields.io/github/stars/databrickslabs/dolly.svg) | 一个在 Databricks 机器学习平台上训练的大型语言模型 |
+| 45| [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  ![2023-04-15_6932_9](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain.svg)       | GPT4和LangChain聊天机器人用于大型PDF文档 |
 | 46|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) ![2023-04-15_6560_3](https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet.svg)|ControlNet的WebUI扩展|
 | 47| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-15_6375_0](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              一个基于OpenAI API（gpt-3.5-turbo）的演示 |
 | 48|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-15_6306_7](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|将Grounding DINO与Segment Anything & Stable Diffusion & BLIP相结合-通过图像和文本输入自动检测、分割和生成任何东西|
@@ -87,13 +87,13 @@
 | 67| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-15_3310_2](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 68|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-15_3037_1](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 69| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-15_2756_0](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 70|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-15_2742_17](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 71| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-15_2731_0](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
+| 70|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-15_2742_17](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
+| 71| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-15_2731_0](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 72|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-15_2674_4](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
 | 73| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-15_2610_3](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 74|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-15_2597_5](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC 提示词可视化编辑器|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 75|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-15_2430_23](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 76| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-15_2412_0](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
+| 75|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-15_2430_23](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
+| 76| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-15_2412_0](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
 | 77| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-15_2062_1](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 | 78|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-15_1903_23](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|将自然语言转换为Shell命令的CLI工具|
 | 79|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-15_1834_2](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
