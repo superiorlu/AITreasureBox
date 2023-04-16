@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:08UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:51:06UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -80,8 +80,8 @@
 | 60|🔥🔥🔥[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-15_4002_1308](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
 | 61| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-15_3989_17](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | 使用 GPT-4 控制浏览器并代表自己执行重复操作 |
 | 62| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-15_3619_28](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 63|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-15_3615_187](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 64| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-15_3603_6](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
+| 63|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-15_3615_187](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
+| 64| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-15_3603_6](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 65| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-15_3516_6](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 66|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-15_3471_50](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
 | 67| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-15_3319_11](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
@@ -96,8 +96,8 @@
 | 76| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-15_2419_7](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
 | 77| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-15_2087_26](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 | 78|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-15_2002_122](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|将自然语言转换为Shell命令的CLI工具|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 79|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-15_1860_28](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 80|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-15_1859_56](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
+| 79|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-15_1860_28](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
+| 80|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-15_1859_56](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
 | 81|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-15_1503_10](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 82|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-15_1436_8](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 83|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-15_1331_95](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|

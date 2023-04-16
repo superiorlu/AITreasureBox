@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:08UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:51:06UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -80,8 +80,8 @@
 | 60|🔥🔥🔥[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-15_4002_1308](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
 | 61| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-15_3989_17](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
 | 62| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-15_3619_28](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 63|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-15_3615_187](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 64| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-15_3603_6](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
+| 63|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-15_3615_187](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
+| 64| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-15_3603_6](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
 | 65| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-15_3516_6](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
 | 66|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-15_3471_50](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|
 | 67| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-15_3319_11](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
@@ -96,8 +96,8 @@
 | 76| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-15_2419_7](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
 | 77| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-15_2087_26](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
 | 78|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-15_2002_122](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|A CLI that converts natural language to shell commands.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 79|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-15_1860_28](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 80|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-15_1859_56](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
+| 79|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-15_1860_28](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
+| 80|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-15_1859_56](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
 | 81|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-15_1503_10](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 82|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-15_1436_8](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 83|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-15_1331_95](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
