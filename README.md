@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:16:04UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:04UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -74,8 +74,8 @@
 | 54| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-16_5025_30](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
 | 55| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-16_4850_11](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| A powerful and modular stable diffusion GUI with a graph/nodes interface. |
 | 56| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-16_4454_5](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 57|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-16_4376_136](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 58| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-16_4363_3](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
+| 57|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-16_4376_136](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
+| 58| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-16_4363_3](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
 | 59| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-16_4197_7](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
 | 60| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-16_4154_13](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
 | 61|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-16_4094_92](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|

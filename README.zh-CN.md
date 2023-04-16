@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:16:04UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:04UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -74,8 +74,8 @@
 | 54| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-16_5025_30](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
 | 55| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-16_4850_11](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
 | 56| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-16_4454_5](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 57|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-16_4376_136](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 58| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-16_4363_3](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
+| 57|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-16_4376_136](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|
+| 58| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-16_4363_3](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
 | 59| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-16_4197_7](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
 | 60| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-16_4154_13](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
 | 61|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-16_4094_92](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
