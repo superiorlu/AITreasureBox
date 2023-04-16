@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:15:33UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:08:59UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -77,8 +77,8 @@
 | 57|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-16_4430_190](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
 | 58| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-16_4370_10](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
 | 59| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-16_4211_21](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 60|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-16_4181_179](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 61| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-16_4177_36](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
+| 60|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-16_4181_179](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
+| 61| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-16_4177_36](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
 | 62| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-16_4004_15](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
 | 63|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-16_3711_96](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
 | 64| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-16_3643_24](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|

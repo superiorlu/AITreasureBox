@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:15:33UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:08:59UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -77,8 +77,8 @@
 | 57|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-16_4430_190](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|
 | 58| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-16_4370_10](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
 | 59| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-16_4211_21](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 60|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-16_4181_179](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 61| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-16_4177_36](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
+| 60|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-16_4181_179](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
+| 61| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-16_4177_36](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
 | 62| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-16_4004_15](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | 使用 GPT-4 控制浏览器并代表自己执行重复操作 |
 | 63|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-16_3711_96](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
 | 64| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-16_3643_24](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
