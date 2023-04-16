@@ -148,7 +148,7 @@
 | 8| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| 带有专家去噪器集合的文本到图像扩散模型(Diffusion Models)|
 | 9| [Stability AI](https://stability.ai/)| 世界领先的开源生成人工智能公司，开源了Stable Diffusion|
 | 10| [Meta AI](https://ai.facebook.com/)| Meta AI平台在研究、产品还是基础设施开发，致力于负责任地创新AI，造福世界 |
-| 11| [ANTHROP\C](https://www.anthropic.com/)| 将安全置于前沿的人工智能研究和产品 |
+| 11| [ANTHROPIC](https://www.anthropic.com/)| 将安全置于前沿的人工智能研究和产品 |
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
 

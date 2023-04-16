@@ -148,7 +148,7 @@
 | 8| [Nvidia eDiff-I](https://research.nvidia.com/labs/dir/eDiff-I/)| Text-to-Image Diffusion Models with Ensemble of Expert Denoisers |
 | 9| [Stability AI](https://stability.ai/)| The world's leading open source generative AI company which opened source Stable Diffusion |
 | 10| [Meta AI](https://ai.facebook.com/)| Whether it be research, product or infrastructure development, we’re driven to innovate responsibly with AI to benefit the world |
-| 11| [ANTHROP\C](https://www.anthropic.com/)| AI research and products that put safety at the frontier |
+| 11| [ANTHROPIC](https://www.anthropic.com/)| AI research and products that put safety at the frontier |
 
 
 
