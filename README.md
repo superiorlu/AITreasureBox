@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:04UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:50:12UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -51,8 +51,8 @@
 | 31| [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) ![2023-04-16_11317_27](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg)| An open-source GitHub Copilot server |
 | 32| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)  ![2023-04-16_11265_20](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt.svg)                                     |                                                                                        Use ChatGPT On Wechat via wechaty |
 | 33| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ![2023-04-16_10771_150](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg)| A ChatGPT clone for running locally in your browser |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 34|🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-16_9866_456](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 35|[Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) ![2023-04-16_9833_27](https://img.shields.io/github/stars/Sanster/lama-cleaner.svg)|Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.|
+| 34|🔥🔥[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-16_9866_456](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
+| 35|[Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) ![2023-04-16_9833_27](https://img.shields.io/github/stars/Sanster/lama-cleaner.svg)|Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.|
 | 36| [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ![2023-04-16_9744_70](https://img.shields.io/github/stars/tloen/alpaca-lora.svg)   <a alt="Click Me" href="https://huggingface.co/spaces/tloen/alpaca-lora" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>        | Instruct-tune LLaMA on consumer hardware|
 | 37|🔥[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![2023-04-16_9272_250](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg)|A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.|
 | 38| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ![2023-04-16_9216_48](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg)|Wechat robot based on ChatGPT, which using OpenAI api and itchat library|
@@ -88,8 +88,8 @@
 | 68| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-16_3325_6](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 69|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-16_3064_16](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 70|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-16_2941_101](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 71|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-16_2806_115](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 72| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-16_2805_26](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
+| 71|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-16_2806_115](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
+| 72| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-16_2805_26](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 73|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-16_2802_151](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
 | 74| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-16_2792_47](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 75| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-16_2708_18](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
