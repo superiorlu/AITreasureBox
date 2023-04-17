@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:24:13UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:09:07UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -81,7 +81,7 @@
 | 61| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-17_4197_17](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
 | 62| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-17_4009_4](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
 | 63|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-17_3755_34](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
-|⭐ 64|🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-17_3739_558](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
+| 64|🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-17_3739_558](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
 | 65| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-17_3649_3](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
 | 66| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-17_3630_9](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
 | 67|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-17_3566_31](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|

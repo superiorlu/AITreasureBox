@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:24:13UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:09:07UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -81,7 +81,7 @@
 | 61| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-17_4197_17](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
 | 62| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-17_4009_4](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | 使用 GPT-4 控制浏览器并代表自己执行重复操作 |
 | 63|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-17_3755_34](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
-|⭐ 64|🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-17_3739_558](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
+| 64|🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-17_3739_558](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
 | 65| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-17_3649_3](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
 | 66| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-17_3630_9](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 67|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-17_3566_31](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
