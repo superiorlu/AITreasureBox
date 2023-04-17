@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:13:20UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:59UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -76,8 +76,8 @@
 | 56|🔥🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-17_4631_1450](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
 | 57|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-17_4517_82](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
 | 58| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-17_4468_11](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 59|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-17_4390_197](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 60| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-17_4378_8](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
+| 59|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-17_4390_197](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
+| 60| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-17_4378_8](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
 | 61| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-17_4240_24](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
 | 62| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-17_4219_39](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
 | 63| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-17_4019_14](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
