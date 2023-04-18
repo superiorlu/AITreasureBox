@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:17:25UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:10:26UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -84,16 +84,16 @@
 | 64| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-18_4040_17](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
 | 65|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-18_4033_128](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
 | 66|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-18_3699_67](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 67| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-18_3684_37](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 68| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-18_3683_10](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
+| 67| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-18_3684_37](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
+| 68| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-18_3683_10](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
 | 69| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-18_3555_15](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
 | 70| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-18_3340_9](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 71|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-18_3106_127](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 72|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-18_3105_24](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
+| 71|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-18_3106_127](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
+| 72|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-18_3105_24](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 73|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-18_3082_117](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 74|🔥🔥🔥[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-18_3079_1538](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|This is an AI agent for Street Fighter II Champion Edition.|
+| 74|🔥🔥🔥[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-18_3079_1538](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|This is an AI agent for Street Fighter II Champion Edition.|
 | 75|🔥🔥🔥[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ![2023-04-18_3077_1361](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 76|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-18_3049_37](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
+| 76|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-18_3049_37](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 77| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-18_2867_29](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
 | 78| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-18_2860_24](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 79| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) ![2023-04-18_2736_10](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
