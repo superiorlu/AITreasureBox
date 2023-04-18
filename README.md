@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:33UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:51UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -73,11 +73,11 @@
 | 53|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-18_5539_15](https://img.shields.io/github/stars/TabbyML/tabby.svg)|Self-hosted AI coding assistant|
 | 54| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-18_5452_56](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
 | 55| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-18_5140_14](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 56|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-18_4947_158](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 57| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-18_4910_5](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| A powerful and modular stable diffusion GUI with a graph/nodes interface. |
+| 56|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-18_4947_158](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
+| 57| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-18_4910_5](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| A powerful and modular stable diffusion GUI with a graph/nodes interface. |
 | 58|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-18_4548_12](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 59|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-18_4479_51](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 60| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-18_4471_2](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
+| 59|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-18_4479_51](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
+| 60| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-18_4471_2](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
 | 61| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-18_4384_3](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
 | 62| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-18_4257_8](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
 | 63| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-18_4247_14](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |

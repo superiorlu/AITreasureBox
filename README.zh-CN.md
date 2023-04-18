@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:33UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:51UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -73,11 +73,11 @@
 | 53|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-18_5539_15](https://img.shields.io/github/stars/TabbyML/tabby.svg)|可搭建的人工智能编码助手|
 | 54| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-18_5452_56](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | 中文LLaMA&Alpaca大语言模型+本地部署|
 | 55| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-18_5140_14](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 56|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-18_4947_158](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 57| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-18_4910_5](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
+| 56|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-18_4947_158](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
+| 57| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-18_4910_5](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
 | 58|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-18_4548_12](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 59|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-18_4479_51](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 60| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-18_4471_2](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
+| 59|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-18_4479_51](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
+| 60| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-18_4471_2](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
 | 61| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-18_4384_3](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
 | 62| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-18_4257_8](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
 | 63| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-18_4247_14](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
