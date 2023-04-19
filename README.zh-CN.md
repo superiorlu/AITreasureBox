@@ -109,6 +109,7 @@
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 89|[lightaime/camel](https://github.com/lightaime/camel) ![2023-04-19_1529_31](https://img.shields.io/github/stars/lightaime/camel.svg)|CAMEL 是 Communicative Agents for “Mind” Exploration of Large Scale Language Model Society 的缩写，意为大规模语言模型社会的“心智”探索通讯代理。|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 90|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-19_1518_31](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 91|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-19_1484_19](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
+| 92|[Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ![stars](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web.svg)| 一键拥有你自己的 ChatGPT 网页服务 |
 
 **说明:**
 | 符号| 规则 |
