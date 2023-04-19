@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:17:51UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:54UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -79,8 +79,8 @@
 | 59|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-19_4603_12](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
 | 60| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-19_4488_8](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
 | 61| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-19_4393_3](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 62| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-19_4296_18](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 63| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-19_4291_8](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
+| 62| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-19_4296_18](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
+| 63| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-19_4291_8](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
 | 64|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-19_4119_51](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
 | 65| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-19_4049_8](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
 | 66|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-19_3736_24](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|

@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:17:51UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:54UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -79,8 +79,8 @@
 | 59|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-19_4603_12](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|
 | 60| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-19_4488_8](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
 | 61| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-19_4393_3](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 62| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-19_4296_18](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 63| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-19_4291_8](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
+| 62| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-19_4296_18](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
+| 63| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-19_4291_8](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
 | 64|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-19_4119_51](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
 | 65| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-19_4049_8](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | 使用 GPT-4 控制浏览器并代表自己执行重复操作 |
 | 66|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-19_3736_24](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
