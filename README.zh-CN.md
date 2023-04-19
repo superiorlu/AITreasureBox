@@ -128,7 +128,7 @@
 |    1 | [ChatGPT](https://chat.openai.com/chat)         | 一种基于自然语言处理技术的人工智能模型，可以用来回答各种问题、提供建议和进行对话等 |
 |    2 | [DALL·E 2](https://labs.openai.com/) | 从文本描述中创建原创、逼真的图像和艺术作品                  |
 |    3 | [Murf AI](https://murf.ai/)                | AI语音生成器：多功能的文字转语音软件                                                     |
-|    4 | [Midjourney](https://www.midjourney.com/)  | 非常棒的文字生成图片AI工具，可以在[Discord](https://discord.com/)中使用                  |
+|    4 | [Midjourney](https://www.midjourney.com/)  | 非常棒的文字生成图片AI工具，可以在[Discord](https://discord.gg/midjourney)中使用                  |
 |    5 | [Make-A-Video](https://makeavideo.studio/) | Meta的一款从文本生成视频的AI的系统                                                 |
 |    6 | [Creative Reality™ Studio by D-ID](https://www.d-id.com/creative-reality-studio/) | 使用生成式人工智能创建面向未来的视频 |
 |    7 | [chat.D-ID](https://www.d-id.com/chat/)| 号称第一个可以通过ChatGPT进行面对面交谈的应用 |

@@ -128,7 +128,7 @@
 |    1 | [ChatGPT](https://chat.openai.com/chat)         | A sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response |
 |    2 | [DALL·E 2](https://labs.openai.com/) | Create original, realistic images and art from a text description                   |
 |    3 | [Murf AI](https://murf.ai/)                | AI enabled, real people's voices|
-|    4 | [Midjourney](https://www.midjourney.com/)  | An independent research lab that produces an artificial intelligence program under the same name that creates images from textual descriptions, used in [Discord](https://discord.com/)
+|    4 | [Midjourney](https://www.midjourney.com/)  | An independent research lab that produces an artificial intelligence program under the same name that creates images from textual descriptions, used in [Discord](https://discord.gg/midjourney)
 |    5 | [Make-A-Video](https://makeavideo.studio/) | Make-A-Video is a state-of-the-art AI system that generates videos from text                                                 |
 |    6 | [Creative Reality™ Studio by D-ID](https://www.d-id.com/creative-reality-studio/)| Use generative AI to create future-facing videos|
 |    7 | [chat.D-ID](https://www.d-id.com/chat/)| The First App Enabling Face-to-Face Conversations with ChatGPT|
