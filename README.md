@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:52UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:51:09UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -89,9 +89,9 @@
 | 69| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-18_3557_17](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
 | 70| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-18_3342_11](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 71|🔥🔥🔥[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ![2023-04-18_3136_1420](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 72|🔥🔥🔥[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-18_3113_1572](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|This is an AI agent for Street Fighter II Champion Edition.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 73|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-18_3108_129](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 74|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-18_3106_25](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
+| 72|🔥🔥🔥[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-18_3113_1572](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|This is an AI agent for Street Fighter II Champion Edition.|
+| 73|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-18_3108_129](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
+| 74|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-18_3106_25](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 75|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-18_3086_121](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
 | 76|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-18_3053_41](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 77| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-18_2868_30](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |

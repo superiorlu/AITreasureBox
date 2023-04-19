@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:52UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:51:09UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -89,9 +89,9 @@
 | 69| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-18_3557_17](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 70| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-18_3342_11](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 71|🔥🔥🔥[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ![2023-04-18_3136_1420](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|将大型语言模型和聊天引入Web浏览器。所有功能均在浏览器内运行，不需要服务器支持。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 72|🔥🔥🔥[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-18_3113_1572](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|这是一个街头霸王II冠军版的AI代理。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 73|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-18_3108_129](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC 提示词可视化编辑器|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 74|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-18_3106_25](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
+| 72|🔥🔥🔥[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-18_3113_1572](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|这是一个街头霸王II冠军版的AI代理。|
+| 73|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-18_3108_129](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC 提示词可视化编辑器|
+| 74|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-18_3106_25](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 75|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-18_3086_121](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
 | 76|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-18_3053_41](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
 | 77| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-18_2868_30](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
