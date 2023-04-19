@@ -108,6 +108,7 @@
 | 88|[lightaime/camel](https://github.com/lightaime/camel) ![2023-04-19_1527_29](https://img.shields.io/github/stars/lightaime/camel.svg)|CAMEL 是 Communicative Agents for “Mind” Exploration of Large Scale Language Model Society 的缩写，意为大规模语言模型社会的“心智”探索通讯代理。|
 | 89|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-19_1516_29](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 90|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-19_1484_19](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
+| 91|[lm-sys/FastChat](https://github.com/lm-sys/FastChat) ![stars](https://img.shields.io/github/stars/lm-sys/FastChat.svg) <a alt="Click Me" href="https://chat.lmsys.org" target="_blank"><img src="https://img.shields.io/badge/🏔️-Open%20in%20Demo-brightgreen" alt="Open in Demo"/></a>  |Vicuna: 一个令人印象深刻的开源聊天机器人，使用GPT-4 |
 
 **说明:**
 | 符号| 规则 |

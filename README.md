@@ -108,6 +108,8 @@
 | 88|[lightaime/camel](https://github.com/lightaime/camel) ![2023-04-19_1527_29](https://img.shields.io/github/stars/lightaime/camel.svg)|🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society|
 | 89|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-19_1516_29](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 90|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-19_1484_19](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
+| 91|[lm-sys/FastChat](https://github.com/lm-sys/FastChat) ![stars](https://img.shields.io/github/stars/lm-sys/FastChat.svg) <a alt="Click Me" href="https://chat.lmsys.org" target="_blank"><img src="https://img.shields.io/badge/🏔️-Open%20in%20Demo-brightgreen" alt="Open in Demo"/></a> |Vicuna: An Open Chatbot Impressing GPT-4 |
+
 
 **Tip:**
 | symbol| rule |
