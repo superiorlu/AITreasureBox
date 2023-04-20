@@ -23,7 +23,7 @@
 - [Tutorials](#tutorials)
 
 ## Repos
-> updated stars every 2 hours and re-ranking
+> updated repos and stars every 2 hours and re-ranking automatically.
 
 | <div width="30px">No</div> | <div width="350px">Repos</div>       |  <div width="400px">Description</div>  |
 | ----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
