@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:57UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:47:47UTC-brightgreen" />
 </p>
 
 ## 代码库
@@ -72,8 +72,8 @@
 | 52|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-19_6049_34](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV类似于ChatGPT，但是由RWKV（100% RNN）语言模型提供支持，并且是开源的。|
 | 53|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-19_5919_94](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|新的Bing基于人工智能的聊天桌面应用程序（Windows，macOS和Linux）|
 | 54| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-19_5865_69](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                | 逆向工程微软的必应Chat API                                                                             |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 55|🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-19_5738_406](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 56| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-19_5733_155](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | 中文LLaMA&Alpaca大语言模型+本地部署|
+| 55|🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-19_5738_406](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
+| 56| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-19_5733_155](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | 中文LLaMA&Alpaca大语言模型+本地部署|
 | 57|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-19_5673_66](https://img.shields.io/github/stars/TabbyML/tabby.svg)|可搭建的人工智能编码助手|
 | 58|🔥 [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-19_5522_257](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
 | 59| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-19_4995_49](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |

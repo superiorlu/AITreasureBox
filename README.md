@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:57UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:47:47UTC-brightgreen" />
 </p>
 
 ## Repos
@@ -72,8 +72,8 @@
 | 52|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-19_6049_34](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
 | 53|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-19_5919_94](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)|
 | 54| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-19_5865_69](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                |Reverse engineered API of Microsoft's Bing Chat                                                                           |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 55|🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-19_5738_406](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 56| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-19_5733_155](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
+| 55|🔥🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-19_5738_406](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
+| 56| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-19_5733_155](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
 | 57|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-19_5673_66](https://img.shields.io/github/stars/TabbyML/tabby.svg)|Self-hosted AI coding assistant|
 | 58|🔥 [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-19_5522_257](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
 | 59| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-19_4995_49](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| A powerful and modular stable diffusion GUI with a graph/nodes interface. |
