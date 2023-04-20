@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:42UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:40UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -44,8 +44,8 @@
 | 15| [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) ![2023-04-20_24593_52](https://img.shields.io/github/stars/acheong08/ChatGPT.svg)                                                                    |                                                   通过逆向工程 ChatGPT API，可扩展用于聊天机器人等应用 |
 | 16| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![2023-04-20_23822_147](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           使用C/C++进行LLaMA模型的推理 |
 | 17|🔥[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) ![2023-04-20_22109_253](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg)|一个深度学习优化库，使分布式训练和推理变得简单、高效和有效|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 18|🔥[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) ![2023-04-20_21282_337](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal.svg)|投资研究，人人可及，无处不在。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 19| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-20_21278_115](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) |用于训练斯坦福大学羊驼模型和生成数据的代码和文档|
+| 18|🔥[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) ![2023-04-20_21282_337](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal.svg)|投资研究，人人可及，无处不在。|
+| 19| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-20_21278_115](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) |用于训练斯坦福大学羊驼模型和生成数据的代码和文档|
 | 20|🔥 [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) ![2023-04-20_19849_269](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg) <a alt="Click Me" href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>|使用潜在扩散模型进行高分辨率图像合成|
 | 21|🔥 [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)      ![2023-04-20_19318_292](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg)                                                                  | ChatGLM-6B：开源双语对话语言模型                                                                       |
 | 22| [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) ![2023-04-20_18892_198](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web.svg)                                                    |                                                             用 Express 和 Vue3 搭建的 ChatGPT 演示网页 |

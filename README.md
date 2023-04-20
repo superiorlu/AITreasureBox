@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:42UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:40UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -44,8 +44,8 @@
 | 15| [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) ![2023-04-20_24593_52](https://img.shields.io/github/stars/acheong08/ChatGPT.svg)                                                                    |                                                   Reverse engineered ChatGPT API |
 | 16| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)    ![2023-04-20_23822_147](https://img.shields.io/github/stars/ggerganov/llama.cpp.svg)                                                         |                                                                           Port of Facebook's LLaMA model in C/C++ |
 | 17|🔥[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) ![2023-04-20_22109_253](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg)|A deep learning optimization library that makes distributed training and inference easy, efficient, and effective|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 18|🔥[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) ![2023-04-20_21282_337](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal.svg)|Investment Research for Everyone, Anywhere.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 19| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-20_21278_115](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) | Code and documentation to train Stanford's Alpaca models, and generate the data|
+| 18|🔥[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) ![2023-04-20_21282_337](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal.svg)|Investment Research for Everyone, Anywhere.|
+| 19| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) ![2023-04-20_21278_115](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) | Code and documentation to train Stanford's Alpaca models, and generate the data|
 | 20|🔥 [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) ![2023-04-20_19849_269](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg) <a alt="Click Me" href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a> |High-Resolution Image Synthesis with Latent Diffusion Models|
 | 21|🔥 [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)      ![2023-04-20_19318_292](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg)                                                                  | An open bilingual dialogue language model                                                                      |
 | 22| [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) ![2023-04-20_18892_198](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web.svg)                                                    |                                                             Use Express and Vue3 build for ChatGPT Web |
