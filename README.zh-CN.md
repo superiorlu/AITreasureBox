@@ -111,8 +111,7 @@
 | 91|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-20_1526_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 92|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-20_1489_0](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 |⭐ 93|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) ![2023-04-20_1378_191](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache是一个库，用于创建语义缓存以存储LLM查询的响应。|
-| 94| [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) ![2023-04-20_0_-31654](https://img.shields.io/github/stars/microsoft/visual-chatgpt.svg)                                               |                                                   Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
-| 95| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-20_0_0](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | 使用 GPT-4 控制浏览器并代表自己执行重复操作 |
+| 94| [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) ![stars](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg)                                               |                                                   Visual ChatGPT：使用视觉基础模型进行对话、绘画和编辑 |
 
 **说明:**
 | 符号| 规则 |

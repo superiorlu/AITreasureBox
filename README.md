@@ -111,8 +111,7 @@
 | 91|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-20_1526_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 92|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-20_1489_0](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
 |⭐ 93|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) ![2023-04-20_1378_191](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache is a library for creating semantic cache to store responses from LLM queries.|
-| 94| [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) ![2023-04-20_0_-31654](https://img.shields.io/github/stars/microsoft/visual-chatgpt.svg)                                               |                                                   Talking, Drawing and Editing with Visual Foundation Models|
-| 95| [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) ![2023-04-20_0_0](https://img.shields.io/github/stars/TaxyAI/browser-extension.svg) | Uses GPT-4 to control your browser and perform repetitive actions on your behalf |
+| 94| [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) ![stars](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg)                                               |                                                   Talking, Drawing and Editing with Visual Foundation Models|
 
 **Tip:**
 | symbol| rule |
