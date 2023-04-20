@@ -15,7 +15,16 @@
 <img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:42UTC-brightgreen" />
 </p>
 
+## Catalog
+- [Repos](#repos)
+- [Tools](#tools)
+- [Websites](#websites)
+- [Report&Paper](#reportspapers)
+- [Tutorials](#tutorials)
+
 ## Repos
+> updated stars every 2 hours and re-ranking
+
 | <div width="30px">No</div> | <div width="350px">Repos</div>       |  <div width="400px">Description</div>  |
 | ----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
 | 1|🔥🔥🔥 [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ![2023-04-20_97572_2638](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
@@ -147,7 +156,7 @@
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 
-## Website
+## Websites
 | <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |
 | ----:|:------------------------------------------ |:---------------------------------------------------------------------------------------- |
 |    1 | [OpenAI](https://openai.com/)              | An artificial intelligence research lab |
@@ -163,11 +172,10 @@
 | 11| [ANTHROPIC](https://www.anthropic.com/)| AI research and products that put safety at the frontier |
 
 
-
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 
 
-## Report&Paper
+## Reports&Papers
 | <div style="width:30px">No</div> | <div style="width:300px">Report&Paper</div>                                                                                                           | <div style="width:400px">Description</div>                                                 |
 |:---- |:-------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------- |
 | 1    | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)                                              | GPT-4 Technical Report                              |
@@ -184,7 +192,7 @@
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 
-## Tutorial
+## Tutorials
 
 | <div style="width:30px">No</div> | Tutorial                                                              | Description|
 |:---- |:---------------------------------------------------------------- | --- |

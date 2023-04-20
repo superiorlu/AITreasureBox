@@ -13,8 +13,8 @@ end
 
 # update last date
 def update_all_last_update
-  last_update_time('# AI TreasureBox', '## Repos', 'README.md')
-  last_update_time('# AI 百宝箱', '## 代码库', 'README.zh-CN.md')
+  last_update_time('# AI TreasureBox', '## Catalog', 'README.md')
+  last_update_time('# AI 百宝箱', '## 目录', 'README.zh-CN.md')
 end
 
 # update repos content
