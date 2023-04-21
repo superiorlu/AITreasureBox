@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:17:06UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:43:21UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -80,8 +80,8 @@
 | 51|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-21_7160_38](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs|
 | 52|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) ![2023-04-21_7058_28](https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet.svg)|WebUI extension for ControlNet|
 | 53| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-21_6540_11](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              A demo repo based on OpenAI API (gpt-3.5-turbo) |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 54|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-21_6107_183](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 55|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-21_6091_10](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
+| 54|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-21_6107_183](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
+| 55|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-21_6091_10](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
 | 56|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-21_6047_33](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)|
 | 57| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-21_5996_198](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
 | 58| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-21_5967_81](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
@@ -103,8 +103,8 @@
 | 74| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-21_3728_6](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
 | 75| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-21_3663_57](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
 | 76| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-21_3376_4](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 77|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![2023-04-21_3371_190](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)|PyTorch code and models for the DINOv2 self-supervised learning method.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 78|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-21_3370_39](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
+| 77|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![2023-04-21_3371_190](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)|PyTorch code and models for the DINOv2 self-supervised learning method.|
+| 78|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-21_3370_39](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
 | 79|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-21_3288_38](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
 | 80|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-21_3156_13](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 81|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-21_3135_6](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
@@ -115,16 +115,18 @@
 | 86| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-21_2716_8](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 87|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-21_2526_36](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|A CLI that converts natural language to shell commands.|
 | 88| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-21_2519_9](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
-| 89| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-21_2216_2](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
-| 90|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) ![2023-04-21_2136_21](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|Whisper & GPT-based app for passing remote SWE interviews|
-| 91|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-21_2036_5](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
-| 92|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) ![2023-04-21_1737_75](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache is a library for creating semantic cache to store responses from LLM queries.|
-| 93|[lightaime/camel](https://github.com/lightaime/camel) ![2023-04-21_1675_24](https://img.shields.io/github/stars/lightaime/camel.svg)|🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society|
-| 94|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-21_1643_3](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
-| 95|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-21_1541_8](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
-| 96|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-21_1536_14](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
-| 97|[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) ![2023-04-21_1499_126](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|
-| 98|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) ![2023-04-21_1487_92](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|Inpaint anything using Segment Anything and inpainting models.|
+|⭐ 89|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-21_2329_730](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|Using ChatGPT is more efficient and smoother, perfectly solving ChatGPT network errors. No longer do you need to frequently refresh the webpage, saving over 10 unnecessary steps|
+| 90| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-21_2216_2](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
+| 91|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) ![2023-04-21_2136_21](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|Whisper & GPT-based app for passing remote SWE interviews|
+| 92|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-21_2036_5](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
+| 93|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) ![2023-04-21_1737_75](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache is a library for creating semantic cache to store responses from LLM queries.|
+| 94|[lightaime/camel](https://github.com/lightaime/camel) ![2023-04-21_1675_24](https://img.shields.io/github/stars/lightaime/camel.svg)|🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society|
+| 95|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-21_1643_3](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
+| 96|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-21_1541_8](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
+| 97|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-21_1536_14](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
+| 98|[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) ![2023-04-21_1499_126](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|
+| 99|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) ![2023-04-21_1487_92](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|Inpaint anything using Segment Anything and inpainting models.|
+|⭐ 100|🔥[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-21_1312_238](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|code for preparing large datasets for training large language models|
 
 **Tip:**
 | symbol| rule |
