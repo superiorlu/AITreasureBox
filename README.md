@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:53UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:28UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -81,8 +81,8 @@
 | 52|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) ![2023-04-21_7090_60](https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet.svg)|WebUI extension for ControlNet|
 | 53| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-21_6551_22](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              A demo repo based on OpenAI API (gpt-3.5-turbo) |
 | 54|🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-21_6182_258](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 55|🔥 [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-21_6138_340](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 56|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-21_6111_30](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
+| 55|🔥 [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-21_6138_340](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
+| 56|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-21_6111_30](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
 | 57|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-21_6074_60](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)|
 | 58| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-21_6015_129](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
 | 59| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-21_5947_30](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                |Reverse engineered API of Microsoft's Bing Chat                                                                           |
@@ -122,8 +122,8 @@
 | 93|🔥[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) ![2023-04-21_1907_245](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache is a library for creating semantic cache to store responses from LLM queries.|
 | 94|[lightaime/camel](https://github.com/lightaime/camel) ![2023-04-21_1690_39](https://img.shields.io/github/stars/lightaime/camel.svg)|🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society|
 | 95|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-21_1649_9](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 96|🔥[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) ![2023-04-21_1582_209](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 97|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-21_1573_51](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
+| 96|🔥[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) ![2023-04-21_1582_209](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|
+| 97|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-21_1573_51](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
 | 98|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) ![2023-04-21_1565_170](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|Inpaint anything using Segment Anything and inpainting models.|
 | 99|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-21_1546_13](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 100|🔥[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-21_1368_294](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|code for preparing large datasets for training large language models|

@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:53UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:28UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -81,8 +81,8 @@
 | 52|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) ![2023-04-21_7090_60](https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet.svg)|ControlNet的WebUI扩展|
 | 53| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-21_6551_22](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              一个基于OpenAI API（gpt-3.5-turbo）的演示 |
 | 54|🔥[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-21_6182_258](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 55|🔥 [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-21_6138_340](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 56|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-21_6111_30](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV类似于ChatGPT，但是由RWKV（100% RNN）语言模型提供支持，并且是开源的。|
+| 55|🔥 [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-21_6138_340](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
+| 56|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-21_6111_30](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV类似于ChatGPT，但是由RWKV（100% RNN）语言模型提供支持，并且是开源的。|
 | 57|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-21_6074_60](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|新的Bing基于人工智能的聊天桌面应用程序（Windows，macOS和Linux）|
 | 58| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-21_6015_129](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | 中文LLaMA&Alpaca大语言模型+本地部署|
 | 59| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-21_5947_30](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                | 逆向工程微软的必应Chat API                                                                             |
@@ -122,8 +122,8 @@
 | 93|🔥[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) ![2023-04-21_1907_245](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache是一个库，用于创建语义缓存以存储LLM查询的响应。|
 | 94|[lightaime/camel](https://github.com/lightaime/camel) ![2023-04-21_1690_39](https://img.shields.io/github/stars/lightaime/camel.svg)|CAMEL 是 Communicative Agents for “Mind” Exploration of Large Scale Language Model Society 的缩写，意为大规模语言模型社会的“心智”探索通讯代理。|
 | 95|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-21_1649_9](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 96|🔥[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) ![2023-04-21_1582_209](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|这是一种基于GPT3.5/4的最小通用自主代理，可以分析股票价格、执行网络安全测试、创作艺术并订购披萨。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 97|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-21_1573_51](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
+| 96|🔥[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) ![2023-04-21_1582_209](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|这是一种基于GPT3.5/4的最小通用自主代理，可以分析股票价格、执行网络安全测试、创作艺术并订购披萨。|
+| 97|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-21_1573_51](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 | 98|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) ![2023-04-21_1565_170](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|使用“Segment Anything”和修复模型，可以修复任何缺失的区域。|
 | 99|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-21_1546_13](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 100|🔥[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-21_1368_294](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
