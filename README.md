@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:43:21UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:40UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -115,7 +115,7 @@
 | 86| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-21_2716_8](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 87|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-21_2526_36](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|A CLI that converts natural language to shell commands.|
 | 88| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-21_2519_9](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
-|⭐ 89|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-21_2329_730](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|Using ChatGPT is more efficient and smoother, perfectly solving ChatGPT network errors. No longer do you need to frequently refresh the webpage, saving over 10 unnecessary steps|
+| 89|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-21_2329_730](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|Using ChatGPT is more efficient and smoother, perfectly solving ChatGPT network errors. No longer do you need to frequently refresh the webpage, saving over 10 unnecessary steps|
 | 90| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-21_2216_2](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
 | 91|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) ![2023-04-21_2136_21](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|Whisper & GPT-based app for passing remote SWE interviews|
 | 92|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-21_2036_5](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
@@ -126,7 +126,7 @@
 | 97|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-21_1536_14](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
 | 98|[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) ![2023-04-21_1499_126](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|
 | 99|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) ![2023-04-21_1487_92](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|Inpaint anything using Segment Anything and inpainting models.|
-|⭐ 100|🔥[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-21_1312_238](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|code for preparing large datasets for training large language models|
+| 100|🔥[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-21_1312_238](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|code for preparing large datasets for training large language models|
 
 **Tip:**
 | symbol| rule |

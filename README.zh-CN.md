@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:43:21UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:40UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -115,7 +115,7 @@
 | 86| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-21_2716_8](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 87|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-21_2526_36](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|将自然语言转换为Shell命令的CLI工具|
 | 88| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-21_2519_9](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
-|⭐ 89|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-21_2329_730](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|
+| 89|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-21_2329_730](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|
 | 90| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-21_2216_2](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>   | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 | 91|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) ![2023-04-21_2136_21](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|这个项目是一个基于 GPT 技术的应用程序，用于通过 Whisper 进行远程软件工程师面试。|
 | 92|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-21_2036_5](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
@@ -126,7 +126,7 @@
 | 97|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-21_1536_14](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 | 98|[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) ![2023-04-21_1499_126](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|这是一种基于GPT3.5/4的最小通用自主代理，可以分析股票价格、执行网络安全测试、创作艺术并订购披萨。|
 | 99|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) ![2023-04-21_1487_92](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|使用“Segment Anything”和修复模型，可以修复任何缺失的区域。|
-|⭐ 100|🔥[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-21_1312_238](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
+| 100|🔥[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-21_1312_238](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
 
 **说明:**
 | 符号| 规则 |
