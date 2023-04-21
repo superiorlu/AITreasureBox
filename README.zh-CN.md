@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:28UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:57UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -65,8 +65,8 @@
 | 36| [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) ![2023-04-21_11476_3](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg)| 可以本地部署的开源GitHub Copilot服务 |
 | 37| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)  ![2023-04-21_11398_4](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt.svg)                                     |                                                                                        微信接入ChatGPT |
 | 38|[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-21_11304_49](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|使用OpenAI和Pinecone API来创建、优先排序和执行任务,是原始Task-Driven Autonomous Agent的简化版|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 39|🔥🔥[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) ![2023-04-21_10640_870](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg)|使用先进的大型语言模型增强视觉语言理解能力|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 40|[Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) ![2023-04-21_10347_6](https://img.shields.io/github/stars/Sanster/lama-cleaner.svg)|由SOTA AI模型提供支持的图像修复工具。可以从图片中移除任何不需要的对象、瑕疵或者人物，或使用稳定扩散技术擦除和替换图片中的任何内容|
+| 39|🔥🔥[Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) ![2023-04-21_10640_870](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg)|使用先进的大型语言模型增强视觉语言理解能力|
+| 40|[Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) ![2023-04-21_10347_6](https://img.shields.io/github/stars/Sanster/lama-cleaner.svg)|由SOTA AI模型提供支持的图像修复工具。可以从图片中移除任何不需要的对象、瑕疵或者人物，或使用稳定扩散技术擦除和替换图片中的任何内容|
 | 41| [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ![2023-04-21_10123_14](https://img.shields.io/github/stars/tloen/alpaca-lora.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/tloen/alpaca-lora" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>         | 在个人电子设备硬件上调整LLaMA|
 | 42|[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![2023-04-21_9976_24](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg)|一个Gradio Web UI，用于运行像LLaMA、llama.cpp、GPT-J、OPT和GALACTICA这样的大型语言模型|
 | 43| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ![2023-04-21_9544_23](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat.svg)|使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现|
@@ -104,8 +104,8 @@
 | 75| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-21_3638_32](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 76| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-21_3375_3](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 77|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-21_3351_20](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC 提示词可视化编辑器|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 78|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![2023-04-21_3290_109](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)|DINOv2自监督学习方法的PyTorch代码和模型。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 79|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-21_3269_19](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
+| 78|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![2023-04-21_3290_109](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)|DINOv2自监督学习方法的PyTorch代码和模型。|
+| 79|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-21_3269_19](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
 | 80|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-21_3154_11](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
 | 81|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-21_3133_4](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 82| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-21_2933_6](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
