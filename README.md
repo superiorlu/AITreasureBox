@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:24:53UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:08:32UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -66,7 +66,7 @@
 | 37|[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-22_11591_91](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks, This is a pared-down version of the original Task-Driven Autonomous Agent|
 | 38| [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) ![2023-04-22_11499_9](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg)| An open-source GitHub Copilot server |
 | 39| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)  ![2023-04-22_11437_17](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt.svg)                                     |                                                                                        Use ChatGPT On Wechat via wechaty |
-|⭐ 40|🔥🔥🔥[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ![2023-04-22_10475_2207](https://img.shields.io/github/stars/Stability-AI/StableLM.svg)|Stability AI Language Models|
+| 40|🔥🔥🔥[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ![2023-04-22_10475_2207](https://img.shields.io/github/stars/Stability-AI/StableLM.svg)|Stability AI Language Models|
 | 41|[Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) ![2023-04-22_10384_11](https://img.shields.io/github/stars/Sanster/lama-cleaner.svg)|Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.|
 | 42| [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ![2023-04-22_10208_30](https://img.shields.io/github/stars/tloen/alpaca-lora.svg)   <a alt="Click Me" href="https://huggingface.co/spaces/tloen/alpaca-lora" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>        | Instruct-tune LLaMA on consumer hardware|
 | 43|[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![2023-04-22_10106_53](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg)|A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.|

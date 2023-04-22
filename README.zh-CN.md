@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:24:53UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:08:32UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -66,7 +66,7 @@
 | 37|[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ![2023-04-22_11591_91](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg)|使用OpenAI和Pinecone API来创建、优先排序和执行任务,是原始Task-Driven Autonomous Agent的简化版|
 | 38| [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) ![2023-04-22_11499_9](https://img.shields.io/github/stars/fauxpilot/fauxpilot.svg)| 可以本地部署的开源GitHub Copilot服务 |
 | 39| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)  ![2023-04-22_11437_17](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt.svg)                                     |                                                                                        微信接入ChatGPT |
-|⭐ 40|🔥🔥🔥[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ![2023-04-22_10475_2207](https://img.shields.io/github/stars/Stability-AI/StableLM.svg)|稳定的人工智能语言模型。|
+| 40|🔥🔥🔥[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ![2023-04-22_10475_2207](https://img.shields.io/github/stars/Stability-AI/StableLM.svg)|稳定的人工智能语言模型。|
 | 41|[Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) ![2023-04-22_10384_11](https://img.shields.io/github/stars/Sanster/lama-cleaner.svg)|由SOTA AI模型提供支持的图像修复工具。可以从图片中移除任何不需要的对象、瑕疵或者人物，或使用稳定扩散技术擦除和替换图片中的任何内容|
 | 42| [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) ![2023-04-22_10208_30](https://img.shields.io/github/stars/tloen/alpaca-lora.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/tloen/alpaca-lora" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a>         | 在个人电子设备硬件上调整LLaMA|
 | 43|[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) ![2023-04-22_10106_53](https://img.shields.io/github/stars/oobabooga/text-generation-webui.svg)|一个Gradio Web UI，用于运行像LLaMA、llama.cpp、GPT-J、OPT和GALACTICA这样的大型语言模型|
