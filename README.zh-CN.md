@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:18UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:30UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -99,14 +99,14 @@
 | 70|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ![2023-04-22_4028_14](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|将大型语言模型和聊天引入Web浏览器。所有功能均在浏览器内运行，不需要服务器支持。|
 | 71|[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-22_3936_37](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|这是一个街头霸王II冠军版的AI代理。|
 | 72|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-22_3888_13](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 73| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-22_3753_6](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 74| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-22_3752_5](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
+| 73| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-22_3753_6](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
+| 74| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-22_3752_5](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 75| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-22_3704_3](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 76|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![2023-04-22_3525_29](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)|DINOv2自监督学习方法的PyTorch代码和模型。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 77|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-22_3460_2127](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 文本提示生成音频模型。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 78|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-22_3420_8](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC 提示词可视化编辑器|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 79| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-22_3379_1](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 80|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-22_3316_9](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
+| 77|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-22_3460_2127](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 文本提示生成音频模型。|
+| 78|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-22_3420_8](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC 提示词可视化编辑器|
+| 79| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-22_3379_1](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
+| 80|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-22_3316_9](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
 | 81|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-22_3174_4](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
 | 82|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-22_3146_2](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 83|[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-22_3047_175](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|

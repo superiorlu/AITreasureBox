@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:16:18UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:30UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -99,14 +99,14 @@
 | 70|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ![2023-04-22_4028_14](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.|
 | 71|[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-22_3936_37](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|This is an AI agent for Street Fighter II Champion Edition.|
 | 72|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-22_3888_13](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 73| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-22_3753_6](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 74| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-22_3752_5](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
+| 73| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-22_3753_6](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
+| 74| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-22_3752_5](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
 | 75| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-22_3704_3](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
 | 76|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![2023-04-22_3525_29](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)|PyTorch code and models for the DINOv2 self-supervised learning method.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 77|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-22_3460_2127](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 Text-Prompted Generative Audio Model|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 78|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-22_3420_8](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 79| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-22_3379_1](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 80|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-22_3316_9](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
+| 77|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-22_3460_2127](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 Text-Prompted Generative Audio Model|
+| 78|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-22_3420_8](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
+| 79| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-22_3379_1](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
+| 80|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-22_3316_9](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
 | 81|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-22_3174_4](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 82|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-22_3146_2](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 83|[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-22_3047_175](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|Using ChatGPT is more efficient and smoother, perfectly solving ChatGPT network errors. No longer do you need to frequently refresh the webpage, saving over 10 unnecessary steps|
