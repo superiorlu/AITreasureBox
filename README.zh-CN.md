@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:16:24UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:08:55UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -97,19 +97,19 @@
 | 68| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) ![2023-04-22_4366_6](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
 | 69|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-22_4341_7](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
 | 70|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ![2023-04-22_4035_21](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|将大型语言模型和聊天引入Web浏览器。所有功能均在浏览器内运行，不需要服务器支持。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 71|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-22_3988_2655](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 文本提示生成音频模型。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 72|[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-22_3974_75](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|这是一个街头霸王II冠军版的AI代理。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 73|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-22_3892_17](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
+| 71|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-22_3988_2655](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 文本提示生成音频模型。|
+| 72|[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-22_3974_75](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|这是一个街头霸王II冠军版的AI代理。|
+| 73|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-22_3892_17](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
 | 74| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-22_3756_9](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 75| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-22_3755_8](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
+| 75| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-22_3755_8](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
 | 76| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-22_3708_7](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 77|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) ![2023-04-22_3542_46](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)|DINOv2自监督学习方法的PyTorch代码和模型。|
 | 78|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-22_3428_16](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC 提示词可视化编辑器|
 | 79| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-22_3380_2](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 80|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-22_3330_23](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 81|🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-22_3225_353](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 82|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-22_3178_8](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 83|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-22_3148_4](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
+| 81|🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-22_3225_353](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|
+| 82|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-22_3178_8](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
+| 83|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-22_3148_4](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 84|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-22_2974_50](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
 | 85| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-22_2951_7](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
 | 86| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-22_2933_4](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
