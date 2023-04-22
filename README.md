@@ -25,7 +25,7 @@
 ## Repos
 > updated repos and stars every 2 hours and re-ranking automatically.
 
-| <div width="30px">No</div> | <div width="350px">Repos</div>       |  <div width="400px">Description</div>  |
+| <div width="30px">No.</div> | <div width="350px">Repos</div>       |  <div width="400px">Description</div>  |
 | ----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
 | 1|🔥🔥🔥 [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ![2023-04-22_102595_1302](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
 | 2| [huggingface/transformers](https://github.com/huggingface/transformers) ![2023-04-22_95176_117](https://img.shields.io/github/stars/huggingface/transformers.svg) | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
@@ -142,7 +142,7 @@
 
 ## Tools
 
-| <div style="width:30px">No</div> | Tool                                          | Description     | 
+| <div style="width:30px">No.</div> | Tool                                          | Description     | 
 | ----:|:----------------------------------------------- |:------------------------------------------------------------------------------------------- |
 |    1 | [ChatGPT](https://chat.openai.com/chat)         | A sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response |
 |    2 | [DALL·E 2](https://labs.openai.com/) | Create original, realistic images and art from a text description                   |
@@ -162,7 +162,7 @@
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 
 ## Websites
-| <div style="width:30px">No</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |
+| <div style="width:30px">No.</div>  | <div style="width:150px">WebSite</div>                                       |Description                                                                         |
 | ----:|:------------------------------------------ |:---------------------------------------------------------------------------------------- |
 |    1 | [OpenAI](https://openai.com/)              | An artificial intelligence research lab |
 |    2 | [Bard](https://bard.google.com/)              | Base Google's LaMDA chatbots and pull from internet |
@@ -181,7 +181,7 @@
 
 
 ## Reports&Papers
-| <div style="width:30px">No</div> | <div style="width:300px">Report&Paper</div>                                                                                                           | <div style="width:400px">Description</div>                                                 |
+| <div style="width:30px">No.</div> | <div style="width:300px">Report&Paper</div>                                                                                                           | <div style="width:400px">Description</div>                                                 |
 |:---- |:-------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------- |
 | 1    | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)                                              | GPT-4 Technical Report                              |
 | 2    | [mli/paper-reading](https://github.com/mli/paper-reading)                                                      | Deep learning classics and new papers are read carefully paragraph by paragraph.                        |
@@ -199,7 +199,7 @@
 
 ## Tutorials
 
-| <div style="width:30px">No</div> | Tutorial                                                              | Description|
+| <div style="width:30px">No.</div> | Tutorial                                                              | Description|
 |:---- |:---------------------------------------------------------------- | --- |
 | 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | The Machine Learning Specialization Course taught by Dr. Andrew Ng|
 | 2    | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|
