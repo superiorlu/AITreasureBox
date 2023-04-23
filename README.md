@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:30UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:54:05UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -83,8 +83,8 @@
 | 54| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-22_6571_19](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              A demo repo based on OpenAI API (gpt-3.5-turbo) |
 | 55| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-22_6345_172](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
 | 56|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-22_6278_86](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|Code to accompany "A Method for Animating Children's Drawings of the Human Figure"|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 57|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-22_6144_31](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 58|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-22_6142_64](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)|
+| 57|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-22_6144_31](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.|
+| 58|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-22_6142_64](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)|
 | 59| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-22_6095_78](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | Chinese LLaMA & Alpaca LLMs |
 | 60| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-22_5976_27](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                |Reverse engineered API of Microsoft's Bing Chat                                                                           |
 | 61|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-22_5769_16](https://img.shields.io/github/stars/TabbyML/tabby.svg)|Self-hosted AI coding assistant|
@@ -130,6 +130,7 @@
 | 101|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-22_1620_41](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
 | 102|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-22_1553_7](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 103|[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-22_1494_114](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|code for preparing large datasets for training large language models|
+|⭐ 104|🔥[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) ![2023-04-23_1323_285](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg)|Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.|
 
 **Tip:**
 | symbol| rule |

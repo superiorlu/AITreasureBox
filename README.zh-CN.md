@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:30UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:54:05UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -83,8 +83,8 @@
 | 54| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-22_6571_19](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              一个基于OpenAI API（gpt-3.5-turbo）的演示 |
 | 55| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-22_6345_172](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
 | 56|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) ![2023-04-22_6278_86](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 57|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-22_6144_31](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV类似于ChatGPT，但是由RWKV（100% RNN）语言模型提供支持，并且是开源的。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 58|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-22_6142_64](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|新的Bing基于人工智能的聊天桌面应用程序（Windows，macOS和Linux）|
+| 57|[BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) ![2023-04-22_6144_31](https://img.shields.io/github/stars/BlinkDL/ChatRWKV.svg)|ChatRWKV类似于ChatGPT，但是由RWKV（100% RNN）语言模型提供支持，并且是开源的。|
+| 58|[dice2o/BingGPT](https://github.com/dice2o/BingGPT) ![2023-04-22_6142_64](https://img.shields.io/github/stars/dice2o/BingGPT.svg)|新的Bing基于人工智能的聊天桌面应用程序（Windows，macOS和Linux）|
 | 59| [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ![2023-04-22_6095_78](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg) | 中文LLaMA&Alpaca大语言模型+本地部署|
 | 60| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-22_5976_27](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                | 逆向工程微软的必应Chat API                                                                             |
 | 61|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-22_5769_16](https://img.shields.io/github/stars/TabbyML/tabby.svg)|可搭建的人工智能编码助手|
@@ -130,6 +130,7 @@
 | 101|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-22_1620_41](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 | 102|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-22_1553_7](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 103|[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) ![2023-04-22_1494_114](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
+|⭐ 104|🔥[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) ![2023-04-23_1323_285](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg)|面向多模态GPT-4级能力构建的大型语言和视觉助手。|
 
 **说明:**
 | 符号| 规则 |
