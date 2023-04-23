@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:11:26UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:08:31UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -78,8 +78,8 @@
 | 49| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ![2023-04-23_8836_35](https://img.shields.io/github/stars/willwulfken/MidJourney-Styles-and-Keywords-Reference.svg)| 包含MidJourney AI可用的样式和关键词的参考文献|
 | 50| [openai/evals](https://github.com/openai/evals)     ![2023-04-23_8616_35](https://img.shields.io/github/stars/openai/evals.svg)                                                                               |                                                  Evals是一个用于评估OpenAI模型的框架和一个开源基准测试 |
 | 51| [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  ![2023-04-23_8265_151](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain.svg)       | GPT4和LangChain聊天机器人用于大型PDF文档 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 52|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-23_7430_1892](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 文本提示生成音频模型。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 53|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-23_7315_53](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|将Grounding DINO与Segment Anything & Stable Diffusion & BLIP相结合-通过图像和文本输入自动检测、分割和生成任何东西|
+| 52|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-23_7430_1892](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 文本提示生成音频模型。|
+| 53|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-23_7315_53](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|将Grounding DINO与Segment Anything & Stable Diffusion & BLIP相结合-通过图像和文本输入自动检测、分割和生成任何东西|
 | 54|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) ![2023-04-23_7199_52](https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet.svg)|ControlNet的WebUI扩展|
 | 55| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-23_6594_23](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              一个基于OpenAI API（gpt-3.5-turbo）的演示 |
 | 56| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-23_6436_91](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|

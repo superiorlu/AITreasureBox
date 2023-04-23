@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:11:26UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:08:31UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -78,8 +78,8 @@
 | 49| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) ![2023-04-23_8836_35](https://img.shields.io/github/stars/willwulfken/MidJourney-Styles-and-Keywords-Reference.svg)| A reference containing Styles and Keywords that you can use with MidJourney AI|
 | 50| [openai/evals](https://github.com/openai/evals)     ![2023-04-23_8616_35](https://img.shields.io/github/stars/openai/evals.svg)                                                                               |                                                 Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks |
 | 51| [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  ![2023-04-23_8265_151](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain.svg)       | GPT4 & LangChain Chatbot for large PDF docs |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 52|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-23_7430_1892](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 Text-Prompted Generative Audio Model|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 53|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-23_7315_53](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs|
+| 52|🔥🔥🔥[suno-ai/bark](https://github.com/suno-ai/bark) ![2023-04-23_7430_1892](https://img.shields.io/github/stars/suno-ai/bark.svg)|🔊 Text-Prompted Generative Audio Model|
+| 53|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) ![2023-04-23_7315_53](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs|
 | 54|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) ![2023-04-23_7199_52](https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet.svg)|WebUI extension for ControlNet|
 | 55| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  ![2023-04-23_6594_23](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              A demo repo based on OpenAI API (gpt-3.5-turbo) |
 | 56| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) ![2023-04-23_6436_91](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |Integrate cutting-edge LLM technology quickly and easily into your apps|
