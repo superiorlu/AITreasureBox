@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:16:12UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:04UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -93,8 +93,8 @@
 | 64| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-23_5073_13](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
 | 65|[ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) ![2023-04-23_4988_16](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion.svg)|一个使用Pytorch实现的文本到三维图像合成模型，利用稳定扩散的技术驱动。|
 | 66|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-23_4811_13](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 67|🔥🔥🔥[OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) ![2023-04-23_4781_1366](https://img.shields.io/github/stars/OpenLMLab/MOSS.svg)|一种来自复旦大学的开源工具增强对话语言模型|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 68|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-23_4726_13](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|
+| 67|🔥🔥🔥[OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) ![2023-04-23_4781_1366](https://img.shields.io/github/stars/OpenLMLab/MOSS.svg)|一种来自复旦大学的开源工具增强对话语言模型|
+| 68|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-23_4726_13](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|
 | 69| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-23_4519_7](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
 | 70| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-23_4433_4](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
 | 71| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-23_4404_15](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
@@ -102,8 +102,8 @@
 | 73|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-23_4366_10](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
 | 74|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ![2023-04-23_4110_39](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|将大型语言模型和聊天引入Web浏览器。所有功能均在浏览器内运行，不需要服务器支持。|
 | 75|[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-23_4102_63](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|这是一个街头霸王II冠军版的AI代理。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 76|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-23_4032_475](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 77|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-23_3957_25](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
+| 76|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-23_4032_475](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|
+| 77|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-23_3957_25](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
 | 78| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-23_3884_72](https://img.shields.io/github/stars/BloopAI/bloop.svg)| 用 Rust 写的快速代码搜索引擎，它使用 GPT-4 来回答关于你的代码的问题|
 | 79| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-23_3776_10](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
 | 80| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-23_3769_10](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |

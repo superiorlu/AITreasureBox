@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-08:16:12UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-10:09:04UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -93,8 +93,8 @@
 | 64| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-23_5073_13](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| A powerful and modular stable diffusion GUI with a graph/nodes interface. |
 | 65|[ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) ![2023-04-23_4988_16](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion.svg)|A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.|
 | 66|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-23_4811_13](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 67|🔥🔥🔥[OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) ![2023-04-23_4781_1366](https://img.shields.io/github/stars/OpenLMLab/MOSS.svg)|An open-source tool-augmented conversational language model from Fudan University|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 68|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-23_4726_13](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
+| 67|🔥🔥🔥[OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) ![2023-04-23_4781_1366](https://img.shields.io/github/stars/OpenLMLab/MOSS.svg)|An open-source tool-augmented conversational language model from Fudan University|
+| 68|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-23_4726_13](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
 | 69| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) ![2023-04-23_4519_7](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
 | 70| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    ![2023-04-23_4433_4](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
 | 71| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) ![2023-04-23_4404_15](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
@@ -102,8 +102,8 @@
 | 73|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) ![2023-04-23_4366_10](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
 | 74|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) ![2023-04-23_4110_39](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.|
 | 75|[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) ![2023-04-23_4102_63](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|This is an AI agent for Street Fighter II Champion Edition.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 76|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-23_4032_475](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|Using ChatGPT is more efficient and smoother, perfectly solving ChatGPT network errors. No longer do you need to frequently refresh the webpage, saving over 10 unnecessary steps|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 77|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-23_3957_25](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|
+| 76|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-23_4032_475](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|Using ChatGPT is more efficient and smoother, perfectly solving ChatGPT network errors. No longer do you need to frequently refresh the webpage, saving over 10 unnecessary steps|
+| 77|[chroma-core/chroma](https://github.com/chroma-core/chroma) ![2023-04-23_3957_25](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|
 | 78| [BloopAI/bloop](https://github.com/BloopAI/bloop) ![2023-04-23_3884_72](https://img.shields.io/github/stars/BloopAI/bloop.svg)| A fast code search engine written in Rust|
 | 79| [nsarrazin/serge](https://github.com/nsarrazin/serge)  ![2023-04-23_3776_10](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
 | 80| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-23_3769_10](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
