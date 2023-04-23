@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:15:34UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:16UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -111,8 +111,8 @@
 | 82|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-23_3521_70](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)|AIGC Hint Word Visualization Editor|
 | 83|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-23_3428_68](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
 | 84| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-23_3387_7](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 85|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-23_3208_168](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 86|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-23_3206_20](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
+| 85|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-23_3208_168](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
+| 86|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-23_3206_20](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 87|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-23_3161_9](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 88| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-23_2980_18](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 89| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      ![2023-04-23_2958_16](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
@@ -120,8 +120,8 @@
 | 91| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  ![2023-04-23_2740_6](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
 | 92|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) ![2023-04-23_2610_19](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|A CLI that converts natural language to shell commands.|
 | 93| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) ![2023-04-23_2540_7](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 94|🔥🔥🔥[xtekky/gpt4free](https://github.com/xtekky/gpt4free) ![2023-04-23_2343_1013](https://img.shields.io/github/stars/xtekky/gpt4free.svg)|decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 95|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) ![2023-04-23_2304_161](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache is a library for creating semantic cache to store responses from LLM queries.|
+| 94|🔥🔥🔥[xtekky/gpt4free](https://github.com/xtekky/gpt4free) ![2023-04-23_2343_1013](https://img.shields.io/github/stars/xtekky/gpt4free.svg)|decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)|
+| 95|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) ![2023-04-23_2304_161](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache is a library for creating semantic cache to store responses from LLM queries.|
 | 96| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) ![2023-04-23_2252_17](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
 | 97|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) ![2023-04-23_2208_24](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|Whisper & GPT-based app for passing remote SWE interviews|
 | 98|[emcf/engshell](https://github.com/emcf/engshell) ![2023-04-23_2048_3](https://img.shields.io/github/stars/emcf/engshell.svg)|An English-language shell for any OS, powered by LLMs|
