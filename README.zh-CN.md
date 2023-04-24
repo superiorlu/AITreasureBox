@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:00:45UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:52UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -90,8 +90,8 @@
 | 61| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-24_6035_27](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                | 逆向工程微软的必应Chat API                                                                             |
 | 62|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-24_5817_21](https://img.shields.io/github/stars/TabbyML/tabby.svg)|可搭建的人工智能编码助手|
 | 63|[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) ![2023-04-24_5294_23](https://img.shields.io/github/stars/chidiwilliams/buzz.svg)|Buzz使用OpenAI的Whisper技术，在个人计算机上离线转录和翻译音频。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 64|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-24_5115_746](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 65| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-24_5111_19](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
+| 64|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-24_5115_746](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤|
+| 65| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-24_5111_19](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| 一个功能强大、模块化的稳定扩散(stable diffusion)图形用户界面 |
 | 66|[ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) ![2023-04-24_5021_24](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion.svg)|一个使用Pytorch实现的文本到三维图像合成模型，利用稳定扩散的技术驱动。|
 | 67|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-24_4857_34](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
 | 68|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-24_4779_36](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|

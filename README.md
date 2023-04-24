@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:00:45UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:52UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -90,8 +90,8 @@
 | 61| [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT)     ![2023-04-24_6035_27](https://img.shields.io/github/stars/acheong08/EdgeGPT.svg)                                                                |Reverse engineered API of Microsoft's Bing Chat                                                                           |
 | 62|[TabbyML/tabby](https://github.com/TabbyML/tabby) ![2023-04-24_5817_21](https://img.shields.io/github/stars/TabbyML/tabby.svg)|Self-hosted AI coding assistant|
 | 63|[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) ![2023-04-24_5294_23](https://img.shields.io/github/stars/chidiwilliams/buzz.svg)|Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 64|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-24_5115_746](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|Using ChatGPT is more efficient and smoother, perfectly solving ChatGPT network errors. No longer do you need to frequently refresh the webpage, saving over 10 unnecessary steps|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 65| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-24_5111_19](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| A powerful and modular stable diffusion GUI with a graph/nodes interface. |
+| 64|🔥🔥[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) ![2023-04-24_5115_746](https://img.shields.io/github/stars/xcanwin/KeepChatGPT.svg)|Using ChatGPT is more efficient and smoother, perfectly solving ChatGPT network errors. No longer do you need to frequently refresh the webpage, saving over 10 unnecessary steps|
+| 65| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![2023-04-24_5111_19](https://img.shields.io/github/stars/comfyanonymous/ComfyUI)| A powerful and modular stable diffusion GUI with a graph/nodes interface. |
 | 66|[ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) ![2023-04-24_5021_24](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion.svg)|A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.|
 | 67|[openai/consistency_models](https://github.com/openai/consistency_models) ![2023-04-24_4857_34](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
 | 68|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) ![2023-04-24_4779_36](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
