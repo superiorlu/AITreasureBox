@@ -136,7 +136,7 @@
 | 107|🔥[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1602_293](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
 | 108|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1571_5](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 109|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-24_1568_126](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
-| 110| [Free-ChatGPT-Site-List/carrot](https://github.com/Free-ChatGPT-Site-List/carrot)  ![2023-04-24_0_0](https://img.shields.io/github/stars/Free-ChatGPT-Site-List/carrot.svg)                                                                                                                                                                                       |     收集了一些免费好用的ChatGPT镜像站    |
+| 110| [xx025/carrot](https://github.com/xx025/carrot) ![stars](https://img.shields.io/github/stars/xx025/carrot.svg)                                                                                                                                                                                       |     收集了一些免费好用的ChatGPT镜像站    |
 
 **说明:**
 | 符号| 规则 |

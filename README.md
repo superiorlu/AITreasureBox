@@ -136,7 +136,7 @@
 | 107|🔥[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1602_293](https://img.shields.io/github/stars/0hq/WebGPT.svg)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.|
 | 108|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1571_5](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 109|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-24_1568_126](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
-| 110| [Free-ChatGPT-Site-List/carrot](https://github.com/Free-ChatGPT-Site-List/carrot)  ![2023-04-24_0_0](https://img.shields.io/github/stars/Free-ChatGPT-Site-List/carrot.svg)    |    Free ChatGPT Site List    |
+| 110| [xx025/carrot](https://github.com/xx025/carrot)  ![stars](https://img.shields.io/github/stars/xx025/carrot.svg)    |    Free ChatGPT Site List    |
 
 **Tip:**
 | symbol| rule |
