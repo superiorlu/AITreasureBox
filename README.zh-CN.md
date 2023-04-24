@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:56:34UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:09:27UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -132,9 +132,9 @@
 | 103|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-24_1665_3](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 104|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-24_1644_3](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 | 105|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1566_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
-|⭐ 106|🔥🔥[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) ![2023-04-24_1554_549](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)|⚖️ AI 法律助手|
+| 106|🔥🔥[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) ![2023-04-24_1554_549](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)|⚖️ AI 法律助手|
 | 107|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) ![2023-04-24_1519_56](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg)|面向多模态GPT-4级能力构建的大型语言和视觉助手。|
-|⭐ 108|[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1474_165](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
+| 108|[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1474_165](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
 
 **说明:**
 | 符号| 规则 |

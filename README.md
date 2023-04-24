@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:56:34UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:09:27UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -132,9 +132,9 @@
 | 103|[baaivision/Painter](https://github.com/baaivision/Painter) ![2023-04-24_1665_3](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 104|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-24_1644_3](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
 | 105|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1566_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
-|⭐ 106|🔥🔥[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) ![2023-04-24_1554_549](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)|⚖️ AI Legal Assistant|
+| 106|🔥🔥[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) ![2023-04-24_1554_549](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)|⚖️ AI Legal Assistant|
 | 107|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) ![2023-04-24_1519_56](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg)|Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.|
-|⭐ 108|[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1474_165](https://img.shields.io/github/stars/0hq/WebGPT.svg)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.|
+| 108|[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1474_165](https://img.shields.io/github/stars/0hq/WebGPT.svg)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.|
 
 **Tip:**
 | symbol| rule |
