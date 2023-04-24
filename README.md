@@ -136,7 +136,7 @@
 |![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 107|🔥[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1597_288](https://img.shields.io/github/stars/0hq/WebGPT.svg)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.|
 |![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 108|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1571_5](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 |![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 109|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-24_1564_122](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 110| [xx025/carrot](https://github.com/xx025/carrot)  ![2023-04-24_0_-9358](https://img.shields.io/github/stars/xx025/carrot.svg)  |    Free ChatGPT Site List    |
+|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 110| [Free-ChatGPT-Site-List/carrot](https://github.com/Free-ChatGPT-Site-List/carrot)  ![stars](https://img.shields.io/github/stars/Free-ChatGPT-Site-List/carrot.svg)    |    Free ChatGPT Site List    |
 
 **Tip:**
 | symbol| rule |
