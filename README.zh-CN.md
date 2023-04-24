@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:59UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:44UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -110,9 +110,9 @@
 | 81| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-24_3783_8](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 82|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-24_3606_83](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg) <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Open%20in%20Demo-brightgreen" alt="Open in Demo"/></a> |AIGC 提示词可视化编辑器|
 | 83|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-24_3482_51](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 84|🔥🔥🔥[xtekky/gpt4free](https://github.com/xtekky/gpt4free) ![2023-04-24_3452_1006](https://img.shields.io/github/stars/xtekky/gpt4free.svg)|将AI行业分散化，通过多个反向工程API（如poe.com、phind.com、chat.openai.com等）提供免费的GPT-4 / 3.5脚本。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 85|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-24_3399_185](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 86| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-24_3392_4](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
+| 84|🔥🔥🔥[xtekky/gpt4free](https://github.com/xtekky/gpt4free) ![2023-04-24_3452_1006](https://img.shields.io/github/stars/xtekky/gpt4free.svg)|将AI行业分散化，通过多个反向工程API（如poe.com、phind.com、chat.openai.com等）提供免费的GPT-4 / 3.5脚本。|
+| 85|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-24_3399_185](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
+| 86| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-24_3392_4](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 87|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-24_3231_22](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
 | 88|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-24_3175_13](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 89| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-24_3003_22](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
@@ -135,8 +135,8 @@
 | 106|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-24_1666_25](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 | 107|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) ![2023-04-24_1652_189](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg)|面向多模态GPT-4级能力构建的大型语言和视觉助手。|
 | 108|🔥[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1614_305](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 109|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-24_1575_133](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 110|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1571_5](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
+| 109|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-24_1575_133](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
+| 110|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1571_5](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 
 **说明:**
 | 符号| 规则 |

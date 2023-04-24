@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:59UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:44UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -110,9 +110,9 @@
 | 81| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  ![2023-04-24_3783_8](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
 | 82|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) ![2023-04-24_3606_83](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg) <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Open%20in%20Demo-brightgreen" alt="Open in Demo"/></a> |AIGC Hint Word Visualization Editor|
 | 83|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) ![2023-04-24_3482_51](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 84|🔥🔥🔥[xtekky/gpt4free](https://github.com/xtekky/gpt4free) ![2023-04-24_3452_1006](https://img.shields.io/github/stars/xtekky/gpt4free.svg)|decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 85|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-24_3399_185](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 86| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-24_3392_4](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
+| 84|🔥🔥🔥[xtekky/gpt4free](https://github.com/xtekky/gpt4free) ![2023-04-24_3452_1006](https://img.shields.io/github/stars/xtekky/gpt4free.svg)|decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)|
+| 85|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) ![2023-04-24_3399_185](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
+| 86| [keijiro/AICommand](https://github.com/keijiro/AICommand) ![2023-04-24_3392_4](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 87|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) ![2023-04-24_3231_22](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 88|[lvwerra/trl](https://github.com/lvwerra/trl) ![2023-04-24_3175_13](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 89| [civitai/civitai](https://github.com/civitai/civitai) ![2023-04-24_3003_22](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
@@ -135,8 +135,8 @@
 | 106|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) ![2023-04-24_1666_25](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
 | 107|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) ![2023-04-24_1652_189](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg)|Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.|
 | 108|🔥[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-24_1614_305](https://img.shields.io/github/stars/0hq/WebGPT.svg)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 109|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-24_1575_133](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 110|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1571_5](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
+| 109|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-24_1575_133](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
+| 110|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-24_1571_5](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 
 **Tip:**
 | symbol| rule |
