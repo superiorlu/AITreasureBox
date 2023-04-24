@@ -1,7 +1,7 @@
 # AI 百宝箱
 
 <p id="top" align="center">
-  <img src="https://user-images.githubusercontent.com/1154692/227428291-df9e62d9-b558-411b-afac-d55733f0a617.png" height=400 width=850 />
+  <img src="https://user-images.githubusercontent.com/1154692/234059336-aa9346bb-0016-41ac-9e1c-c127b84fb0b0.png" height=400 width=850 />
 </p>
 <p align="center">
     <br> <a href="README.md">English</a> | 中文
