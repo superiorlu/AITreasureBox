@@ -28,14 +28,16 @@ def update_repos(start_str, end_str, file_name, lasted_repos)
   repos = {}
   Array(lines[start_index...end_index]).each_with_index do |line, index|
     if index > 4 # skip head of table
-        _, _, repo_info, desc  = line.split('|')
+        _, _, repo_info, badge, desc  = line.split('|')
         next if repo_info.nil?
         repo_info.gsub!('🔥', '') # reset fire
         repo_info.gsub!('⭐', '') # reset star
-        match = repo_info.scan(/\[(.*?)\]/).flatten
-        next if match.empty?
-        date, total_stars, change_stars = match[1].split('_')
-        repos[match[0]] = { repo_name: match[0], repo_info: repo_info, desc: desc, star_count:  total_stars.to_i, change_stars: change_stars.to_i, original_index: index - 4 }
+        repo_match = repo_info.scan(/\[(.*?)\]/).flatten
+        next if repo_match.empty?
+
+        badge_match = badge.scan(/\[(.*?)\]/).flatten
+        date, total_stars, change_stars = badge_match[0].split('_')
+        repos[repo_match[0]] = { repo_name: repo_match[0], badge: badge, repo_info: repo_info, desc: desc, star_count:  total_stars.to_i, change_stars: change_stars.to_i, original_index: index - 4 }
     end
   end
   repo_names = repos.keys
@@ -50,11 +52,12 @@ def update_repos(start_str, end_str, file_name, lasted_repos)
   repo_infos.sort_by!{ |r| -r[:star_count] }
   repo_infos.each_with_index do |repo_info, index|
     now_index = index + 1
-    line = format("|%s %i|%s%s|%s|\n",
+    line = format("|%s %i|%s%s|%s|%s|\n",
       star_style(repo_info[:new_coming]),
       now_index,
       popularity_style(repo_info[:change_stars], 200),
       repo_info[:repo_info],
+      repo_info[:badge],
       repo_info[:desc]
     )
     new_readme << line
