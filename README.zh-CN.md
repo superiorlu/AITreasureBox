@@ -137,7 +137,7 @@
 | 108|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-25_1587_8](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
 | 109|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-25_1573_2](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 |⭐ 110|[TheRamU/Fay](https://github.com/TheRamU/Fay) ![2023-04-25_1456_79](https://img.shields.io/github/stars/TheRamU/Fay.svg)|Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、数字人互动等|
-| 111|[Stability-AI/stability-baseten-models](https://github.com/Stability-AI/stability-baseten-models) ![2023-04-25_0_-11978](https://img.shields.io/github/stars/Stability-AI/stability-baseten-models.svg)|稳定的人工智能语言模型。|
+| 111|[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ![2023-04-25_0_-11978](https://img.shields.io/github/stars/Stability-AI/StableLM.svg)|稳定的人工智能语言模型。|
 
 **说明:**
 | 符号| 规则 |

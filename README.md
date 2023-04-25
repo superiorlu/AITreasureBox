@@ -137,7 +137,7 @@
 | 108|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-25_1587_8](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
 | 109|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-25_1573_2](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 |⭐ 110|[TheRamU/Fay](https://github.com/TheRamU/Fay) ![2023-04-25_1456_79](https://img.shields.io/github/stars/TheRamU/Fay.svg)|Fay is a complete open source project that includes Fay controller and numeral models, which can be used in different applications such as virtual hosts, live promotion, numeral human interaction and so on|
-| 111|[Stability-AI/stability-baseten-models](https://github.com/Stability-AI/stability-baseten-models) ![2023-04-25_0_-11978](https://img.shields.io/github/stars/Stability-AI/stability-baseten-models.svg)|Stability AI Language Models|
+| 111|[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ![2023-04-25_0_-11978](https://img.shields.io/github/stars/Stability-AI/StableLM.svg)|Stability AI Language Models|
 
 **Tip:**
 | symbol| rule |
