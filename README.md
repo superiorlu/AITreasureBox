@@ -136,7 +136,7 @@
 |![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 107|[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-25_1639_17](https://img.shields.io/github/stars/0hq/WebGPT.svg)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.|
 |![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 108|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-25_1584_5](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
 |![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 109|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-25_1572_1](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 110|[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ![2023-04-25_0_-11868](https://img.shields.io/github/stars/Stability-AI/StableLM.svg)|Stability AI Language Models|
+|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 110|[Stability-AI/stability-baseten-models](https://github.com/Stability-AI/stability-baseten-models) ![stars](https://img.shields.io/github/stars/Stability-AI/stability-baseten-models.svg)|Stability AI Language Models|
 
 **Tip:**
 | symbol| rule |

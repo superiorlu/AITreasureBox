@@ -136,7 +136,7 @@
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 107|[0hq/WebGPT](https://github.com/0hq/WebGPT) ![2023-04-25_1639_17](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 108|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) ![2023-04-25_1584_5](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 109|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) ![2023-04-25_1572_1](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 110|[Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) ![2023-04-25_0_-11868](https://img.shields.io/github/stars/Stability-AI/StableLM.svg)|稳定的人工智能语言模型。|
+|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 110|[Stability-AI/stability-baseten-models](https://github.com/Stability-AI/stability-baseten-models) ![stars](https://img.shields.io/github/stars/Stability-AI/stability-baseten-models.svg)|稳定的人工智能语言模型。|
 
 **说明:**
 | 符号| 规则 |
