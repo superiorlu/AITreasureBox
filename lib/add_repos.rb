@@ -117,9 +117,9 @@ def fetch_repos
   if response.code == '200'
     result = JSON.parse(response.body)
     Array(result['data']).each do |repo|
-      repo_info = format("[%s](%s) ![%s_%s_%s](https://img.shields.io/github/stars/%s.svg)",
-        repo['fullName'], repo['link'], repo['crawlDate'], repo['stars'], repo['starsToday'], repo['fullName'])
-      latest_repo = { repo_name: repo['fullName'], new_coming: true, repo_info: repo_info, desc: repo['desc'], cn_desc: repo['cnDesc'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, original_index: -1 }
+      repo_info = format("[%s](%s)", repo['fullName'], repo['link'])
+      badge  = format('![%s_%s_%s](https://img.shields.io/github/stars/%s.svg)', repo['crawlDate'], repo['stars'], repo['starsToday'], repo['fullName'])
+      latest_repo = { repo_name: repo['fullName'], new_coming: true, repo_info: repo_info, badge: badge, desc: repo['desc'], cn_desc: repo['cnDesc'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, original_index: -1 }
       repos[repo['fullName']] = latest_repo
     end
   end

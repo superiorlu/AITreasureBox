@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:39:14UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:53:03CST-brightgreen" />
 </p>
 
 ## Catalog
@@ -122,7 +122,7 @@
 | 93|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) |![2023-04-25_2644_13](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|A CLI that converts natural language to shell commands.|
 | 94| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) |![2023-04-25_2562_10](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
 | 95|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) |![2023-04-25_2538_103](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache is a library for creating semantic cache to store responses from LLM queries.|
-|⭐ 96|🔥[pengzhile/pandora](https://github.com/pengzhile/pandora) ![2023-04-25_2429_365](https://img.shields.io/github/stars/pengzhile/pandora.svg)||Pandora, a ChatGPT that helps you breathe smoothly|
+|⭐ 96|🔥[pengzhile/pandora](https://github.com/pengzhile/pandora)|![2023-04-25_2429_365](https://img.shields.io/github/stars/pengzhile/pandora.svg)|Pandora, a ChatGPT that helps you breathe smoothly|
 | 97|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) |![2023-04-25_2315_163](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|Inpaint anything using Segment Anything and inpainting models.|
 | 98| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) |![2023-04-25_2268_7](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) | Let ChatGPT teach your own chatbot in hours with a single GPU! |
 | 99|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) |![2023-04-25_2264_34](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|Whisper & GPT-based app for passing remote SWE interviews|
@@ -132,7 +132,7 @@
 | 103|[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) |![2023-04-25_1874_89](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|code for preparing large datasets for training large language models|
 | 104|[lightaime/camel](https://github.com/lightaime/camel) |![2023-04-25_1837_21](https://img.shields.io/github/stars/lightaime/camel.svg) </br> <a alt="Click Me" href="https://colab.research.google.com/drive/1AzP33O8rnMW__7ocWJhVBXjKziJXPtim?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society|
 | 105|[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) |![2023-04-25_1829_33](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|
-|⭐ 106|[l15y/wenda](https://github.com/l15y/wenda) ![2023-04-25_1793_154](https://img.shields.io/github/stars/l15y/wenda.svg)||一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
+|⭐ 106|[l15y/wenda](https://github.com/l15y/wenda)|![2023-04-25_1793_154](https://img.shields.io/github/stars/l15y/wenda.svg)|An LLM invocation platform, It searches and designs automatic execution actions for small model plug-in knowledge bases, achieving generation capabilities no less than large models|
 | 107|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) |![2023-04-25_1733_70](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg) </br> <a alt="Click Me" href="https://llava.hliu.cc" target="_blank"><img src="https://img.shields.io/badge/Gradio-Open%20in%20Spaces-brightgreen" alt="Open in Demo"/></a> </br> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.|
 | 108|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) |![2023-04-25_1685_18](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.|
 | 109|[baaivision/Painter](https://github.com/baaivision/Painter) |![2023-04-25_1681_8](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|

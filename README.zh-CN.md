@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:39:14UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:53:03CST-brightgreen" />
 </p>
 
 ## 目录
@@ -122,7 +122,7 @@
 | 93|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) |![2023-04-25_2644_13](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|将自然语言转换为Shell命令的CLI工具|
 | 94| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) |![2023-04-25_2562_10](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
 | 95|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) |![2023-04-25_2538_103](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache是一个库，用于创建语义缓存以存储LLM查询的响应。|
-|⭐ 96|🔥[pengzhile/pandora](https://github.com/pengzhile/pandora) ![2023-04-25_2429_365](https://img.shields.io/github/stars/pengzhile/pandora.svg)||潘多拉，一个让你呼吸顺畅的ChatGPT|
+|⭐ 96|🔥[pengzhile/pandora](https://github.com/pengzhile/pandora)|![2023-04-25_2429_365](https://img.shields.io/github/stars/pengzhile/pandora.svg)|潘多拉，一个让你呼吸顺畅的ChatGPT|
 | 97|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) |![2023-04-25_2315_163](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|使用“Segment Anything”和修复模型，可以修复任何缺失的区域。|
 | 98| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) |![2023-04-25_2268_7](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg) </br> <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-brightgreen" alt="Open in Spaces"/></a> | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 | 99|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) |![2023-04-25_2264_34](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|这个项目是一个基于 GPT 技术的应用程序，用于通过 Whisper 进行远程软件工程师面试。|
@@ -132,7 +132,7 @@
 | 103|[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) |![2023-04-25_1874_89](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
 | 104|[lightaime/camel](https://github.com/lightaime/camel) |![2023-04-25_1837_21](https://img.shields.io/github/stars/lightaime/camel.svg) </br> <a alt="Click Me" href="https://colab.research.google.com/drive/1AzP33O8rnMW__7ocWJhVBXjKziJXPtim?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |CAMEL 是 Communicative Agents for “Mind” Exploration of Large Scale Language Model Society 的缩写，意为大规模语言模型社会的“心智”探索通讯代理。|
 | 105|[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) |![2023-04-25_1829_33](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|这是一种基于GPT3.5/4的最小通用自主代理，可以分析股票价格、执行网络安全测试、创作艺术并订购披萨。|
-|⭐ 106|[l15y/wenda](https://github.com/l15y/wenda) ![2023-04-25_1793_154](https://img.shields.io/github/stars/l15y/wenda.svg)||An LLM invocation platform, It searches and designs automatic execution actions for small model plug-in knowledge bases, achieving generation capabilities no less than large models|
+|⭐ 106|[l15y/wenda](https://github.com/l15y/wenda)|![2023-04-25_1793_154](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
 | 107|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) |![2023-04-25_1733_70](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg) </br> <a alt="Click Me" href="https://llava.hliu.cc" target="_blank"><img src="https://img.shields.io/badge/Gradio-Open%20in%20Spaces-brightgreen" alt="Open in Demo"/></a> </br> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |面向多模态GPT-4级能力构建的大型语言和视觉助手。|
 | 108|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) |![2023-04-25_1685_18](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 | 109|[baaivision/Painter](https://github.com/baaivision/Painter) |![2023-04-25_1681_8](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
