@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:46UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:51UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -80,9 +80,9 @@
 | 51| [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  |![2023-04-26_8834_144](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain.svg)       | GPT4和LangChain聊天机器人用于大型PDF文档 |
 | 52| [openai/evals](https://github.com/openai/evals)     |![2023-04-26_8787_42](https://img.shields.io/github/stars/openai/evals.svg)                                                                               |                                                  Evals是一个用于评估OpenAI模型的框架和一个开源基准测试 |
 | 53|🔥[OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) |![2023-04-26_8526_395](https://img.shields.io/github/stars/OpenLMLab/MOSS.svg)|一种来自复旦大学的开源工具增强对话语言模型|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 54|🔥🔥🔥[xtekky/gpt4free](https://github.com/xtekky/gpt4free) |![2023-04-26_7588_2289](https://img.shields.io/github/stars/xtekky/gpt4free.svg)|将AI行业分散化，通过多个反向工程API（如poe.com、phind.com、chat.openai.com等）提供免费的GPT-4 / 3.5脚本。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 55|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) |![2023-04-26_7556_54](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|将Grounding DINO与Segment Anything & Stable Diffusion & BLIP相结合-通过图像和文本输入自动检测、分割和生成任何东西|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 56|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) |![2023-04-26_7378_45](https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet.svg)|ControlNet的WebUI扩展|
+| 54|🔥🔥🔥[xtekky/gpt4free](https://github.com/xtekky/gpt4free) |![2023-04-26_7588_2289](https://img.shields.io/github/stars/xtekky/gpt4free.svg)|将AI行业分散化，通过多个反向工程API（如poe.com、phind.com、chat.openai.com等）提供免费的GPT-4 / 3.5脚本。|
+| 55|[IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) |![2023-04-26_7556_54](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg)|将Grounding DINO与Segment Anything & Stable Diffusion & BLIP相结合-通过图像和文本输入自动检测、分割和生成任何东西|
+| 56|[Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) |![2023-04-26_7378_45](https://img.shields.io/github/stars/Mikubill/sd-webui-controlnet.svg)|ControlNet的WebUI扩展|
 | 57|[facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) |![2023-04-26_6808_62](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg) </br> <a alt="Click Me" href="https://sketch.metademolab.com/canvas" target="_blank"><img src="https://img.shields.io/badge/Meta-Demo-brightgreen" alt="Open in Spaces"/></a> |用于配合"一种为儿童手绘人体图形制作动画的方法"的代码|
 | 58| [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)  |![2023-04-26_6685_22](https://img.shields.io/github/stars/ddiu8081/chatgpt-demo.svg)                                                       |                                                              一个基于OpenAI API（gpt-3.5-turbo）的演示 |
 | 59| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) |![2023-04-26_6667_66](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg)  |将最新的LLM技术快速轻松地集成到应用程序|
