@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:44UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:49:20UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -101,8 +101,8 @@
 | 72| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) |![2023-04-25_4542_10](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
 | 73|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) |![2023-04-25_4494_56](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
 | 74| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) |![2023-04-25_4474_26](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 75|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) |![2023-04-25_4474_159](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 76| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) |![2023-04-25_4465_22](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
+| 75|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) |![2023-04-25_4474_159](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.|
+| 76| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) |![2023-04-25_4465_22](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
 | 77| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    |![2023-04-25_4456_10](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      A VSCode extension that allows you to use ChatGPT |
 | 78|[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) |![2023-04-25_4323_89](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|This is an AI agent for Street Fighter II Champion Edition.|
 | 79|[chroma-core/chroma](https://github.com/chroma-core/chroma) |![2023-04-25_4085_47](https://img.shields.io/github/stars/chroma-core/chroma.svg)|the AI-native open-source embedding database|

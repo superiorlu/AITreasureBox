@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:12:44UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:49:20UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -101,8 +101,8 @@
 | 72| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) |![2023-04-25_4542_10](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
 | 73|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) |![2023-04-25_4494_56](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
 | 74| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) |![2023-04-25_4474_26](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 75|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) |![2023-04-25_4474_159](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|将大型语言模型和聊天引入Web浏览器。所有功能均在浏览器内运行，不需要服务器支持。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 76| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) |![2023-04-25_4465_22](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
+| 75|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) |![2023-04-25_4474_159](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|将大型语言模型和聊天引入Web浏览器。所有功能均在浏览器内运行，不需要服务器支持。|
+| 76| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) |![2023-04-25_4465_22](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
 | 77| [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)    |![2023-04-25_4456_10](https://img.shields.io/github/stars/mpociot/chatgpt-vscode.svg)                                                  |                                                                                      VSCode集成ChatGPT |
 | 78|[linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) |![2023-04-25_4323_89](https://img.shields.io/github/stars/linyiLYi/street-fighter-ai.svg)|这是一个街头霸王II冠军版的AI代理。|
 | 79|[chroma-core/chroma](https://github.com/chroma-core/chroma) |![2023-04-25_4085_47](https://img.shields.io/github/stars/chroma-core/chroma.svg)|AI原生开源嵌入式数据库|
