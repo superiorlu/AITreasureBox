@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:57UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:08:11UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -98,8 +98,8 @@
 | 69|[ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) |![2023-04-26_5092_37](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion.svg)|A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.|
 | 70|[openai/consistency_models](https://github.com/openai/consistency_models) |![2023-04-26_4909_16](https://img.shields.io/github/stars/openai/consistency_models.svg)|Official repo for consistency models.|
 | 71|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) |![2023-04-26_4840_25](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)| A browser extension that augments your ChatGPT prompts with web results.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 72|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) |![2023-04-26_4546_72](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 73| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) |![2023-04-26_4544_2](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
+| 72|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) |![2023-04-26_4546_72](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.|
+| 73| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) |![2023-04-26_4544_2](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                            A Bob Plugin  base ChatGPT API |
 | 74|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) |![2023-04-26_4522_28](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|Automatically repair python scripts through GPT-4 to give them regenerative abilities.|
 | 75| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) |![2023-04-26_4492_27](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently |
 | 76| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) |![2023-04-26_4489_15](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         All-in-one chatbot client |

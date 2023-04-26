@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:57UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:08:11UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -98,8 +98,8 @@
 | 69|[ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) |![2023-04-26_5092_37](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion.svg)|一个使用Pytorch实现的文本到三维图像合成模型，利用稳定扩散的技术驱动。|
 | 70|[openai/consistency_models](https://github.com/openai/consistency_models) |![2023-04-26_4909_16](https://img.shields.io/github/stars/openai/consistency_models.svg)|这是一份用于保持一致性模型的官方代码库。|
 | 71|[qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) |![2023-04-26_4840_25](https://img.shields.io/github/stars/qunash/chatgpt-advanced.svg)|一款浏览器扩展程序，通过提供网络搜索结果来增强您的ChatGPT提示|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 72|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) |![2023-04-26_4546_72](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|将大型语言模型和聊天引入Web浏览器。所有功能均在浏览器内运行，不需要服务器支持。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 73| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) |![2023-04-26_4544_2](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
+| 72|[mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) |![2023-04-26_4546_72](https://img.shields.io/github/stars/mlc-ai/web-llm.svg)|将大型语言模型和聊天引入Web浏览器。所有功能均在浏览器内运行，不需要服务器支持。|
+| 73| [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) |![2023-04-26_4544_2](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator.svg)              |                                               基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件 |
 | 74|[biobootloader/wolverine](https://github.com/biobootloader/wolverine) |![2023-04-26_4522_28](https://img.shields.io/github/stars/biobootloader/wolverine.svg)|通过gpt-4自动修复python脚本，赋予其再生能力|
 | 75| [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) |![2023-04-26_4492_27](https://img.shields.io/github/stars/TheR1D/shell_gpt.svg)| 由ChatGPT驱动的命令行生产力工具，将帮助您更快、更高效地完成任务 |
 | 76| [chathub-dev/chathub](https://github.com/chathub-dev/chathub) |![2023-04-26_4489_15](https://img.shields.io/github/stars/chathub-dev/chathub.svg)                                                              |                                                         将ChatGPT和new Bing Chat集成在一起的聊天客户端 |
