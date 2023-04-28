@@ -218,6 +218,7 @@
 |:---- |:---------------------------------------------------------------- | --- |
 | 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | The Machine Learning Specialization Course taught by Dr. Andrew Ng|
 | 2    | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|
+| 3    | [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) | This short course taught by Isa Fulford ([OpenAI](https://openai.com/)) and Andrew Ng ([DeepLearning.AI](https://www.deeplearning.ai/)) will teach how to use a large language model (LLM) to quickly build new and powerful applications |
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 

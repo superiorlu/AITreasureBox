@@ -217,7 +217,8 @@
 |:---- |:---------------------------------------------------------------- | ---- |
 | 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | [Andrew Ng](https://www.coursera.org/instructor/andrewng) 博士讲的机器学习专项课程 |
 | 2    | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 微软面向初学者的机器学习课程|
-| 3    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | [李沐](https://zh.wikipedia.org/wiki/李沐_(科学家)) 老师的AI论文精读和机器学习课程 |
+| 3    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | [李沐](https://zh.wikipedia.org/wiki/李沐_(科学家)) 博士的AI论文精读和机器学习课程 |
+| 4    | [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) | 这门短期课程由Isa Fulford ([OpenAI](https://openai.com/)) 和Andrew Ng ([DeepLearning.AI](https://www.deeplearning.ai/)) 教授授课，主要教大家如何使用大语言模型(LLM)快速构建新的和强大的应用程序 |
 
 
 
