@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:28:56UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:31:23UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -145,11 +145,12 @@
 | 116|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)|![2023-04-29_1799_92](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|这篇论文的官方实现："Segment Everything Everywhere All at Once"|
 | 117|[kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) |![2023-04-29_1742_0](https://img.shields.io/github/stars/kevmo314/magic-copy.svg)|一款Chrome扩展程序，使用Meta的Segment Anything模型从图像中提取前景对象并复制到剪贴板|
 | 118|[baaivision/Painter](https://github.com/baaivision/Painter) |![2023-04-29_1709_0](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
-| 119|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) |![2023-04-29_1679_4](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
-| 120|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) |![2023-04-29_1595_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
-| 121|[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)|![2023-04-29_1502_46](https://img.shields.io/github/stars/GreyDGL/PentestGPT.svg)|一个由GPT驱动的渗透测试工具。|
-|⭐ 122|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)|![2023-04-29_865_24](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
-| 123|🔥[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)|![2023-04-29_601_219](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
+|⭐ 119|🔥[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|![2023-04-29_1682_346](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg)|AudioGPT：理解和生成语音、音乐、声音和说话人头像|
+| 120|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) |![2023-04-29_1679_4](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
+| 121|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) |![2023-04-29_1595_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
+| 122|[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)|![2023-04-29_1502_46](https://img.shields.io/github/stars/GreyDGL/PentestGPT.svg)|一个由GPT驱动的渗透测试工具。|
+| 123|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)|![2023-04-29_865_24](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
+| 124|🔥[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)|![2023-04-29_601_219](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 
 **说明:**
 | 符号| 规则 |
