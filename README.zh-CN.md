@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:26:31UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:27:17UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -112,7 +112,7 @@
 | 83| [nsarrazin/serge](https://github.com/nsarrazin/serge)  |![2023-04-29_3902_8](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
 | 84| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  |![2023-04-29_3820_1](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 85|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) |![2023-04-29_3810_10](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg) </br> <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Demo-brightgreen" alt="Open in Demo"/></a> |AIGC 提示词可视化编辑器|
-|⭐ 86|🔥🔥[ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)|![2023-04-29_3711_463](https://img.shields.io/github/stars/ai-collection/ai-collection.svg)|这是一份收集了许多神经网络生成模型的列表。这些模型可以用来生成各种类型的内容，如图像、音频、文本等。该列表包括许多流行的生成模型，如GAN、VAE、AE等。|
+| 86|🔥🔥[ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)|![2023-04-29_3711_463](https://img.shields.io/github/stars/ai-collection/ai-collection.svg)|这是一份收集了许多神经网络生成模型的列表。这些模型可以用来生成各种类型的内容，如图像、音频、文本等。该列表包括许多流行的生成模型，如GAN、VAE、AE等。|
 | 87|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) |![2023-04-29_3640_4](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
 | 88| [keijiro/AICommand](https://github.com/keijiro/AICommand) |![2023-04-29_3416_0](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 89|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) |![2023-04-29_3294_2](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
@@ -147,6 +147,7 @@
 | 118|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) |![2023-04-29_1679_4](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
 | 119|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) |![2023-04-29_1595_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 120|[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)|![2023-04-29_1502_46](https://img.shields.io/github/stars/GreyDGL/PentestGPT.svg)|一个由GPT驱动的渗透测试工具。|
+|⭐ 121|🔥[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)|![2023-04-29_601_219](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 
 **说明:**
 | 符号| 规则 |

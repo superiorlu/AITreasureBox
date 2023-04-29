@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:26:31UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:27:17UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -112,7 +112,7 @@
 | 83| [nsarrazin/serge](https://github.com/nsarrazin/serge)  |![2023-04-29_3902_8](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
 | 84| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  |![2023-04-29_3820_1](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
 | 85|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) |![2023-04-29_3810_10](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg) </br> <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Demo-brightgreen" alt="Open in Demo"/></a> |AIGC Hint Word Visualization Editor|
-|⭐ 86|🔥🔥[ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)|![2023-04-29_3711_463](https://img.shields.io/github/stars/ai-collection/ai-collection.svg)|The Generative AI Landscape - A Collection of Awesome Generative AI Applications|
+| 86|🔥🔥[ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)|![2023-04-29_3711_463](https://img.shields.io/github/stars/ai-collection/ai-collection.svg)|The Generative AI Landscape - A Collection of Awesome Generative AI Applications|
 | 87|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) |![2023-04-29_3640_4](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
 | 88| [keijiro/AICommand](https://github.com/keijiro/AICommand) |![2023-04-29_3416_0](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 89|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) |![2023-04-29_3294_2](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
@@ -147,6 +147,7 @@
 | 118|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) |![2023-04-29_1679_4](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
 | 119|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) |![2023-04-29_1595_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 120|[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)|![2023-04-29_1502_46](https://img.shields.io/github/stars/GreyDGL/PentestGPT.svg)|A GPT-empowered penetration testing tool|
+|⭐ 121|🔥[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)|![2023-04-29_601_219](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
 
 **Tip:**
 | symbol| rule |
