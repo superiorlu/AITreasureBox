@@ -7,7 +7,7 @@
     <br> <a href="README.md">English</a> | 中文
 </p>
 <p align="center">
-    <em>整理实用的AI工具、网站、报告&论文和教程，打造一个实用的AI百宝箱。</em> <br/>
+    <em>整理实用的AI代码库、工具、网站、报告&论文和教程，打造一个实用的AI百宝箱。</em> <br/>
     <em>本文部分内容由ChatGPT翻译，图片由Midjourney生成。</em>
 </p>
 <p align="center">

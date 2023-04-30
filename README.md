@@ -7,7 +7,7 @@
     <br> English | <a href="README.zh-CN.md">中文</a>
 </p>
 <p align="center">
-    <em>Collect practical AI tools, websites, papers and tutorials on AI.</em><br/>
+    <em>Collect practical AI repos, tools, websites, papers and tutorials on AI.</em><br/>
     <em>Translated from ChatGPT, picture from Midjourney.</em>
 </p>
 <p align="center">
