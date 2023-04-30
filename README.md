@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:52:34UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:08:13UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -114,7 +114,7 @@
 | 85|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) </br> ![2023-04-30_3848_20](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)  <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Demo-brightgreen" alt="Open in Demo"/></a> |AIGC Hint Word Visualization Editor|
 | 86| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  </br> ![2023-04-30_3823_2](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
 | 87|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) </br> ![2023-04-30_3665_13](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
-|⭐ 88|🔥🔥[deep-floyd/IF](https://github.com/deep-floyd/IF) </br> ![2023-04-30_3452_652](https://img.shields.io/github/stars/deep-floyd/IF.svg)|A novel state-of-the-art open-source text-to-image model with a high degree of photorealism and language understanding|
+| 88|🔥🔥[deep-floyd/IF](https://github.com/deep-floyd/IF) </br> ![2023-04-30_3452_652](https://img.shields.io/github/stars/deep-floyd/IF.svg)|A novel state-of-the-art open-source text-to-image model with a high degree of photorealism and language understanding|
 | 89| [keijiro/AICommand](https://github.com/keijiro/AICommand) </br> ![2023-04-30_3421_2](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 90|[gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)</br> ![2023-04-30_3376_99](https://img.shields.io/github/stars/gaomingqi/Track-Anything.svg)|A flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.|
 | 91|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) </br> ![2023-04-30_3297_0](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
