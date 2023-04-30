@@ -152,7 +152,7 @@
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 123|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-04-30_1596_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 124|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-04-30_1002_33](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 125|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-04-30_865_88](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 126|[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) </br> ![2023-04-30_0_-1994](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|这是一种基于GPT3.5/4的最小通用自主代理，可以分析股票价格、执行网络安全测试、创作艺术并订购披萨。|
+|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 126|[muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) </br> ![stars](https://img.shields.io/github/stars/muellerberndt/mini-agi.svg)|这是一种基于GPT3.5/4的最小通用自主代理，可以分析股票价格、执行网络安全测试、创作艺术并订购披萨。|
 
 **说明:**
 | 符号| 规则 |
