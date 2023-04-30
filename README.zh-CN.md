@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-04:15:49UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-05:08:14UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -127,8 +127,8 @@
 | 98|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) |![2023-04-30_2772_6](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache是一个库，用于创建语义缓存以存储LLM查询的响应。|
 | 99|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) |![2023-04-30_2690_2](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|将自然语言转换为Shell命令的CLI工具|
 | 100|[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)|![2023-04-30_2635_2](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter.svg)|将LLaMA微调以在1小时内遵循说明，并使用1.2M参数。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 101|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) |![2023-04-30_2611_4](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|使用“Segment Anything”和修复模型，可以修复任何缺失的区域。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 102| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) |![2023-04-30_2609_1](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
+| 101|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) |![2023-04-30_2611_4](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|使用“Segment Anything”和修复模型，可以修复任何缺失的区域。|
+| 102| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) |![2023-04-30_2609_1](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
 | 103|🔥[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)|![2023-04-30_2589_208](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg)|AudioGPT：理解和生成语音、音乐、声音和说话人头像|
 | 104|[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)|![2023-04-30_2467_38](https://img.shields.io/github/stars/bhaskatripathi/pdfGPT.svg)|PDF GPT是一种使用GPT能力与PDF文件内容交互的工具，它是唯一的开源解决方案，可将您的PDF文件转换为聊天机器人。|
 | 105|[0hq/WebGPT](https://github.com/0hq/WebGPT) |![2023-04-30_2404_8](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
@@ -138,8 +138,8 @@
 | 109|[TheRamU/Fay](https://github.com/TheRamU/Fay) |![2023-04-30_2120_8](https://img.shields.io/github/stars/TheRamU/Fay.svg)|Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、数字人互动等|
 | 110|[whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)|![2023-04-30_2115_4](https://img.shields.io/github/stars/whoiskatrin/chart-gpt.svg)|可以使用自然语言处理和机器学习技术来构建一个基于文本输入的 AI 工具，用于生成图表。|
 | 111|[emcf/engshell](https://github.com/emcf/engshell) |![2023-04-30_2084_0](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 112|[l15y/wenda](https://github.com/l15y/wenda)|![2023-04-30_2075_5](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 113|[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) |![2023-04-30_2074_5](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
+| 112|[l15y/wenda](https://github.com/l15y/wenda)|![2023-04-30_2075_5](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
+| 113|[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) |![2023-04-30_2074_5](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
 | 114|[muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) |![2023-04-30_1995_1](https://img.shields.io/github/stars/muellerberndt/micro-gpt.svg)|这是一种基于GPT3.5/4的最小通用自主代理，可以分析股票价格、执行网络安全测试、创作艺术并订购披萨。|
 | 115|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)|![2023-04-30_1993_30](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|这篇论文的官方实现："Segment Everything Everywhere All at Once"|
 | 116|[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) |![2023-04-30_1974_8](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg) </br> <a alt="Click Me" href="https://llava.hliu.cc" target="_blank"><img src="https://img.shields.io/badge/Gradio-Spaces-brightgreen" alt="Open in Demo"/></a> </br> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |面向多模态GPT-4级能力构建的大型语言和视觉助手。|
