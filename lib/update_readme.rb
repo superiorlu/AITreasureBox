@@ -26,25 +26,23 @@ def update_repos(start_str, end_str, file_name, repo_stars)
   repos = []
   Array(lines[start_index...end_index]).each_with_index do |line, index|
     if index > 4 # skip head of table
-        _, _, repo_info, badge, desc  = line.split('|')
+        _, _, repo_info, desc  = line.split('|')
         next if repo_info.nil?
         repo_info.gsub!('🔥', '') # reset fire
         repo_info.gsub!('⭐', '') # reset star
-        repo_match = repo_info.scan(/\[(.*?)\]/).flatten
-        next if repo_match.empty?
-        star_count = if repo_stars[repo_match[0]].nil?
-                       get_star_count(repo_match[0])
+        match = repo_info.scan(/\[(.*?)\]/).flatten
+        next if match.empty?
+        star_count = if repo_stars[match[0]].nil?
+                       get_star_count(match[0])
                      else
-                       repo_stars[repo_match[0]]
+                       repo_stars[match[0]]
                      end
-        repo_stars[repo_match[0]] = star_count
-
-        badge_match = badge.scan(/\[(.*?)\]/).flatten
+        repo_stars[match[0]] = star_count
         change_stars = 0
-        date, total_stars, change_stars = sync_today_stars(badge_match[0], star_count)
+        date, total_stars, change_stars = sync_today_stars(match[1], star_count)
         star_info = format("%s_%s_%s", date, total_stars, change_stars)
-        badge.sub!(badge_match[0], star_info)
-        repo = { repo_info: repo_info, badge: badge, desc: desc, star_count:  star_count, change_stars: change_stars.to_i, original_index: index - 4 }
+        repo_info.sub!(match[1], star_info)
+        repo = { repo_info: repo_info, desc: desc, star_count:  star_count, change_stars: change_stars.to_i, original_index: index - 4 }
         repos << repo
     end
   end
@@ -54,12 +52,11 @@ def update_repos(start_str, end_str, file_name, repo_stars)
   repos.sort_by!{ |r| -r[:star_count] }
   repos.each_with_index do |repo, index|
     now_index = index + 1
-    line = format("|%s %i|%s%s|%s|%s|\n", 
+    line = format("|%s %i|%s%s|%s|\n",
       arrow_style(file_name, repo[:original_index], now_index),
       now_index,
       popularity_style(repo[:change_stars], 200),
       repo[:repo_info],
-      repo[:badge],
       repo[:desc]
     )
     new_readme << line

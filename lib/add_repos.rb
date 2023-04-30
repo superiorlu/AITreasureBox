@@ -20,7 +20,7 @@ def update_all_last_update
 end
 
 # update repos content
-def update_repos(start_str, end_str, file_name, lasted_repos)
+def update_repos(start_str, end_str, file_name, latest_repos)
   readme = File.read(file_name)
   lines = readme.lines
   start_index = lines.index {|e| e.include?(start_str)}
@@ -28,21 +28,21 @@ def update_repos(start_str, end_str, file_name, lasted_repos)
   repos = {}
   Array(lines[start_index...end_index]).each_with_index do |line, index|
     if index > 4 # skip head of table
-        _, _, repo_info, badge, desc  = line.split('|')
+        _, _, repo_info, desc  = line.split('|')
         next if repo_info.nil?
         repo_info.gsub!('🔥', '') # reset fire
         repo_info.gsub!('⭐', '') # reset star
-        repo_match = repo_info.scan(/\[(.*?)\]/).flatten
-        next if repo_match.empty?
-
-        badge_match = badge.scan(/\[(.*?)\]/).flatten
-        date, total_stars, change_stars = badge_match[0].split('_')
-        repos[repo_match[0]] = { repo_name: repo_match[0], badge: badge, repo_info: repo_info, desc: desc, star_count:  total_stars.to_i, change_stars: change_stars.to_i, original_index: index - 4 }
+        match = repo_info.scan(/\[(.*?)\]/).flatten
+        next if match.empty?
+        date, total_stars, change_stars = match[1].split('_')
+        repos[match[0]] = { repo_name: match[0], repo_info: repo_info, desc: desc, star_count:  total_stars.to_i, change_stars: change_stars.to_i, original_index: index - 4 }
     end
   end
   repo_names = repos.keys
-  lasted_repos.each do |repo_name, repo_info|
-    next if repo_names.include?(repo_name)
+  latest_repos.each do |repo_name, repo_info|
+    if repo_info[:forced] == false
+      next if repo_names.include?(repo_name)
+    end
     repos[repo_name] = repo_info
   end
 
@@ -52,12 +52,11 @@ def update_repos(start_str, end_str, file_name, lasted_repos)
   repo_infos.sort_by!{ |r| -r[:star_count] }
   repo_infos.each_with_index do |repo_info, index|
     now_index = index + 1
-    line = format("|%s %i|%s%s|%s|%s|\n",
+    line = format("|%s %i|%s%s|%s|\n",
       star_style(repo_info[:new_coming]),
       now_index,
       popularity_style(repo_info[:change_stars], 200),
       repo_info[:repo_info],
-      repo_info[:badge],
       repo_info[:desc]
     )
     new_readme << line
@@ -117,9 +116,9 @@ def fetch_repos
   if response.code == '200'
     result = JSON.parse(response.body)
     Array(result['data']).each do |repo|
-      repo_info = format("[%s](%s)", repo['fullName'], repo['link'])
-      badge  = format('![%s_%s_%s](https://img.shields.io/github/stars/%s.svg)', repo['crawlDate'], repo['stars'], repo['starsToday'], repo['fullName'])
-      latest_repo = { repo_name: repo['fullName'], new_coming: true, repo_info: repo_info, badge: badge, desc: repo['desc'], cn_desc: repo['cnDesc'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, original_index: -1 }
+      repo_info = format("[%s](%s) </br> ![%s_%s_%s](https://img.shields.io/github/stars/%s.svg)",
+        repo['fullName'], repo['link'], repo['crawlDate'], repo['stars'], repo['starsToday'], repo['fullName'])
+      latest_repo = { repo_name: repo['fullName'], new_coming: true, repo_info: repo_info, desc: repo['desc'], cn_desc: repo['cnDesc'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, forced: repo['forced'], original_index: -1 }
       repos[repo['fullName']] = latest_repo
     end
   end
