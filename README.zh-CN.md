@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:02:44UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:53:13UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -116,9 +116,9 @@
 | 87| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  </br> ![2023-05-01_3828_0](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 88|[deep-floyd/IF](https://github.com/deep-floyd/IF) </br> ![2023-05-01_3804_46](https://img.shields.io/github/stars/deep-floyd/IF.svg) <a alt="Click Me" href="https://huggingface.co/spaces/DeepFloyd/IF" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a>  <a alt="Click Me" href="https://colab.research.google.com/drive/1AzP33O8rnMW__7ocWJhVBXjKziJXPtim?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |种新颖的最先进的开源文本到图像模型，具有高度逼真和语言理解能力|
 | 89|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) </br> ![2023-05-01_3673_0](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 90|[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)</br> ![2023-05-01_3477_74](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg)|AudioGPT：理解和生成语音、音乐、声音和说话人头像|
+| 90|[AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)</br> ![2023-05-01_3477_74](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg)|AudioGPT：理解和生成语音、音乐、声音和说话人头像|
 | 91|[gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)</br> ![2023-05-01_3429_11](https://img.shields.io/github/stars/gaomingqi/Track-Anything.svg)|一个灵活、交互式的视频对象跟踪和分割工具，基于Segment Anything、XMem和E2FGVI。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 92| [keijiro/AICommand](https://github.com/keijiro/AICommand) </br> ![2023-05-01_3424_0](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
+| 92| [keijiro/AICommand](https://github.com/keijiro/AICommand) </br> ![2023-05-01_3424_0](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 93|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) </br> ![2023-05-01_3299_0](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
 | 94|[lvwerra/trl](https://github.com/lvwerra/trl) </br> ![2023-05-01_3213_0](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 95| [civitai/civitai](https://github.com/civitai/civitai) </br> ![2023-05-01_3146_0](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
@@ -139,8 +139,8 @@
 | 110|[sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) </br> ![2023-05-01_2270_0](https://img.shields.io/github/stars/sanchit-gandhi/whisper-jax.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/sanchit-gandhi/whisper-jax" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> |针对OpenAI的Whisper模型进行了优化的JAX代码，主要基于Hugging Face Transformers Whisper实现|
 | 111|[whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)</br> ![2023-05-01_2157_1](https://img.shields.io/github/stars/whoiskatrin/chart-gpt.svg)|可以使用自然语言处理和机器学习技术来构建一个基于文本输入的 AI 工具，用于生成图表。|
 | 112|[TheRamU/Fay](https://github.com/TheRamU/Fay) </br> ![2023-05-01_2143_1](https://img.shields.io/github/stars/TheRamU/Fay.svg)|Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、数字人互动等|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 113|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)</br> ![2023-05-01_2103_8](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|这篇论文的官方实现："Segment Everything Everywhere All at Once"|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 114|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-01_2099_0](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
+| 113|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)</br> ![2023-05-01_2103_8](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|这篇论文的官方实现："Segment Everything Everywhere All at Once"|
+| 114|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-01_2099_0](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
 | 115|[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) </br> ![2023-05-01_2093_3](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
 | 116|[emcf/engshell](https://github.com/emcf/engshell) </br> ![2023-05-01_2082_0](https://img.shields.io/github/stars/emcf/engshell.svg)|由LLMs提供支持的任何操作系统的英语语言Shell|
 | 117|[muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) </br> ![2023-05-01_2006_0](https://img.shields.io/github/stars/muellerberndt/mini-agi.svg)|这是一种基于GPT3.5/4的最小通用自主代理，可以分析股票价格、执行网络安全测试、创作艺术并订购披萨。|
