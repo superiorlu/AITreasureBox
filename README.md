@@ -156,7 +156,7 @@
 | 127|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-02_1174_37](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
 | 128|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-02_1169_74](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
 | 129|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-02_1048_14](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|The no-code platform for connecting custom data to large language models|
-| 130| [rustformers/llama-rs](https://github.com/rustformers/llama-rs) </br> ![2023-05-02_0_-2853](https://img.shields.io/github/stars/rustformers/llama-rs.svg)|Run LLaMA inference on CPU, with Rust|
+| 130| [rustformers/llm](https://github.com/rustformers/llm) </br> ![stars](https://img.shields.io/github/stars/rustformers/llm.svg)| Run inference for Large Language Models on CPU, with Rust|
 
 **Tip:**
 | symbol| rule |

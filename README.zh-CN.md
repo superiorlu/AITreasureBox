@@ -156,7 +156,7 @@
 | 127|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-02_1174_37](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
 | 128|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-02_1169_74](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 | 129|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-02_1048_14](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
-| 130|[rustformers/llama-rs](https://github.com/rustformers/llama-rs) </br> ![2023-05-02_0_-2853](https://img.shields.io/github/stars/rustformers/llama-rs.svg)| Rust 中使用 CPU 运行 LLaMA |
+| 130|[rustformers/llm](https://github.com/rustformers/llm) </br> ![stars](https://img.shields.io/github/stars/rustformers/llm.svg)| 在 CPU 上使用 Rust 运行大型语言模型的推理 |
 
 **说明:**
 | 符号| 规则 |
