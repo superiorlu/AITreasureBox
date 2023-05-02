@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:21:12UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:50:26UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -153,7 +153,7 @@
 | 124|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-01_1723_6](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 125|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) </br> ![2023-05-01_1712_15](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
 | 126|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-01_1597_1](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
-|⭐ 127|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-02_1117_24](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
+|⭐ 127|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-02_1124_24](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
 | 128|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-01_1095_178](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
 | 129|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-01_1034_23](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|The no-code platform for connecting custom data to large language models|
 

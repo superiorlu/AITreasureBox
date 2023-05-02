@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:21:12UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:50:26UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -153,7 +153,7 @@
 | 124|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-01_1723_6](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 125|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) </br> ![2023-05-01_1712_15](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
 | 126|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-01_1597_1](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
-|⭐ 127|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-02_1117_24](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
+|⭐ 127|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-02_1124_24](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
 | 128|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-01_1095_178](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 | 129|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-01_1034_23](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
 
