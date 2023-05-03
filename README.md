@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:49UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:46UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -128,8 +128,8 @@
 | 99|[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) </br> ![2023-05-03_3225_49](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)  <a alt="Click Me" href="https://law-cn-ai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-Demo-brightgreen" alt="Open in Demo"/></a> |⚖️ AI Legal Assistant|
 | 100| [civitai/civitai](https://github.com/civitai/civitai) </br> ![2023-05-03_3191_11](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
 | 101| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      </br> ![2023-05-03_3089_11](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              Play ChatGPT with xiaomi ai speaker |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 102|[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)</br> ![2023-05-03_2992_116](https://img.shields.io/github/stars/bhaskatripathi/pdfGPT.svg)|PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 103|[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)</br> ![2023-05-03_2978_66](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter.svg)|Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters|
+| 102|[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)</br> ![2023-05-03_2992_116](https://img.shields.io/github/stars/bhaskatripathi/pdfGPT.svg)|PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!|
+| 103|[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)</br> ![2023-05-03_2978_66](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter.svg)|Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters|
 | 104|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) </br> ![2023-05-03_2878_16](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache is a library for creating semantic cache to store responses from LLM queries.|
 | 105| [rustformers/llm](https://github.com/rustformers/llm) </br> ![2023-05-03_2867_7](https://img.shields.io/github/stars/rustformers/llm.svg)| Run inference for Large Language Models on CPU, with Rust|
 | 106| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  </br> ![2023-05-03_2834_10](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |            Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model |
@@ -156,8 +156,8 @@
 | 127|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-03_1732_5](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 128|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-03_1619_11](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
 | 129|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-03_1298_209](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Official repo for Lamini's data generator for generating instructions to train instruction-following LLMs|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 130|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-03_1235_38](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 131|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-03_1232_29](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
+| 130|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-03_1235_38](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
+| 131|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-03_1232_29](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
 | 132|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-03_1087_19](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|The no-code platform for connecting custom data to large language models|
 
 **Tip:**

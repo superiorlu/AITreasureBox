@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-18:16:49UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-20:09:46UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -128,8 +128,8 @@
 | 99|[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) </br> ![2023-05-03_3225_49](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)  <a alt="Click Me" href="https://law-cn-ai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-Demo-brightgreen" alt="Open in Demo"/></a> |⚖️ AI 法律助手|
 | 100| [civitai/civitai](https://github.com/civitai/civitai) </br> ![2023-05-03_3191_11](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
 | 101| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      </br> ![2023-05-03_3089_11](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 102|[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)</br> ![2023-05-03_2992_116](https://img.shields.io/github/stars/bhaskatripathi/pdfGPT.svg)|PDF GPT是一种使用GPT能力与PDF文件内容交互的工具，它是唯一的开源解决方案，可将您的PDF文件转换为聊天机器人。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 103|[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)</br> ![2023-05-03_2978_66](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter.svg)|将LLaMA微调以在1小时内遵循说明，并使用1.2M参数。|
+| 102|[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)</br> ![2023-05-03_2992_116](https://img.shields.io/github/stars/bhaskatripathi/pdfGPT.svg)|PDF GPT是一种使用GPT能力与PDF文件内容交互的工具，它是唯一的开源解决方案，可将您的PDF文件转换为聊天机器人。|
+| 103|[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)</br> ![2023-05-03_2978_66](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter.svg)|将LLaMA微调以在1小时内遵循说明，并使用1.2M参数。|
 | 104|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) </br> ![2023-05-03_2878_16](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache是一个库，用于创建语义缓存以存储LLM查询的响应。|
 | 105|[rustformers/llm](https://github.com/rustformers/llm) </br> ![2023-05-03_2867_7](https://img.shields.io/github/stars/rustformers/llm.svg)| 在 CPU 上使用 Rust 运行大型语言模型的推理 |
 | 106| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  </br> ![2023-05-03_2834_10](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
@@ -156,8 +156,8 @@
 | 127|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-03_1732_5](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 128|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-03_1619_11](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
 | 129|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-03_1298_209](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 130|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-03_1235_38](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 131|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-03_1232_29](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
+| 130|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-03_1235_38](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
+| 131|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-03_1232_29](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
 | 132|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-03_1087_19](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
 
 **说明:**
