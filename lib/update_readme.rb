@@ -125,21 +125,33 @@ end
 
 # fetch star count from github api
 def get_star_count(repo)
-  uri = URI.parse("https://api.github.com/repos/#{repo}")
-  http = Net::HTTP.new(uri.host, uri.port)
-  http.use_ssl = true
-
-  request = Net::HTTP::Get.new(uri.request_uri)
-  request['Authorization'] = "Bearer #{ENV['GITHUB_TOKEN']}"
-  request['Accept'] = 'application/vnd.github+json'
-  request['User-Agent'] = 'Mozilla/5.0'
-
-  response = http.request(request)
-  if response.code == '200'
+  response = request_with_redirect("https://api.github.com/repos/#{repo}")
+  if response&.code == '200'
     result = JSON.parse(response.body)
     result['stargazers_count']
   else
     0
+  end
+end
+
+# request with redirect when 301 response
+def request_with_redirect(url)
+  return if url.nil?
+
+  uri = URI.parse(url)
+  http = Net::HTTP.new(uri.host, uri.port)
+  http.use_ssl = true
+  request = Net::HTTP::Get.new(uri.request_uri)
+  request['Authorization'] = "Bearer #{ENV['GITHUB_TOKEN']}"
+  request['Accept'] = 'application/vnd.github+json'
+  request['User-Agent'] = 'Mozilla/5.0'
+  response = http.request(request)
+
+  if response.code == '301'
+    location_body = JSON.parse(response.body)
+    request_with_redirect(location_body['url'])
+  elsif response.code == '200'
+    response
   end
 end
 
