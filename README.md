@@ -163,9 +163,9 @@
 **Tip:**
 | symbol| rule |
 | :----| :---- |
-|🔥     | 200 < stars today <= 400|
-|🔥🔥   | 400 < stars today <= 1000|
-|🔥🔥🔥 | stars today > 1000|
+|🔥     | 256 < stars today <= 512|
+|🔥🔥   | 512 < stars today <= 1k|
+|🔥🔥🔥 | stars today > 1k|
 |![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) ![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) | ranking up / down|
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>

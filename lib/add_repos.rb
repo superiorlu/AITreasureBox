@@ -55,7 +55,7 @@ def update_repos(start_str, end_str, file_name, latest_repos)
     line = format("|%s %i|%s%s|%s|\n",
       star_style(repo_info[:new_coming]),
       now_index,
-      popularity_style(repo_info[:change_stars], 200),
+      popularity_style(repo_info[:change_stars], 256),
       repo_info[:repo_info],
       repo_info[:desc]
     )
@@ -75,8 +75,8 @@ end
 def popularity_style(change_stars, threshold)
   return ""       if change_stars < threshold
   return "🔥"     if change_stars > threshold && change_stars <= threshold * 2
-  return "🔥🔥"   if change_stars > threshold * 2 && change_stars <= threshold * 5
-  return "🔥🔥🔥" if change_stars > threshold * 5
+  return "🔥🔥"   if change_stars > threshold * 2 && change_stars <= threshold * 4
+  return "🔥🔥🔥" if change_stars > threshold * 4
 end
 
 

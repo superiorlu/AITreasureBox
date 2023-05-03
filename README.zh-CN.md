@@ -163,9 +163,9 @@
 **说明:**
 | 符号| 规则 |
 | :----| :---- |
-|🔥    | 200 < stars today <= 400|
-|🔥🔥  | 400 < stars today <= 1000|
-|🔥🔥🔥| stars today > 1000|
+|🔥    | 256 < stars today <= 512|
+|🔥🔥  | 512 < stars today <= 1k|
+|🔥🔥🔥| stars today > 1k|
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) ![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) | 排名上升 / 下降|
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
