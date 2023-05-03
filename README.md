@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:39UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:26UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -116,8 +116,8 @@
 | 87|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) </br> ![2023-05-03_4382_18](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)  <a alt="Click Me" href="https://dinov2.metademolab.com/demos" target="_blank"><img src="https://img.shields.io/badge/Meta-Demo-brightgreen" alt="Open in Demo"/></a>  <a href='https://arxiv.org/abs/2304.07193'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>  |PyTorch code and models for the DINOv2 self-supervised learning method.|
 | 88|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) </br> ![2023-05-03_4183_33](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|langchain-ChatGLM, local knowledge based ChatGLM with langchain|
 | 89| [nsarrazin/serge](https://github.com/nsarrazin/serge)  </br> ![2023-05-03_3943_6](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 90|🔥🔥[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) </br> ![2023-05-03_3928_851](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg)|Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 91|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) </br> ![2023-05-03_3920_18](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)  <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Demo-brightgreen" alt="Open in Demo"/></a> |AIGC Hint Word Visualization Editor|
+| 90|🔥🔥[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) </br> ![2023-05-03_3928_851](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg)|Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.|
+| 91|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) </br> ![2023-05-03_3920_18](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)  <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Demo-brightgreen" alt="Open in Demo"/></a> |AIGC Hint Word Visualization Editor|
 | 92| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  </br> ![2023-05-03_3839_0](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | A slack bot that can read any webpage, ebook or document and summarize it with chatGPT |
 | 93|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) </br> ![2023-05-03_3713_10](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|Example models using DeepSpeed|
 | 94|[gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)</br> ![2023-05-03_3639_33](https://img.shields.io/github/stars/gaomingqi/Track-Anything.svg)|A flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.|
@@ -155,7 +155,7 @@
 | 126|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) </br> ![2023-05-03_1741_13](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
 | 127|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-03_1731_4](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 128|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-03_1618_10](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
-| 129|🔥[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-03_1273_330](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Official repo for Lamini's data generator for generating instructions to train instruction-following LLMs|
+|⭐ 129|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-03_1274_185](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Official repo for Lamini's data generator for generating instructions to train instruction-following LLMs|
 | 130|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-03_1226_23](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
 | 131|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-03_1222_25](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
 | 132|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-03_1085_17](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|The no-code platform for connecting custom data to large language models|

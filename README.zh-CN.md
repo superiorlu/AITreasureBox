@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-14:12:39UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-15:09:26UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -116,8 +116,8 @@
 | 87|[facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) </br> ![2023-05-03_4382_18](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)  <a alt="Click Me" href="https://dinov2.metademolab.com/demos" target="_blank"><img src="https://img.shields.io/badge/Meta-Demo-brightgreen" alt="Open in Demo"/></a>  <a href='https://arxiv.org/abs/2304.07193'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> |DINOv2自监督学习方法的PyTorch代码和模型。|
 | 88|[imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) </br> ![2023-05-03_4183_33](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)|基于本地知识的 ChatGLM|
 | 89| [nsarrazin/serge](https://github.com/nsarrazin/serge)  </br> ![2023-05-03_3943_6](https://img.shields.io/github/stars/nsarrazin/serge.svg)       |   通过llama.cpp与Alpaca聊天的Web界面。完全使用Docker容器化，具有易于使用的API|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 90|🔥🔥[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) </br> ![2023-05-03_3928_851](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg)|让每个人能够在自己的设备上本地开发、优化和部署AI模型。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 91|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) </br> ![2023-05-03_3920_18](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)  <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Demo-brightgreen" alt="Open in Demo"/></a> |AIGC 提示词可视化编辑器|
+| 90|🔥🔥[mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) </br> ![2023-05-03_3928_851](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg)|让每个人能够在自己的设备上本地开发、优化和部署AI模型。|
+| 91|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) </br> ![2023-05-03_3920_18](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio.svg)  <a alt="Click Me" href="https://moonvy.com/apps/ops/" target="_blank"><img src="https://img.shields.io/badge/Moonvy-Demo-brightgreen" alt="Open in Demo"/></a> |AIGC 提示词可视化编辑器|
 | 92| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  </br> ![2023-05-03_3839_0](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)       | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 93|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) </br> ![2023-05-03_3713_10](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)|使用DeepSpeed的示例模型|
 | 94|[gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)</br> ![2023-05-03_3639_33](https://img.shields.io/github/stars/gaomingqi/Track-Anything.svg)|一个灵活、交互式的视频对象跟踪和分割工具，基于Segment Anything、XMem和E2FGVI。|
@@ -155,7 +155,7 @@
 | 126|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) </br> ![2023-05-03_1741_13](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
 | 127|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-03_1731_4](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 128|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-03_1618_10](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
-| 129|🔥[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-03_1273_330](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
+|⭐ 129|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-03_1274_185](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
 | 130|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-03_1226_23](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
 | 131|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-03_1222_25](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 | 132|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-03_1085_17](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
