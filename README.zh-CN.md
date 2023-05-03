@@ -234,6 +234,11 @@
 | 2    | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 微软面向初学者的机器学习课程|
 | 3    | [跟李沐学AI合集](https://space.bilibili.com/1567748478) | [李沐](https://zh.wikipedia.org/wiki/李沐_(科学家)) 博士的AI论文精读和机器学习课程 |
 | 4    | [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) | 这门短期课程由Isa Fulford ([OpenAI](https://openai.com/)) 和Andrew Ng ([DeepLearning.AI](https://www.deeplearning.ai/)) 教授授课，主要教大家如何使用大语言模型(LLM)快速构建新的和强大的应用程序 |
+| 5    | [动手学深度学习](https://github.com/d2l-ai/d2l-zh) | 面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学 |
+| 6    | [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | 2022年成为人工智能专家的路线图 |
+| 7    | [Computer Science courses](https://github.com/Developer-Y/cs-video-courses) | 具有视频讲座的计算机科学课程列表 |
+| 8    | [《机器学习》（西瓜书）公式详解](https://github.com/datawhalechina/pumpkin-book) | [周志华](https://baike.baidu.com/item/%E5%91%A8%E5%BF%97%E5%8D%8E/32542) 老师的《机器学习》（西瓜书）是机器学习领域的经典入门教材之一，本书旨在对西瓜书里比较难理解的公式加以解析，以及对部分公式补充具体的推导细节|
+| 9    | [PyTorch 中文手册](https://github.com/zergtant/pytorch-handbook) | 这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 |
 
 
 

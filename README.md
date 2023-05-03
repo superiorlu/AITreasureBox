@@ -234,6 +234,10 @@
 | 1    | [Coursera - Machine Learning ](https://www.coursera.org/specializations/machine-learning-introduction) | The Machine Learning Specialization Course taught by Dr. Andrew Ng|
 | 2    | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|
 | 3    | [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) | This short course taught by Isa Fulford ([OpenAI](https://openai.com/)) and Andrew Ng ([DeepLearning.AI](https://www.deeplearning.ai/)) will teach how to use a large language model (LLM) to quickly build new and powerful applications |
+| 4    | [Dive into Deep Learning](https://github.com/d2l-ai/d2l-zh) |Targeting Chinese readers, functional and open for discussion. The Chinese and English versions are used for teaching in over 400 universities across more than 60 countries |
+| 5    | [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
+| 6    | [Computer Science courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures|
+
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
 
