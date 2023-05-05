@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-23:05:56UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-23:08:06UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -48,7 +48,7 @@
 | 19| [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) </br> ![2023-05-05_25210_22](https://img.shields.io/github/stars/acheong08/ChatGPT.svg)                                                                    |                                                   Reverse engineered ChatGPT API |
 | 20|[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) </br> ![2023-05-05_23820_103](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg)|A deep learning optimization library that makes distributed training and inference easy, efficient, and effective|
 | 21| [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) </br> ![2023-05-05_22853_116](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) | Code and documentation to train Stanford's Alpaca models, and generate the data|
-|⭐ 22|🔥[Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) </br> ![2023-05-06_22664_361](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web.svg)|One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。|
+|⭐ 22|🔥[Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) </br> ![2023-05-06_22664_361](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web.svg)|One-Click to deploy well-designed ChatGPT web UI on Vercel|
 | 23|🔥 [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)      </br> ![2023-05-05_22656_279](https://img.shields.io/github/stars/THUDM/ChatGLM-6B.svg)                                                                  | An open bilingual dialogue language model                                                                      |
 | 24|[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) </br> ![2023-05-05_21876_9](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal.svg)|Investment Research for Everyone, Anywhere.|
 | 25| [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) </br> ![2023-05-05_21470_97](https://img.shields.io/github/stars/Stability-AI/stablediffusion.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/stabilityai/stable-diffusion" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> |High-Resolution Image Synthesis with Latent Diffusion Models|
@@ -170,7 +170,7 @@
 | 141|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-05_1316_38](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
 | 142|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-05_1307_27](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
 | 143|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-05_1177_60](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|The no-code platform for connecting custom data to large language models|
-|⭐ 144|🔥[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) </br> ![2023-05-06_1146_469](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg)|吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版|
+|⭐ 144|🔥[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) </br> ![2023-05-06_1146_469](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg)|Andrew Ng's course "ChatGPT Prompt Engineering for Developers" Chinese version|
 
 **Tip:**
 | symbol| rule |

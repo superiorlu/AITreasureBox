@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-23:05:56UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-23:08:06UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -170,7 +170,7 @@
 | 141|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-05_1316_38](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 | 142|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-05_1307_27](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
 | 143|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-05_1177_60](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
-|⭐ 144|🔥[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) </br> ![2023-05-06_1146_469](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg)|Andrew Ng's course "ChatGPT Prompt Engineering for Developers" Chinese version|
+|⭐ 144|🔥[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) </br> ![2023-05-06_1146_469](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg)|吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版|
 
 **说明:**
 | 符号| 规则 |
