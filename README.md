@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-02:28:25UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-03:20:03UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -125,7 +125,7 @@
 | 96| [keijiro/AICommand](https://github.com/keijiro/AICommand) </br> ![2023-05-05_3442_1](https://img.shields.io/github/stars/keijiro/AICommand.svg)| ChatGPT integration with Unity Editor |
 | 97|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) </br> ![2023-05-05_3344_2](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU|
 | 98|[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) </br> ![2023-05-05_3327_10](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)  <a alt="Click Me" href="https://law-cn-ai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-Demo-brightgreen" alt="Open in Demo"/></a> |⚖️ AI Legal Assistant|
-| 99|[Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) </br> ![2023-05-05_3314_5](https://img.shields.io/github/stars/Azure/Azure-Sentinel.svg)|Cloud-native SIEM for intelligent security analytics for your entire enterprise.|
+|⭐ 99|[Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) </br> ![2023-05-05_3314_30](https://img.shields.io/github/stars/Azure/Azure-Sentinel.svg)|Cloud-native SIEM for intelligent security analytics for your entire enterprise.|
 | 100|[lvwerra/trl](https://github.com/lvwerra/trl) </br> ![2023-05-05_3246_3](https://img.shields.io/github/stars/lvwerra/trl.svg)|Train transformer language models with reinforcement learning.|
 | 101|[gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) </br> ![2023-05-05_3238_149](https://img.shields.io/github/stars/gventuri/pandas-ai.svg)|Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational|
 | 102| [civitai/civitai](https://github.com/civitai/civitai) </br> ![2023-05-05_3222_4](https://img.shields.io/github/stars/civitai/civitai.svg)| Build a platform where people can share their stable diffusion models |
@@ -158,8 +158,8 @@
 | 129|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) </br> ![2023-05-05_1757_2](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper transcription with CTranslate2|
 | 130|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-05_1738_2](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter & SegGPT Series: Vision Foundation Models from BAAI|
 | 131|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-05_1636_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|A Toolkit for Text-to-Video Generation and Editing|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 132|[georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) </br> ![2023-05-05_1494_48](https://img.shields.io/github/stars/georgia-tech-db/eva.svg)|AI-Relational Database System |
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 133|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-05_1493_15](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Official repo for Lamini's data generator for generating instructions to train instruction-following LLMs|
+| 132|[georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) </br> ![2023-05-05_1494_48](https://img.shields.io/github/stars/georgia-tech-db/eva.svg)|AI-Relational Database System |
+| 133|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-05_1493_15](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Official repo for Lamini's data generator for generating instructions to train instruction-following LLMs|
 | 134|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-05_1286_6](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
 | 135|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-05_1283_5](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
 | 136|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-05_1122_5](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|The no-code platform for connecting custom data to large language models|

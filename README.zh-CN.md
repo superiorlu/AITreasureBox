@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-02:28:25UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-03:20:03UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -125,7 +125,7 @@
 | 96| [keijiro/AICommand](https://github.com/keijiro/AICommand) </br> ![2023-05-05_3442_1](https://img.shields.io/github/stars/keijiro/AICommand.svg)| 将ChatGPT集成到Unity Editor |
 | 97|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) </br> ![2023-05-05_3344_2](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
 | 98|[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) </br> ![2023-05-05_3327_10](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)  <a alt="Click Me" href="https://law-cn-ai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-Demo-brightgreen" alt="Open in Demo"/></a> |⚖️ AI 法律助手|
-| 99|[Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) </br> ![2023-05-05_3314_5](https://img.shields.io/github/stars/Azure/Azure-Sentinel.svg)|云本地（Cloud-native）SIEM 可以为您的整个企业提供智能安全分析。|
+|⭐ 99|[Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) </br> ![2023-05-05_3314_30](https://img.shields.io/github/stars/Azure/Azure-Sentinel.svg)|云本地（Cloud-native）SIEM 可以为您的整个企业提供智能安全分析。|
 | 100|[lvwerra/trl](https://github.com/lvwerra/trl) </br> ![2023-05-05_3246_3](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 101|[gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) </br> ![2023-05-05_3238_149](https://img.shields.io/github/stars/gventuri/pandas-ai.svg)|Pandas AI是一个Python库，将生成式人工智能能力集成到Pandas中，使数据框具有对话功能。|
 | 102| [civitai/civitai](https://github.com/civitai/civitai) </br> ![2023-05-05_3222_4](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
@@ -158,8 +158,8 @@
 | 129|[guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) </br> ![2023-05-05_1757_2](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg)|Faster Whisper转录使用CTranslate2。|
 | 130|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-05_1738_2](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 131|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-05_1636_0](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 132|[georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) </br> ![2023-05-05_1494_48](https://img.shields.io/github/stars/georgia-tech-db/eva.svg)|该项目名为 AI-关系数据库系统，结合了 SQL 和深度学习技术。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 133|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-05_1493_15](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
+| 132|[georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) </br> ![2023-05-05_1494_48](https://img.shields.io/github/stars/georgia-tech-db/eva.svg)|该项目名为 AI-关系数据库系统，结合了 SQL 和深度学习技术。|
+| 133|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-05_1493_15](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
 | 134|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-05_1286_6](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
 | 135|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-05_1283_5](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 | 136|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-05_1122_5](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
