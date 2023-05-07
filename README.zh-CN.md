@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-02:35:02UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-03:19:56UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -129,8 +129,8 @@
 | 100|[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)</br> ![2023-05-07_3402_12](https://img.shields.io/github/stars/bhaskatripathi/pdfGPT.svg)|PDF GPT是一种使用GPT能力与PDF文件内容交互的工具，它是唯一的开源解决方案，可将您的PDF文件转换为聊天机器人。|
 | 101|[ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) </br> ![2023-05-07_3366_2](https://img.shields.io/github/stars/ravenscroftj/turbopilot.svg)|Turbopilot是一个基于开源的大语言模型的代码自动完成引擎，可以在CPU上本地运行|
 | 102|[Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) </br> ![2023-05-07_3354_0](https://img.shields.io/github/stars/Azure/Azure-Sentinel.svg)|云本地（Cloud-native）SIEM 可以为您的整个企业提供智能安全分析。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 103| [civitai/civitai](https://github.com/civitai/civitai) </br> ![2023-05-07_3265_2](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 104|[lvwerra/trl](https://github.com/lvwerra/trl) </br> ![2023-05-07_3264_1](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
+| 103| [civitai/civitai](https://github.com/civitai/civitai) </br> ![2023-05-07_3265_2](https://img.shields.io/github/stars/civitai/civitai.svg)| 搭建一个人们可分享自己的stable diffusion模型的平台 |
+| 104|[lvwerra/trl](https://github.com/lvwerra/trl) </br> ![2023-05-07_3264_1](https://img.shields.io/github/stars/lvwerra/trl.svg)|使用强化学习来训练Transformer语言模型|
 | 105|[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)</br> ![2023-05-07_3199_6](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter.svg)|将LLaMA微调以在1小时内遵循说明，并使用1.2M参数。|
 | 106| [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)      </br> ![2023-05-07_3130_1](https://img.shields.io/github/stars/yihong0618/xiaogpt.svg)                                                            |                                                                              让小米智能音箱接入ChatGPT |
 | 107|[rustformers/llm](https://github.com/rustformers/llm) </br> ![2023-05-07_3007_4](https://img.shields.io/github/stars/rustformers/llm.svg)| 在 CPU 上使用 Rust 运行大型语言模型的推理 |
@@ -143,8 +143,8 @@
 | 114|[0hq/WebGPT](https://github.com/0hq/WebGPT) </br> ![2023-05-07_2661_7](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
 | 115|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) </br> ![2023-05-07_2644_30](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|这个项目是一个基于 GPT 技术的应用程序，用于通过 Whisper 进行远程软件工程师面试。|
 | 116|[whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)</br> ![2023-05-07_2542_6](https://img.shields.io/github/stars/whoiskatrin/chart-gpt.svg)|可以使用自然语言处理和机器学习技术来构建一个基于文本输入的 AI 工具，用于生成图表。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 117|[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)</br> ![2023-05-07_2471_42](https://img.shields.io/github/stars/GreyDGL/PentestGPT.svg)|一个由GPT驱动的渗透测试工具。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 118|[sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) </br> ![2023-05-07_2453_3](https://img.shields.io/github/stars/sanchit-gandhi/whisper-jax.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/sanchit-gandhi/whisper-jax" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> |针对OpenAI的Whisper模型进行了优化的JAX代码，主要基于Hugging Face Transformers Whisper实现|
+| 117|[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)</br> ![2023-05-07_2471_42](https://img.shields.io/github/stars/GreyDGL/PentestGPT.svg)|一个由GPT驱动的渗透测试工具。|
+| 118|[sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) </br> ![2023-05-07_2453_3](https://img.shields.io/github/stars/sanchit-gandhi/whisper-jax.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/sanchit-gandhi/whisper-jax" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> |针对OpenAI的Whisper模型进行了优化的JAX代码，主要基于Hugging Face Transformers Whisper实现|
 | 119|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-07_2437_1](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
 | 120|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)</br> ![2023-05-07_2437_8](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|这篇论文的官方实现："Segment Everything Everywhere All at Once"|
 | 121|[TheRamU/Fay](https://github.com/TheRamU/Fay) </br> ![2023-05-07_2427_2](https://img.shields.io/github/stars/TheRamU/Fay.svg)|Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、数字人互动等|
@@ -163,8 +163,8 @@
 | 134|[baaivision/Painter](https://github.com/baaivision/Painter) </br> ![2023-05-07_1752_0](https://img.shields.io/github/stars/baaivision/Painter.svg)|Painter和SegGPT系列：BAAI的视觉基础模型|
 | 135|[Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) </br> ![2023-05-07_1752_23](https://img.shields.io/github/stars/Deci-AI/super-gradients.svg)|使用一个开源的训练库轻松地训练或微调 SOTA 计算机视觉模型。这是 Yolo-NAS 的主页。|
 | 136|[VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) </br> ![2023-05-07_1647_1](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg)|一个文本到视频生成和编辑的工具包|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 137|[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) </br> ![2023-05-07_1643_5](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg)|一个与大型语言模型相关的论文和资源集合。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 138|[Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) </br> ![2023-05-07_1642_1](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo.svg)|一个使用Azure Cognitive Search进行检索和Azure OpenAI大型语言模型来支持ChatGPT风格和Q&A体验的Retrieval-Augmented Generation模式的示例应用程序，在Azure上运行。|
+| 137|[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) </br> ![2023-05-07_1643_5](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg)|一个与大型语言模型相关的论文和资源集合。|
+| 138|[Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) </br> ![2023-05-07_1642_1](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo.svg)|一个使用Azure Cognitive Search进行检索和Azure OpenAI大型语言模型来支持ChatGPT风格和Q&A体验的Retrieval-Augmented Generation模式的示例应用程序，在Azure上运行。|
 | 139|[georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) </br> ![2023-05-07_1577_4](https://img.shields.io/github/stars/georgia-tech-db/eva.svg)|该项目名为 AI-关系数据库系统，结合了 SQL 和深度学习技术。|
 | 140|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-07_1565_2](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
 | 141|[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) </br> ![2023-05-07_1543_14](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg)|吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版|
