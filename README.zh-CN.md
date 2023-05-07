@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:16:41UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:23:53UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -137,16 +137,16 @@
 | 108|[zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) </br> ![2023-05-07_2975_1](https://img.shields.io/github/stars/zilliztech/GPTCache.svg)|GPTCache是一个库，用于创建语义缓存以存储LLM查询的响应。|
 | 109| [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)  </br> ![2023-05-07_2877_3](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri.svg)                                                       |              由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录 |
 | 110|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) </br> ![2023-05-07_2867_3](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything.svg)|使用“Segment Anything”和修复模型，可以修复任何缺失的区域。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 111|[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) </br> ![2023-05-07_2813_84](https://img.shields.io/github/stars/FlowiseAI/Flowise.svg)|使用LangchainJS拖放UI构建自定义LLM流程。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 112|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) </br> ![2023-05-07_2791_3](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|将自然语言转换为Shell命令的CLI工具|
+| 111|[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) </br> ![2023-05-07_2813_84](https://img.shields.io/github/stars/FlowiseAI/Flowise.svg)|使用LangchainJS拖放UI构建自定义LLM流程。|
+| 112|[BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) </br> ![2023-05-07_2791_3](https://img.shields.io/github/stars/BuilderIO/ai-shell.svg)|将自然语言转换为Shell命令的CLI工具|
 | 113| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) </br> ![2023-05-07_2667_2](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
 | 114|[0hq/WebGPT](https://github.com/0hq/WebGPT) </br> ![2023-05-07_2664_10](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
 | 115|[leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) </br> ![2023-05-07_2660_46](https://img.shields.io/github/stars/leetcode-mafia/cheetah.svg)|这个项目是一个基于 GPT 技术的应用程序，用于通过 Whisper 进行远程软件工程师面试。|
 | 116|[whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)</br> ![2023-05-07_2544_8](https://img.shields.io/github/stars/whoiskatrin/chart-gpt.svg)|可以使用自然语言处理和机器学习技术来构建一个基于文本输入的 AI 工具，用于生成图表。|
 | 117|[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)</br> ![2023-05-07_2504_75](https://img.shields.io/github/stars/GreyDGL/PentestGPT.svg)|一个由GPT驱动的渗透测试工具。|
 | 118|[sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) </br> ![2023-05-07_2455_5](https://img.shields.io/github/stars/sanchit-gandhi/whisper-jax.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/sanchit-gandhi/whisper-jax" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> |针对OpenAI的Whisper模型进行了优化的JAX代码，主要基于Hugging Face Transformers Whisper实现|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 119|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)</br> ![2023-05-07_2444_15](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|这篇论文的官方实现："Segment Everything Everywhere All at Once"|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 120|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-07_2443_7](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
+| 119|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)</br> ![2023-05-07_2444_15](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|这篇论文的官方实现："Segment Everything Everywhere All at Once"|
+| 120|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-07_2443_7](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
 | 121|[TheRamU/Fay](https://github.com/TheRamU/Fay) </br> ![2023-05-07_2428_3](https://img.shields.io/github/stars/TheRamU/Fay.svg)|Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、数字人互动等|
 | 122| [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) </br> ![2023-05-07_2381_2](https://img.shields.io/github/stars/project-baize/baize-chatbot.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/project-baize/Baize-7B" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> | 让ChatGPT在几小时内使用单个GPU教自己的聊天机器人 |
 | 123|[togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) </br> ![2023-05-07_2378_15](https://img.shields.io/github/stars/togethercomputer/RedPajama-Data.svg)|用于准备大型数据集以训练大型语言模型的代码|
@@ -166,8 +166,8 @@
 | 137|[RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) </br> ![2023-05-07_1645_7](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg)|一个与大型语言模型相关的论文和资源集合。|
 | 138|[Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) </br> ![2023-05-07_1642_1](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo.svg)|一个使用Azure Cognitive Search进行检索和Azure OpenAI大型语言模型来支持ChatGPT风格和Q&A体验的Retrieval-Augmented Generation模式的示例应用程序，在Azure上运行。|
 | 139|[georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) </br> ![2023-05-07_1584_11](https://img.shields.io/github/stars/georgia-tech-db/eva.svg)|该项目名为 AI-关系数据库系统，结合了 SQL 和深度学习技术。|
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 140|[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) </br> ![2023-05-07_1573_44](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg)|吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 141|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-07_1569_6](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
+| 140|[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) </br> ![2023-05-07_1573_44](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg)|吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版|
+| 141|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-07_1569_6](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
 | 142|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-07_1366_11](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 | 143|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-07_1345_3](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
 | 144|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-07_1205_4](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
