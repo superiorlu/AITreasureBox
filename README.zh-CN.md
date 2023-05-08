@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-21:16:49UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-21:40:57UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -178,7 +178,7 @@
 | 149|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-08_1400_16](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 | 150|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-08_1397_47](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
 | 151|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-08_1235_14](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
-|⭐ 152|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) </br> ![2023-05-09_1134_160](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese.svg)|华佗模型仓库，基于中文医学知识的 LLaMA 模型指令微调。|
+|⭐ 152|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) </br> ![2023-05-09_1134_160](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese.svg)|华佗模型仓库，基于中文医学知识的 LLaMA 模型指令微调|
 
 **说明:**
 | 符号| 规则 |
