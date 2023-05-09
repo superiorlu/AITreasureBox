@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:18:09UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:25:05UTC-brightgreen" />
 </p>
 
 ## 目录
@@ -148,8 +148,8 @@
 | 119|[bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) </br> ![2023-05-09_2755_145](https://img.shields.io/github/stars/bigcode-project/starcoder.svg)|StarCoder的大本营：可进行微调和推理|
 | 120|[0hq/WebGPT](https://github.com/0hq/WebGPT) </br> ![2023-05-09_2720_10](https://img.shields.io/github/stars/0hq/WebGPT.svg)|在浏览器上使用WebGPU运行GPT模型。这是一个使用不到2000行纯JavaScript实现的GPT推理的项目。|
 | 121| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) </br> ![2023-05-09_2682_3](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | 使用医学领域知识对 LLaMA 模型进行微调的医疗聊天模型 |
-|![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 122|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-09_2589_40](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 123|[whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)</br> ![2023-05-09_2585_8](https://img.shields.io/github/stars/whoiskatrin/chart-gpt.svg)|可以使用自然语言处理和机器学习技术来构建一个基于文本输入的 AI 工具，用于生成图表。|
+| 122|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-09_2589_40](https://img.shields.io/github/stars/l15y/wenda.svg)|一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
+| 123|[whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)</br> ![2023-05-09_2585_8](https://img.shields.io/github/stars/whoiskatrin/chart-gpt.svg)|可以使用自然语言处理和机器学习技术来构建一个基于文本输入的 AI 工具，用于生成图表。|
 | 124|[TheRamU/Fay](https://github.com/TheRamU/Fay) </br> ![2023-05-09_2529_26](https://img.shields.io/github/stars/TheRamU/Fay.svg)|Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、数字人互动等|
 | 125|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)</br> ![2023-05-09_2517_9](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|这篇论文的官方实现："Segment Everything Everywhere All at Once"|
 | 126|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) </br> ![2023-05-09_2517_18](https://img.shields.io/github/stars/Facico/Chinese-Vicuna.svg)|一个中文低资源的llama+lora方案，结构参考alpaca|
@@ -177,7 +177,7 @@
 | 148|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-09_1624_7](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Lamini数据生成器的官方仓库，用于生成指令以训练遵循指令的LLMs|
 | 149|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-09_1416_15](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|将大型预训练语言模型赋能为能够遵循复杂指令的向导|
 | 150|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-09_1408_10](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集|
-| 151|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) </br> ![2023-05-09_1283_237](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese.svg)|华佗模型仓库，基于中文医学知识的 LLaMA 模型指令微调|
+|⭐ 151|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) </br> ![2023-05-09_1265_160](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese.svg)|华佗模型仓库，基于中文医学知识的 LLaMA 模型指令微调|
 | 152|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-09_1243_6](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|无代码平台用于连接自定义数据与大型语言模型。|
 
 **说明:**

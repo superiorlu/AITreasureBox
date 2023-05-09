@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:18:09UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-06:25:05UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -148,8 +148,8 @@
 | 119|[bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) </br> ![2023-05-09_2755_145](https://img.shields.io/github/stars/bigcode-project/starcoder.svg)|Home of StarCoder: fine-tuning & inference!|
 | 120|[0hq/WebGPT](https://github.com/0hq/WebGPT) </br> ![2023-05-09_2720_10](https://img.shields.io/github/stars/0hq/WebGPT.svg)|Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.|
 | 121| [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) </br> ![2023-05-09_2682_3](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor.svg) | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge |
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg) 122|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-09_2589_40](https://img.shields.io/github/stars/l15y/wenda.svg)|An LLM invocation platform, It searches and designs automatic execution actions for small model plug-in knowledge bases, achieving generation capabilities no less than large models|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 123|[whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)</br> ![2023-05-09_2585_8](https://img.shields.io/github/stars/whoiskatrin/chart-gpt.svg)|AI tool to build charts based on text input|
+| 122|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-05-09_2589_40](https://img.shields.io/github/stars/l15y/wenda.svg)|An LLM invocation platform, It searches and designs automatic execution actions for small model plug-in knowledge bases, achieving generation capabilities no less than large models|
+| 123|[whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt)</br> ![2023-05-09_2585_8](https://img.shields.io/github/stars/whoiskatrin/chart-gpt.svg)|AI tool to build charts based on text input|
 | 124|[TheRamU/Fay](https://github.com/TheRamU/Fay) </br> ![2023-05-09_2529_26](https://img.shields.io/github/stars/TheRamU/Fay.svg)|Fay is a complete open source project that includes Fay controller and numeral models, which can be used in different applications such as virtual hosts, live promotion, numeral human interaction and so on|
 | 125|[UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)</br> ![2023-05-09_2517_9](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg)|Official implementation of the paper "Segment Everything Everywhere All at Once"|
 | 126|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) </br> ![2023-05-09_2517_18](https://img.shields.io/github/stars/Facico/Chinese-Vicuna.svg)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model|
@@ -177,7 +177,7 @@
 | 148|[lamini-ai/lamini](https://github.com/lamini-ai/lamini) </br> ![2023-05-09_1624_7](https://img.shields.io/github/stars/lamini-ai/lamini.svg)|Official repo for Lamini's data generator for generating instructions to train instruction-following LLMs|
 | 149|[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)</br> ![2023-05-09_1416_15](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)|WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions|
 | 150|[CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) </br> ![2023-05-09_1408_10](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)|Chinese-LLaMA basic model; ChatFlow Chinese conversation model; NLP pre-training/command fine-tuning dataset|
-| 151|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) </br> ![2023-05-09_1283_237](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese.svg)|Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge|
+|⭐ 151|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) </br> ![2023-05-09_1265_160](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese.svg)|Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge|
 | 152|[gmpetrov/databerry](https://github.com/gmpetrov/databerry)</br> ![2023-05-09_1243_6](https://img.shields.io/github/stars/gmpetrov/databerry.svg)|The no-code platform for connecting custom data to large language models|
 
 **Tip:**
