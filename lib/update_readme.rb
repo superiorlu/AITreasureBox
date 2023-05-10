@@ -66,12 +66,13 @@ def update_repos(start_str, end_str, file_name, repo_stars, latest_repos)
   repo_infos.sort_by!{ |r| -r[:star_count] }
   repo_infos.each_with_index do |repo, index|
     now_index = index + 1
-    line = format("|%s%s %i|%s%s|%s|\n",
+    line = format("|%s%s %i|%s%s %s|%s|\n",
       arrow_style(file_name, repo[:original_index], now_index),
       star_style(repo[:trending]),
       now_index,
       popularity_style(repo[:change_stars], 256),
       repo[:repo_info],
+      repo[:additional_info],
       repo[:desc]
     )
     new_readme << line
@@ -191,7 +192,7 @@ def fetch_repos
     Array(result['data']).each do |repo|
       repo_info = format("[%s](%s) </br> ![%s_%s_%s](https://img.shields.io/github/stars/%s.svg)",
         repo['fullName'], repo['link'], repo['crawlDate'], repo['stars'], repo['starsToday'], repo['fullName'])
-      latest_repo = { repo_name: repo['fullName'], trending: true, repo_info: repo_info, desc: repo['desc'], cn_desc: repo['cnDesc'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, forced: repo['forced'], original_index: -1 }
+      latest_repo = { repo_name: repo['fullName'], trending: true, repo_info: repo_info, desc: repo['desc'], cn_desc: repo['cnDesc'], additional_info: repo['additionalInfo'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, forced: repo['forced'], original_index: -1 }
       repos[repo['fullName']] = latest_repo
     end
   end
