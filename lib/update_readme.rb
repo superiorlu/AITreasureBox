@@ -8,7 +8,9 @@ require 'json'
 def update_all_repos
   repo_stars = {} # cache stars
   latest_repos = fetch_repos
+
   update_repos('## Repos', '**Tip:**', 'README.md', repo_stars, latest_repos)
+  latest_repos.each{|repo, repo_info| repo_info[:desc] = repo_info[:cn_desc]}
   update_repos('## 代码库', '**说明:**', 'README.zh-CN.md', repo_stars, latest_repos)
 end
 
