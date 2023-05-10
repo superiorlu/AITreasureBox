@@ -36,6 +36,7 @@ jobs:
       - name: Sort repos by star count
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOS_URL: ${{ vars.REPOS_URL }}
         run: ruby lib/update_readme.rb
 
       - name: Commit changes
@@ -43,7 +44,7 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git config --global user.email "actions@github.com"
             git config --global user.name "GitHub Actions"
-            git commit -a -m "🤖 sort repos by stars"
+            git commit -a -m "🤖 add repos and sort by stars"
           else
             echo "Nothing Changes!"
           fi

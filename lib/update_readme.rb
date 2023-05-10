@@ -7,8 +7,9 @@ require 'json'
 # update repos
 def update_all_repos
   repo_stars = {} # cache stars
-  update_repos('## Repos', '**Tip:**', 'README.md', repo_stars)
-  update_repos('## 代码库', '**说明:**', 'README.zh-CN.md', repo_stars)
+  latest_repos = fetch_repos
+  update_repos('## Repos', '**Tip:**', 'README.md', repo_stars, latest_repos)
+  update_repos('## 代码库', '**说明:**', 'README.zh-CN.md', repo_stars, latest_repos)
 end
 
 # update last date
@@ -18,18 +19,17 @@ def update_all_last_update
 end
 
 # update repos content
-def update_repos(start_str, end_str, file_name, repo_stars)
+def update_repos(start_str, end_str, file_name, repo_stars, latest_repos)
   readme = File.read(file_name)
   lines = readme.lines
   start_index = lines.index {|e| e.include?(start_str)}
   end_index = lines.index {|e| e.include?(end_str)}
-  repos = []
+  repos = {}
   Array(lines[start_index...end_index]).each_with_index do |line, index|
     if index > 4 # skip head of table
         _, _, repo_info, desc  = line.split('|')
         next if repo_info.nil?
         repo_info.gsub!('🔥', '') # reset fire
-        repo_info.gsub!('⭐', '') # reset star
         match = repo_info.scan(/\[(.*?)\]/).flatten
         next if match.empty?
         star_count = if repo_stars[match[0]].nil?
@@ -42,18 +42,31 @@ def update_repos(start_str, end_str, file_name, repo_stars)
         date, total_stars, change_stars = sync_today_stars(match[1], star_count)
         star_info = format("%s_%s_%s", date, total_stars, change_stars)
         repo_info.sub!(match[1], star_info)
-        repo = { repo_info: repo_info, desc: desc, star_count:  star_count, change_stars: change_stars.to_i, original_index: index - 4 }
-        repos << repo
+        repos[match[0]] = { repo_name: match[0], repo_info: repo_info, desc: desc, star_count:  star_count, change_stars: change_stars.to_i, trending: false, original_index: index - 4 }
     end
+  end
+
+  # add repos
+  repo_names = repos.keys
+  latest_repos.each do |repo_name, repo_info|
+    if repo_info[:forced] == false
+      if repo_names.include?(repo_name)
+        repos[repo_name][:trending] = repo_info[:trending]
+        next
+      end
+    end
+    repos[repo_name] = repo_info
   end
 
   new_readme = ''
   new_readme << lines[0..(start_index + 4)].join
-  repos.sort_by!{ |r| -r[:star_count] }
-  repos.each_with_index do |repo, index|
+  repo_infos = repos.values
+  repo_infos.sort_by!{ |r| -r[:star_count] }
+  repo_infos.each_with_index do |repo, index|
     now_index = index + 1
-    line = format("|%s %i|%s%s|%s|\n",
+    line = format("|%s%s %i|%s%s|%s|\n",
       arrow_style(file_name, repo[:original_index], now_index),
+      star_style(repo[:trending]),
       now_index,
       popularity_style(repo[:change_stars], 256),
       repo[:repo_info],
@@ -88,8 +101,14 @@ def last_update_time(start_str, end_str, file_name)
   File.write(file_name, new_readme)
 end
 
+# trending style
+def star_style(trending)
+  (trending.nil? || trending == false) ? '' : '⭐'
+end
+
 # cumulate arrow style
 def arrow_style(file_name, original_index, now_index)
+  return nil if original_index == -1
   return nil if now_index == original_index
   style = ' '
   if file_name == 'README.md'
@@ -153,6 +172,28 @@ def request_with_redirect(url)
   elsif response.code == '200'
     response
   end
+end
+
+# fetch repos
+def fetch_repos
+  uri = URI.parse(ENV['REPOS_URL'])
+  http = Net::HTTP.new(uri.host, uri.port)
+
+  request = Net::HTTP::Get.new(uri.request_uri)
+  request['Accept'] = 'application/json'
+
+  response = http.request(request)
+  repos = {}
+  if response.code == '200'
+    result = JSON.parse(response.body)
+    Array(result['data']).each do |repo|
+      repo_info = format("[%s](%s) </br> ![%s_%s_%s](https://img.shields.io/github/stars/%s.svg)",
+        repo['fullName'], repo['link'], repo['crawlDate'], repo['stars'], repo['starsToday'], repo['fullName'])
+      latest_repo = { repo_name: repo['fullName'], trending: true, repo_info: repo_info, desc: repo['desc'], cn_desc: repo['cnDesc'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, forced: repo['forced'], original_index: -1 }
+      repos[repo['fullName']] = latest_repo
+    end
+  end
+  repos
 end
 
 # main

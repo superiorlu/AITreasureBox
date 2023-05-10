@@ -6,7 +6,7 @@ name: AddRepos
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   schedule:
-    - cron: "3 */3 * * *"
+    - cron: "3 */6 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
