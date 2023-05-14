@@ -236,6 +236,7 @@
 | 9| [Stability AI](https://stability.ai/)| The world's leading open source generative AI company which opened source Stable Diffusion |
 | 10| [Meta AI](https://ai.facebook.com/)| Whether it be research, product or infrastructure development, we’re driven to innovate responsibly with AI to benefit the world |
 | 11| [ANTHROPIC](https://www.anthropic.com/)| AI research and products that put safety at the frontier |
+| 12| [aitools.fyi](https://aitools.fyi/)| Find Best AI Tools That Make Your Life Easy! |
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
