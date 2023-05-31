@@ -27,7 +27,6 @@
 
 | <div width="30px">编号</div> |<div width="250px">代码库</div>|  <div width="400px">介绍</div>  |
 |----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------| 
-|⭐ 1|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) </br> ![2023-05-31_368026_85](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp.svg) |freeCodeCamp.org的开源代码库和课程。免费学习编程。|
 | 2| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-05-31_136543_174](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg)                                                                                                                                                                                                                                                                               |  一个实验性的开源尝试，旨在使GPT-4完全自主|
 | 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-05-31_102318_88](https://img.shields.io/github/stars/huggingface/transformers.svg)                                                                                                                                                                                                                                                                               | 为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理 |
 | 4| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-05-31_79692_218](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)                                                                                                                                                                                                                                                                               |基于Gradio库的Stable Diffusion浏览器界面|
@@ -321,6 +320,7 @@
 | 7    | [Computer Science courses](https://github.com/Developer-Y/cs-video-courses) | 具有视频讲座的计算机科学课程列表 |
 | 8    | [《机器学习》（西瓜书）公式详解](https://github.com/datawhalechina/pumpkin-book) | [周志华](https://baike.baidu.com/item/%E5%91%A8%E5%BF%97%E5%8D%8E/32542) 老师的《机器学习》（西瓜书）是机器学习领域的经典入门教材之一，本书旨在对西瓜书里比较难理解的公式加以解析，以及对部分公式补充具体的推导细节|
 | 9    | [PyTorch 中文手册](https://github.com/zergtant/pytorch-handbook) | 这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 |
+| 10    | [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) | 在 freeCodeCamp 上的 Python 机器学习认证 |
 
 
 

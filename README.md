@@ -27,7 +27,6 @@
 
 | <div width="30px">No.</div> | <div width="250px">Repos</div> | <div width="400px">Description</div>  |
 | ----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------|
-|⭐ 1|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) </br> ![2023-05-31_368026_85](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp.svg) |freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.|
 | 2| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-05-31_136543_174](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg)                                                                                                                                                                                                                                                                               | An experimental open-source attempt to make GPT-4 fully autonomous |
 | 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-05-31_102318_88](https://img.shields.io/github/stars/huggingface/transformers.svg)                                                                                                                                                                                                                                                                               | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
 | 4| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-05-31_79692_218](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)                                                                                                                                                                                                                                                                               |A browser interface based on Gradio library for Stable Diffusion|
@@ -318,7 +317,9 @@
 | 3    | [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) | This short course taught by Isa Fulford ([OpenAI](https://openai.com/)) and Andrew Ng ([DeepLearning.AI](https://www.deeplearning.ai/)) will teach how to use a large language model (LLM) to quickly build new and powerful applications |
 | 4    | [Dive into Deep Learning](https://github.com/d2l-ai/d2l-zh) |Targeting Chinese readers, functional and open for discussion. The Chinese and English versions are used for teaching in over 400 universities across more than 60 countries |
 | 5    | [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
-| 6    | [Computer Science courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures|
+| 6    | [Computer Science courses](https://github.com/Developer-Y/cs-video-courses) |List of Computer Science courses with video lectures|
+| 7    | [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Machine Learning with Python Certification on freeCodeCamp|
+
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
