@@ -328,7 +328,9 @@
 | 8    | [《机器学习》（西瓜书）公式详解](https://github.com/datawhalechina/pumpkin-book) | [周志华](https://baike.baidu.com/item/%E5%91%A8%E5%BF%97%E5%8D%8E/32542) 老师的《机器学习》（西瓜书）是机器学习领域的经典入门教材之一，本书旨在对西瓜书里比较难理解的公式加以解析，以及对部分公式补充具体的推导细节|
 | 9    | [PyTorch 中文手册](https://github.com/zergtant/pytorch-handbook) | 这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 |
 | 10    | [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) | 在 freeCodeCamp 上的 Python 机器学习认证 |
-
+| 11    | [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction) | 这门短期课程由 Isa Fulford ([OpenAI](https://openai.com/)) 和 Andrew Ng ([DeepLearning.AI](https://www.deeplearning.ai/))教授授课, 你将学习如何使用链式调用来自动化复杂的工作流程，使用一个大型语言模型|
+| 12    | [LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction) | 这门短期课程由 [Harrison Chase](https://www.linkedin.com/in/harrison-chase-961287118) (Co-Founder and CEO at LangChain) 和 Andrew Ng教授授课, 你将获得扩展语言模型在应用程序开发中使用的用例和功能的关键技能，使用 LangChain 框架|
+| 13    | [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction) | 这门短期课程由 [Sharon Zhou](https://www.linkedin.com/in/zhousharon) (CEO, Co-founder, Lamini)授课, 你将深入了解扩散过程以及执行扩散过程的模型, 不仅仅教你使用预先构建的模型或使用 API，还将教你从头开始构建扩散模型|
 
 
 <p align="right">[<a href="#top">回到页首</a>]</p>

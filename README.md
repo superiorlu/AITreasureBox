@@ -326,7 +326,9 @@
 | 5    | [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
 | 6    | [Computer Science courses](https://github.com/Developer-Y/cs-video-courses) |List of Computer Science courses with video lectures|
 | 7    | [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Machine Learning with Python Certification on freeCodeCamp|
-
+| 8    | [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction) | This short course taught by Isa Fulford ([OpenAI](https://openai.com/)) and Andrew Ng ([DeepLearning.AI](https://www.deeplearning.ai/)), you will learn how to automate complex workflows using chain calls to a large language model|
+| 9    | [LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction) | This short course taught by [Harrison Chase](https://www.linkedin.com/in/harrison-chase-961287118) (Co-Founder and CEO at LangChain) and Andrew Ng. you will gain essential skills in expanding the use cases and capabilities of language models in application development using the LangChain framework|
+| 10    | [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction) | This short course taught by [Sharon Zhou](https://www.linkedin.com/in/zhousharon) (CEO, Co-founder, Lamini). you will gain a deep familiarity with the diffusion process and the models which carry it out. More than simply pulling in a pre-built model or using an API, this course will teach you to build a diffusion model from scratch|
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
