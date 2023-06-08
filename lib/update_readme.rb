@@ -66,7 +66,7 @@ def update_repos(start_str, end_str, file_name, repo_stars, latest_repos)
   repo_infos.sort_by!{ |r| -r[:star_count] }
   repo_infos.each_with_index do |repo, index|
     now_index = index + 1
-    line = format("|%s%s %i|%s%s %s|%s|\n",
+    line = format("|%s%s %i|%s%s%s|%s|\n",
       arrow_style(file_name, repo[:original_index], now_index),
       star_style(repo[:trending]),
       now_index,
