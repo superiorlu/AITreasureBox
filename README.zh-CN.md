@@ -172,7 +172,6 @@
 | 143|[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) </br> ![2023-06-09_4244_8](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples.svg)  |使用DeepSpeed的示例模型|
 | 144|[dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) </br> ![2023-06-09_4115_30](https://img.shields.io/github/stars/dair-ai/ML-Papers-of-the-Week.svg)                     |每周精选顶级机器学习论文。|
 | 145|[lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) </br> ![2023-06-09_4083_14](https://img.shields.io/github/stars/lvwzhen/law-cn-ai.svg)  <a alt="Click Me" href="https://law-cn-ai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-Demo-brightgreen" alt="Open in Demo"/></a>   |⚖️ AI 法律助手|
-| 146|🔥[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) </br> ![2023-06-09_4077_336](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg) |吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版|
 | 147| [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)  </br> ![2023-06-09_4054_3](https://img.shields.io/github/stars/madawei2699/myGPTReader.svg)         | 一个 Slack 机器人，可以阅读任何网页、电子书或文档，并使用 ChatGPT 进行摘要 |
 | 148|[l15y/wenda](https://github.com/l15y/wenda)</br> ![2023-06-09_3962_20](https://img.shields.io/github/stars/l15y/wenda.svg)  |一个LLM调用平台，为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力|
 | 149|[wenda-LLM/wenda](https://github.com/wenda-LLM/wenda) </br> ![2023-06-09_3962_20](https://img.shields.io/github/stars/wenda-LLM/wenda.svg)                                                     |闻达是一个LLM调用平台。它可以用于小型模型来访问知识库并设计自动执行动作，以实现与大型模型相媲美的生成能力。|
@@ -345,7 +344,7 @@
 | 14   | [Free Programming Books For AI](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#artificial-intelligence) |📚 免费的人工智能编程书籍 |
 | 15   | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) |12周，24节课，人工智能面面俱到！|
 | 16   | [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) |一个包含16章的路线图，涵盖了用于构建故事和模型的科学方法、流程、算法和系统。无论您是该领域的新手还是想转入数据科学和人工智能领域的经验丰富的专业人士，都可以使用此路线图|
-| 17   | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) |吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版|
+| 17   | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) |吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》|
 
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
