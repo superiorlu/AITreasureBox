@@ -273,7 +273,7 @@
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 244|[FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) </br> ![2023-06-17_1399_2](https://img.shields.io/github/stars/FranxYao/chain-of-thought-hub.svg)|使用思维链式提示对大型语言模型的复杂推理能力进行基准测试。|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 245|[BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) </br> ![2023-06-17_1318_11](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg)|最新论文和数据集关于多模态大型语言模型。|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 246|[hncboy/chatgpt-web-java](https://github.com/hncboy/chatgpt-web-java) </br> ![2023-06-17_1288_9](https://img.shields.io/github/stars/hncboy/chatgpt-web-java.svg)|Java开发的ChatGPT项目，基于Spring Boot 3和JDK 17，支持AccessToken和ApiKey模式。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 247|[ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)</br> ![2023-06-17_4_1](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter.svg)  |将LLaMA微调以在1小时内遵循说明，并使用1.2M参数。|
+|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 247|[OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter)</br> ![2023-06-17_4_1](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg)  |将LLaMA微调以在1小时内遵循说明，并使用1.2M参数。|
 
 **说明:**
 | 符号| 规则 |
