@@ -26,8 +26,7 @@
 > 每隔2小时自动更新repos和stars并重新排名
 
 | <div width="30px">编号</div> |<div width="250px">代码库</div>|  <div width="400px">介绍</div>  |
-|----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------| 
-|⭐ 1|[ossu/computer-science](https://github.com/ossu/computer-science) </br> ![2023-06-19_140922_119](https://img.shields.io/github/stars/ossu/computer-science.svg)|🎓 自学计算机科学的免费路径！|
+|----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------|
 | 2| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-06-19_140403_176](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg)  |  一个实验性的开源尝试，旨在使GPT-4完全自主|
 | 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-06-19_104453_123](https://img.shields.io/github/stars/huggingface/transformers.svg)   | 为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理 |
 | 4|🔥 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-06-19_84768_275](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)   |基于Gradio库的Stable Diffusion浏览器界面|
@@ -370,6 +369,7 @@
 | 15   | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) |12周，24节课，人工智能面面俱到！|
 | 16   | [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) |一个包含16章的路线图，涵盖了用于构建故事和模型的科学方法、流程、算法和系统。无论您是该领域的新手还是想转入数据科学和人工智能领域的经验丰富的专业人士，都可以使用此路线图|
 | 17   | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) |吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》|
+| 18   | [ossu/computer-science](https://github.com/ossu/computer-science) |🎓 自学计算机科学的免费路径！|
 
 
 <p align="right">[<a href="#top">回到页首</a>]</p>

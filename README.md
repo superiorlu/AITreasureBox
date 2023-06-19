@@ -27,7 +27,6 @@
 
 | <div width="30px">No.</div> | <div width="250px">Repos</div> | <div width="400px">Description</div>  |
 | ----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------|
-|⭐ 1|[ossu/computer-science](https://github.com/ossu/computer-science) </br> ![2023-06-19_140922_119](https://img.shields.io/github/stars/ossu/computer-science.svg)|🎓 Path to a free self-taught education in Computer Science!|
 | 2| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-06-19_140403_176](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
 | 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-06-19_104453_123](https://img.shields.io/github/stars/huggingface/transformers.svg)  | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
 | 4|🔥 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-06-19_84768_275](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)  |A browser interface based on Gradio library for Stable Diffusion|
@@ -368,6 +367,7 @@
 | 12   | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) |12 Weeks, 24 Lessons, AI for All!|
 | 13   | [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) |A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI|
 | 14   | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) |Chinese version of Andrew Ng's Big Model Series Courses, including "Prompt Engineering", "Building System", and "LangChain"|
+| 15   | [ossu/computer-science](https://github.com/ossu/computer-science) |🎓 Path to a free self-taught education in Computer Science!|
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
