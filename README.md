@@ -31,7 +31,6 @@
 | 2| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-06-25_105010_75](https://img.shields.io/github/stars/huggingface/transformers.svg)  | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
 | 3| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-06-25_86240_229](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)  |A browser interface based on Gradio library for Stable Diffusion|
 | 4|[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) </br> ![2023-06-25_81546_119](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg) <a alt="Click Me" href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> |This repo includes ChatGPT prompt curation to use ChatGPT better.|
-|⭐ 5|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) </br> ![2023-06-25_73718_88](https://img.shields.io/github/stars/papers-we-love/papers-we-love.svg)|Papers from the computer science community to read and discuss.|
 | 6|[twitter/the-algorithm](https://github.com/twitter/the-algorithm) </br> ![2023-06-25_58287_3](https://img.shields.io/github/stars/twitter/the-algorithm.svg) |Source code for Twitter's Recommendation Algorithm|
 | 7|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) </br> ![2023-06-25_54862_67](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg)|scikit-learn: machine learning in Python|
 | 8|[hwchase17/langchain](https://github.com/hwchase17/langchain) </br> ![2023-06-25_50258_230](https://img.shields.io/github/stars/hwchase17/langchain.svg) |⚡ Building applications with LLMs through composability ⚡|
@@ -356,7 +355,9 @@
 | 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| Nvidia eDiff-I - New generation of generative AI content creation tool |
 | 8    | [Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo ](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf)| 2023 GPT4All Technical Report |
 | 9    | [Segment Anything](https://arxiv.org/abs/2304.02643)| Meta Segment Anything |
-| 10    | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)| LLaMA: a collection of foundation language models ranging from 7B to 65B parameters|
+| 10   | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)| LLaMA: a collection of foundation language models ranging from 7B to 65B parameters|
+|  11  | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) |Papers from the computer science community to read and discuss|
+|  12  | [CVPR 2023 papers](https://github.com/SkalskiP/top-cvpr-2023-papers) |The most exciting and influential CVPR 2023 papers|
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>

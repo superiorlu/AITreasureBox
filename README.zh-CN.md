@@ -31,7 +31,6 @@
 | 2| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-06-25_105010_75](https://img.shields.io/github/stars/huggingface/transformers.svg)   | 为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理 |
 | 3| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-06-25_86240_229](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)   |基于Gradio库的Stable Diffusion浏览器界面|
 | 4|[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) </br> ![2023-06-25_81546_119](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg) <a alt="Click Me" href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a>  |此存储库包括 ChatGPT 提示词，以更好地使用 ChatGPT|
-|⭐ 5|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) </br> ![2023-06-25_73718_88](https://img.shields.io/github/stars/papers-we-love/papers-we-love.svg)|计算机科学界的论文，可以阅读和讨论。|
 | 6|[twitter/the-algorithm](https://github.com/twitter/the-algorithm) </br> ![2023-06-25_58287_3](https://img.shields.io/github/stars/twitter/the-algorithm.svg)  |Twitter的推荐算法源代码|
 | 7|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) </br> ![2023-06-25_54862_67](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg)|scikit-learn：Python中的机器学习|
 | 8|[hwchase17/langchain](https://github.com/hwchase17/langchain) </br> ![2023-06-25_50258_230](https://img.shields.io/github/stars/hwchase17/langchain.svg)  |通过可组合性构建LLM应用程序|
@@ -354,7 +353,9 @@
 | 7    | [eDiff-I: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://arxiv.org/pdf/2211.01324.pdf)| 英伟达的eDiff-I论文  |
 | 8    | [Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo ](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf)| 2023年 GPT4All 技术报告|
 | 9    | [Segment Anything](https://arxiv.org/abs/2304.02643)| Meta Segment Anything模型 |
-| 10    | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)| LLaMA：开放高效的基础语言模型|
+| 10   | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)| LLaMA：开放高效的基础语言模型|
+| 11  |[Computer Science papers](https://github.com/papers-we-love/papers-we-love) |计算机科学界的论文，可以阅读和讨论。|
+|  12  | [CVPR 2023 papers](https://github.com/SkalskiP/top-cvpr-2023-papers) |2023年最令人兴奋和具有影响力的CVPR论文|
 
 
 
