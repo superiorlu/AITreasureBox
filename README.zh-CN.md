@@ -34,7 +34,6 @@
 | 5|[twitter/the-algorithm](https://github.com/twitter/the-algorithm) </br> ![2023-07-04_58410_22](https://img.shields.io/github/stars/twitter/the-algorithm.svg)  |Twitter的推荐算法源代码|
 | 6|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) </br> ![2023-07-04_54977_14](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg)|scikit-learn：Python中的机器学习|
 | 7|[hwchase17/langchain](https://github.com/hwchase17/langchain) </br> ![2023-07-04_52215_235](https://img.shields.io/github/stars/hwchase17/langchain.svg)  |通过可组合性构建LLM应用程序|
-|⭐ 8|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) </br> ![2023-07-05_50588_106](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg)|12周，26课时，52次测验，经典机器学习适用于所有人。|
 | 9|[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) </br> ![2023-07-04_48294_74](https://img.shields.io/github/stars/nomic-ai/gpt4all.svg)         |gpt4all：一个基于大规模干净助手数据集（包括代码、故事和对话）训练的开源聊天机器人生态系统。|
 | 10|[openai/openai-cookbook](https://github.com/openai/openai-cookbook) </br> ![2023-07-04_42262_114](https://img.shields.io/github/stars/openai/openai-cookbook.svg)  |使用OpenAI API的示例和指南|
 | 11|[xtekky/gpt4free](https://github.com/xtekky/gpt4free) </br> ![2023-07-04_42013_88](https://img.shields.io/github/stars/xtekky/gpt4free.svg)  |将AI行业分散化，通过多个反向工程API（如poe.com、phind.com、chat.openai.com等）提供免费的GPT-4 / 3.5脚本。|
@@ -395,6 +394,7 @@
 | 16   | [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) |一个包含16章的路线图，涵盖了用于构建故事和模型的科学方法、流程、算法和系统。无论您是该领域的新手还是想转入数据科学和人工智能领域的经验丰富的专业人士，都可以使用此路线图|
 | 17   | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) |吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》|
 | 18   | [ossu/computer-science](https://github.com/ossu/computer-science) |🎓 自学计算机科学的免费路径！|
+| 19   | [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10周，20堂课，数据科学适用于所有人！|
 
 
 <p align="right">[<a href="#top">回到页首</a>]</p>

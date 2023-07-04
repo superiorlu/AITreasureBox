@@ -34,7 +34,6 @@
 | 5|[twitter/the-algorithm](https://github.com/twitter/the-algorithm) </br> ![2023-07-04_58410_22](https://img.shields.io/github/stars/twitter/the-algorithm.svg) |Source code for Twitter's Recommendation Algorithm|
 | 6|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) </br> ![2023-07-04_54977_14](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg)|scikit-learn: machine learning in Python|
 | 7|[hwchase17/langchain](https://github.com/hwchase17/langchain) </br> ![2023-07-04_52215_235](https://img.shields.io/github/stars/hwchase17/langchain.svg) |⚡ Building applications with LLMs through composability ⚡|
-|⭐ 8|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) </br> ![2023-07-05_50588_106](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|
 | 9|[nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) </br> ![2023-07-04_48294_74](https://img.shields.io/github/stars/nomic-ai/gpt4all.svg)         |gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue|
 | 10|[openai/openai-cookbook](https://github.com/openai/openai-cookbook) </br> ![2023-07-04_42262_114](https://img.shields.io/github/stars/openai/openai-cookbook.svg) |Examples and guides for using the OpenAI API|
 | 11|[xtekky/gpt4free](https://github.com/xtekky/gpt4free) </br> ![2023-07-04_42013_88](https://img.shields.io/github/stars/xtekky/gpt4free.svg) |decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)|
@@ -393,6 +392,7 @@
 | 13   | [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) |A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI|
 | 14   | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) |Chinese version of Andrew Ng's Big Model Series Courses, including "Prompt Engineering", "Building System", and "LangChain"|
 | 15   | [ossu/computer-science](https://github.com/ossu/computer-science) |🎓 Path to a free self-taught education in Computer Science!|
+| 16   | [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
