@@ -368,7 +368,6 @@
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 339|[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) </br> ![2023-08-14_1282_30](https://img.shields.io/github/stars/kuafuai/DevOpsGPT.svg)|多智能体系统用于基于人工智能的软件开发。将自然语言需求转化为可工作的软件。支持任何开发语言，并扩展现有的基础代码。|
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 340|[Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) </br> ![2023-08-14_1253_8](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg)|一个用于语言模型微调开发的开源工具包。|
 |![red-up-arrow](https://user-images.githubusercontent.com/1154692/228383595-95e46fa7-14c3-4b24-a20d-1effa14812cf.svg) 341|[linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai) </br> ![2023-08-14_1206_3](https://img.shields.io/github/stars/linyiLYi/snake-ai.svg)|一个能够战胜经典游戏“贪吃蛇”的人工智能代理。|
-|![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg)⭐ 342|[microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt) </br> ![2023-08-14_0_-3747](https://img.shields.io/github/stars/microsoft/azurechatgpt.svg)|🤖 Azure ChatGPT：面向内部企业使用的私密安全聊天助手 💼|
 
 **说明:**
 | 符号| 规则 |
