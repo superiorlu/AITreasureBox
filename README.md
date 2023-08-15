@@ -368,7 +368,6 @@
 | 339|[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) </br> ![2023-08-15_1326_44](https://img.shields.io/github/stars/kuafuai/DevOpsGPT.svg)|Multi agent system for AI-driven software development. Convert natural language requirements into working software. Supports any development language and extends the existing base code.|
 | 340|[Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) </br> ![2023-08-15_1256_3](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg)|An Open-source Toolkit for LLM Development|
 | 341|[linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai) </br> ![2023-08-15_1207_1](https://img.shields.io/github/stars/linyiLYi/snake-ai.svg)|An AI agent that beats the classic game "Snake".|
-|⭐ 342|[microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt) </br> ![2023-08-15_0_-3714](https://img.shields.io/github/stars/microsoft/azurechatgpt.svg)|🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼|
 
 **Tip:**
 | symbol| rule |
