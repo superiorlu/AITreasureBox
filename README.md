@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:30:04UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-22:42:38UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -153,8 +153,8 @@
 | 124|[LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) </br> ![2023-09-07_10363_0](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt.svg)|🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.|
 | 125|[openai/shap-e](https://github.com/openai/shap-e) </br> ![2023-09-07_10348_0](https://img.shields.io/github/stars/openai/shap-e.svg) |Generate 3D objects conditioned on text or images|
 | 126|[stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) </br> ![2023-09-07_10329_0](https://img.shields.io/github/stars/stefan-jansen/machine-learning-for-trading.svg)|Code for Machine Learning for Algorithmic Trading, 2nd edition.|
-|![green-up-arrow.svg](https://user-images.githubusercontent.com/1154692/228381846-4cd38d29-946d-4268-8bd5-46b4c2531391.svg)⭐ 127|[KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) </br> ![2023-09-07_10010_29](https://img.shields.io/github/stars/KillianLucas/open-interpreter.svg)|OpenAI's Code Interpreter in your terminal, running locally|
-|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 128|[languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) </br> ![2023-09-07_9985_0](https://img.shields.io/github/stars/languagetool-org/languagetool.svg)|Style and Grammar Checker for 25+ Languages|
+|⭐ 127|[KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) </br> ![2023-09-07_10010_29](https://img.shields.io/github/stars/KillianLucas/open-interpreter.svg)|OpenAI's Code Interpreter in your terminal, running locally|
+| 128|[languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) </br> ![2023-09-07_9985_0](https://img.shields.io/github/stars/languagetool-org/languagetool.svg)|Style and Grammar Checker for 25+ Languages|
 | 129|[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) </br> ![2023-09-07_9980_1](https://img.shields.io/github/stars/lllyasviel/Fooocus.svg)|Focus on prompting and generating|
 | 130|[plasma-umass/scalene](https://github.com/plasma-umass/scalene) </br> ![2023-09-07_9826_0](https://img.shields.io/github/stars/plasma-umass/scalene.svg)|Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals|
 | 131|[modularml/mojo](https://github.com/modularml/mojo) </br> ![2023-09-07_9801_6](https://img.shields.io/github/stars/modularml/mojo.svg)  |The Mojo Programming Language|
