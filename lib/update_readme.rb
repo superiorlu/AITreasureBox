@@ -34,17 +34,22 @@ def update_repos(start_str, end_str, file_name, repo_stars, latest_repos)
         repo_info.gsub!('🔥', '') # reset fire
         match = repo_info.scan(/\[(.*?)\]/).flatten
         next if match.empty?
-        star_count = if repo_stars[match[0]].nil?
-                       get_star_count(match[0])
+        latest_repo_info = get_repo_info(match[0])
+        repo_name = match[0]
+        if(!latest_repo_info['full_name'].nil? && latest_repo_info['full_name'] != repo_name)
+          repo_name = latest_repo_info['full_name']
+        end
+        star_count = if repo_stars[repo_name].nil?
+                       latest_repo_info['stargazers_count'].to_i
                      else
-                       repo_stars[match[0]]
+                       repo_stars[repo_name]
                      end
-        repo_stars[match[0]] = star_count
+        repo_stars[repo_name] = star_count
         change_stars = 0
         date, total_stars, change_stars = sync_today_stars(match[1], star_count)
         star_info = format("%s_%s_%s", date, total_stars, change_stars)
         repo_info.sub!(match[1], star_info)
-        repos[match[0]] = { repo_name: match[0], repo_info: repo_info, desc: desc, star_count:  star_count, change_stars: change_stars.to_i, trending: false, original_index: index - 4 }
+        repos[repo_name] = { repo_name: repo_name, repo_info: repo_info, desc: desc, star_count:  star_count, change_stars: change_stars.to_i, trending: false, original_index: index - 4 }
     end
   end
 
@@ -131,28 +136,31 @@ def popularity_style(change_stars, threshold)
 end
 
 # cumulate stars changes
-def sync_today_stars(info, new_stars)
+def sync_today_stars(info, latest_stars)
   today = Time.now.strftime('%Y-%m-%d')
   if info.nil? || !info.include?('_')
-    [today, new_stars, 0]
+    [today, latest_stars, 0]
   else
     date, total_stars, change_stars = info.split('_')
     if date != today
       change_stars = 0
     end
-    change_stars = change_stars.to_i + (new_stars.to_i - total_stars.to_i)
-    [today, new_stars, change_stars]
+    if latest_stars.to_i == 0
+      [today, total_stars, change_stars]
+    else
+      change_stars = change_stars.to_i + (latest_stars.to_i - total_stars.to_i)
+      [today, latest_stars, change_stars]
+    end
   end
 end
 
-# fetch star count from github api
-def get_star_count(repo)
+# fetch repo info from github api
+def get_repo_info(repo)
   response = request_with_redirect("https://api.github.com/repos/#{repo}")
   if response&.code == '200'
-    result = JSON.parse(response.body)
-    result['stargazers_count']
+    JSON.parse(response.body)
   else
-    0
+    {}
   end
 end
 
