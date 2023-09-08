@@ -400,7 +400,6 @@
 | 371|[luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) </br> ![2023-09-08_1503_45](https://img.shields.io/github/stars/luban-agi/Awesome-AIGC-Tutorials.svg)|Curated tutorials and resources for Large Language Models, AI Painting, and more.|
 | 372|[Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) </br> ![2023-09-08_1494_9](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg)|An Open-source Toolkit for LLM Development|
 | 373|[linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai) </br> ![2023-09-08_1236_3](https://img.shields.io/github/stars/linyiLYi/snake-ai.svg)|An AI agent that beats the classic game "Snake".|
-| 374|[pengzhile/pandora](https://github.com/pengzhile/pandora)</br> ![2023-09-08_21184_103](https://img.shields.io/github/stars/pengzhile/pandora.svg) |Pandora, a ChatGPT that helps you breathe smoothly|
 
 **Tip:**
 | symbol| rule |

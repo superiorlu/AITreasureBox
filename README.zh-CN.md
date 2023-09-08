@@ -400,7 +400,6 @@
 | 371|[luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) </br> ![2023-09-08_1503_45](https://img.shields.io/github/stars/luban-agi/Awesome-AIGC-Tutorials.svg)|精选的教程和资源，涵盖大型语言模型、AI绘画等领域。|
 | 372|[Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) </br> ![2023-09-08_1494_9](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg)|一个用于语言模型微调开发的开源工具包。|
 | 373|[linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai) </br> ![2023-09-08_1236_3](https://img.shields.io/github/stars/linyiLYi/snake-ai.svg)|一个能够战胜经典游戏“贪吃蛇”的人工智能代理。|
-| 374|[pengzhile/pandora](https://github.com/pengzhile/pandora)</br> ![2023-09-08_21184_103](https://img.shields.io/github/stars/pengzhile/pandora.svg)  |潘多拉，一个让你呼吸顺畅的ChatGPT|
 
 **说明:**
 | 符号| 规则 |
