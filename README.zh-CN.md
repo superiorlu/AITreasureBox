@@ -28,7 +28,6 @@
 | <div width="30px">编号</div> |<div width="250px">代码库</div>|  <div width="400px">介绍</div>  |
 |----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------|
 | 1| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-09-14_148580_79](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg)  |  一个实验性的开源尝试，旨在使GPT-4完全自主|
-|⭐ 2|[facebook/react-native](https://github.com/facebook/react-native) </br> ![2023-09-15_111867_73](https://img.shields.io/github/stars/facebook/react-native.svg)|使用React构建本地应用程序的框架|
 | 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-09-14_111791_69](https://img.shields.io/github/stars/huggingface/transformers.svg)   | 为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理 |
 | 4|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-09-14_102017_134](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)|稳定扩散网络用户界面|
 | 5|[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) </br> ![2023-09-14_88630_75](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg) <a alt="Click Me" href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a>  |此存储库包括 ChatGPT 提示词，以更好地使用 ChatGPT|
