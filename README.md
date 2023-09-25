@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
-<img alt="GitHub last update" src="https://img.shields.io/badge/last update-00:42:22UTC-brightgreen" />
+<img alt="GitHub last update" src="https://img.shields.io/badge/last update-01:00:03UTC-brightgreen" />
 </p>
 
 ## Catalog
@@ -27,12 +27,12 @@
 
 | <div width="30px">No.</div> | <div width="250px">Repos</div> | <div width="400px">Description</div>  |
 | ----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------|
-| 1| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-09-25_149250_6](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
-| 2| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-09-25_112339_5](https://img.shields.io/github/stars/huggingface/transformers.svg)  | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
-| 3|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-09-25_103252_16](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)|Stable Diffusion web UI|
-| 4|[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) </br> ![2023-09-25_89251_5](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg) <a alt="Click Me" href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> |This repo includes ChatGPT prompt curation to use ChatGPT better.|
-| 5|[langchain-ai/langchain](https://github.com/langchain-ai/langchain) </br> ![2023-09-25_63067_1](https://img.shields.io/github/stars/langchain-ai/langchain.svg)|⚡ Building applications with LLMs through composability ⚡|
-|⭐ 6|[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) </br> ![2023-09-25_60304_29](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning.svg)|A curated list of awesome Machine Learning frameworks, libraries and software.|
+|⭐ 1|[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) </br> ![2023-09-25_60304_29](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning.svg)|A curated list of awesome Machine Learning frameworks, libraries and software.|
+|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 2| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-09-25_149250_6](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
+|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-09-25_112339_5](https://img.shields.io/github/stars/huggingface/transformers.svg)  | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
+|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 4|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-09-25_103252_16](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)|Stable Diffusion web UI|
+|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 5|[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) </br> ![2023-09-25_89251_5](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg) <a alt="Click Me" href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a> |This repo includes ChatGPT prompt curation to use ChatGPT better.|
+|![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 6|[langchain-ai/langchain](https://github.com/langchain-ai/langchain) </br> ![2023-09-25_63067_1](https://img.shields.io/github/stars/langchain-ai/langchain.svg)|⚡ Building applications with LLMs through composability ⚡|
 | 7|[twitter/the-algorithm](https://github.com/twitter/the-algorithm) </br> ![2023-09-25_59890_-3](https://img.shields.io/github/stars/twitter/the-algorithm.svg) |Source code for Twitter's Recommendation Algorithm|
 | 8|[fighting41love/funNLP](https://github.com/fighting41love/funNLP) </br> ![2023-09-25_57281_0](https://img.shields.io/github/stars/fighting41love/funNLP.svg)|The Most Powerful NLP-Weapon Arsenal|
 | 9|[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) </br> ![2023-09-25_55919_2](https://img.shields.io/github/stars/scikit-learn/scikit-learn.svg)|scikit-learn: machine learning in Python|
