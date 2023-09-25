@@ -27,7 +27,6 @@
 
 | <div width="30px">编号</div> |<div width="250px">代码库</div>|  <div width="400px">介绍</div>  |
 |----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------|
-|⭐ 1|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) </br> ![2023-09-25_229984_200](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)|学习如何设计大规模系统。为系统设计面试做准备。包括Anki闪卡。|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 2| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-09-25_149248_4](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg)  |  一个实验性的开源尝试，旨在使GPT-4完全自主|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-09-25_112337_3](https://img.shields.io/github/stars/huggingface/transformers.svg)   | 为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理 |
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 4|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-09-25_103249_13](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)|稳定扩散网络用户界面|
