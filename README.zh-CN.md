@@ -31,7 +31,6 @@
 | 2| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-09-24_112334_49](https://img.shields.io/github/stars/huggingface/transformers.svg)   | 为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理 |
 | 3|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-09-24_103236_84](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)|稳定扩散网络用户界面|
 | 4|[f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) </br> ![2023-09-24_89246_42](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg) <a alt="Click Me" href="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a>  |此存储库包括 ChatGPT 提示词，以更好地使用 ChatGPT|
-| 5|[pallets/flask](https://github.com/pallets/flask) </br> ![2023-09-24_64354_79](https://img.shields.io/github/stars/pallets/flask.svg)|用于构建Web应用程序的Python微框架。|
 | 6|[langchain-ai/langchain](https://github.com/langchain-ai/langchain) </br> ![2023-09-24_63066_55](https://img.shields.io/github/stars/langchain-ai/langchain.svg)|⚡ 通过可组合性构建LLMs的应用程序 ⚡|
 | 7|[twitter/the-algorithm](https://github.com/twitter/the-algorithm) </br> ![2023-09-24_59893_3](https://img.shields.io/github/stars/twitter/the-algorithm.svg)  |Twitter的推荐算法源代码|
 | 8|[fighting41love/funNLP](https://github.com/fighting41love/funNLP) </br> ![2023-09-24_57281_17](https://img.shields.io/github/stars/fighting41love/funNLP.svg)|NLP民工的乐园: 几乎最全的中文NLP资源库|
