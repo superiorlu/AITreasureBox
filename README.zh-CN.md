@@ -27,7 +27,6 @@
 
 | <div width="30px">编号</div> |<div width="250px">代码库</div>|  <div width="400px">介绍</div>  |
 |----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------|
-|⭐ 1|🔥[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) </br> ![2023-09-29_268215_336](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg)|成为软件工程师的完整计算机科学学习计划。|
 | 2| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-09-29_149606_32](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg)  |  一个实验性的开源尝试，旨在使GPT-4完全自主|
 | 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-09-29_112533_13](https://img.shields.io/github/stars/huggingface/transformers.svg)   | 为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理 |
 | 4|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-09-29_103793_40](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)|稳定扩散网络用户界面|
@@ -76,7 +75,6 @@
 | 47|[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) </br> ![2023-09-29_26981_2](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web.svg)  |用 Express 和 Vue3 搭建的 ChatGPT 演示网页|
 | 48|[suno-ai/bark](https://github.com/suno-ai/bark) </br> ![2023-09-29_26944_13](https://img.shields.io/github/stars/suno-ai/bark.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/suno/bark" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a>   |🔊 文本提示生成音频模型。|
 | 49|[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) </br> ![2023-09-29_26870_7](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg)  |用于训练斯坦福大学羊驼模型和生成数据的代码和文档。|
-|⭐ 50|[python-poetry/poetry](https://github.com/python-poetry/poetry) </br> ![2023-09-29_26730_9](https://img.shields.io/github/stars/python-poetry/poetry.svg)|Python包装和依赖管理变得更容易。|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg)⭐ 51|[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) </br> ![2023-09-29_26637_57](https://img.shields.io/github/stars/facebookresearch/detectron2.svg)|Detectron2是一个用于目标检测、分割以及其他视觉识别任务的平台。|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 52| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) </br> ![2023-09-29_24878_11](https://img.shields.io/github/stars/karpathy/nanoGPT.svg)    |最简单、最快的中等规模GPT训练/微调存储库|
 |![green-down-arrow](https://user-images.githubusercontent.com/1154692/228382543-b474d2ca-6a13-4452-9df0-5941d8cf6a6c.svg) 53|[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) </br> ![2023-09-29_24406_3](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal.svg)  |投资研究，人人可及，无处不在。|
@@ -514,6 +512,7 @@
 | 17   | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) |吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》|
 | 18   | [ossu/computer-science](https://github.com/ossu/computer-science) |🎓 自学计算机科学的免费路径！|
 | 19   | [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10周，20堂课，数据科学适用于所有人！|
+|20    |[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) </br> ![2023-09-29_268215_336](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg)|成为软件工程师的完整计算机科学学习计划。|
 
 
 <p align="right">[<a href="#top">回到页首</a>]</p>

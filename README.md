@@ -27,7 +27,6 @@
 
 | <div width="30px">No.</div> | <div width="250px">Repos</div> | <div width="400px">Description</div>  |
 | ----:|:-----------------------------------------|:------------------------------------------------------------------------------------------------------|
-|⭐ 1|🔥[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) </br> ![2023-09-29_268215_336](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg)|A complete computer science study plan to become a software engineer.|
 | 2| [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) </br> ![2023-09-29_149606_32](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg) | An experimental open-source attempt to make GPT-4 fully autonomous |
 | 3| [huggingface/transformers](https://github.com/huggingface/transformers) </br> ![2023-09-29_112533_13](https://img.shields.io/github/stars/huggingface/transformers.svg)  | state-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX |
 | 4|[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) </br> ![2023-09-29_103793_40](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)|Stable Diffusion web UI|
@@ -76,7 +75,6 @@
 | 47|[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) </br> ![2023-09-29_26981_2](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web.svg) |A demonstration website built with Express and Vue3 called ChatGPT|
 | 48|[suno-ai/bark](https://github.com/suno-ai/bark) </br> ![2023-09-29_26944_13](https://img.shields.io/github/stars/suno-ai/bark.svg)  <a alt="Click Me" href="https://huggingface.co/spaces/suno/bark" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Spaces-brightgreen" alt="Open in Spaces"/></a>  |🔊 Text-Prompted Generative Audio Model|
 | 49|[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) </br> ![2023-09-29_26870_7](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) |Code and documentation to train Stanford's Alpaca models, and generate the data.|
-|⭐ 50|[python-poetry/poetry](https://github.com/python-poetry/poetry) </br> ![2023-09-29_26730_9](https://img.shields.io/github/stars/python-poetry/poetry.svg)|Python packaging and dependency management made easy|
 |![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg)⭐ 51|[facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) </br> ![2023-09-29_26637_57](https://img.shields.io/github/stars/facebookresearch/detectron2.svg)|Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.|
 |![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 52| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) </br> ![2023-09-29_24878_11](https://img.shields.io/github/stars/karpathy/nanoGPT.svg)   |The simplest, fastest repository for training/finetuning medium-sized GPTs|
 |![red-down-arrow](https://user-images.githubusercontent.com/1154692/228383555-49b10a2c-d5e6-4963-b286-7351f21c442b.svg) 53|[OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) </br> ![2023-09-29_24406_3](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal.svg) |Investment Research for Everyone, Anywhere.|
@@ -512,6 +510,7 @@
 | 14   | [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) |Chinese version of Andrew Ng's Big Model Series Courses, including "Prompt Engineering", "Building System", and "LangChain"|
 | 15   | [ossu/computer-science](https://github.com/ossu/computer-science) |🎓 Path to a free self-taught education in Computer Science!|
 | 16   | [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
+|17    |[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) </br> ![2023-09-29_268215_336](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg) |A complete computer science study plan to become a software engineer.|
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
