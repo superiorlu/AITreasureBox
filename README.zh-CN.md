@@ -100,7 +100,6 @@
 | 71|[grpc/grpc-go](https://github.com/grpc/grpc-go) </br> ![2023-10-08_18937_3](https://img.shields.io/github/stars/grpc/grpc-go.svg)|Go语言实现的gRPC。基于HTTP/2的RPC。|
 | 72| [yetone/openai-translator](https://github.com/yetone/openai-translator)  </br> ![2023-10-08_18495_-1](https://img.shields.io/github/stars/yetone/openai-translator.svg)                                                |                                                基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 |
 | 73|[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) </br> ![2023-10-08_18474_1](https://img.shields.io/github/stars/iperov/DeepFaceLive.svg)                                       |实时人脸替换用于电脑直播或视频通话。|
-|⭐ 74|[jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) </br> ![2023-10-08_18409_9](https://img.shields.io/github/stars/jaegertracing/jaeger.svg)|CNCF Jaeger，一个分布式跟踪平台。|
 | 75|[deepinsight/insightface](https://github.com/deepinsight/insightface) </br> ![2023-10-08_18351_2](https://img.shields.io/github/stars/deepinsight/insightface.svg)                   |先进的2D和3D面部分析项目|
 | 76| [getcursor/cursor](https://github.com/getcursor/cursor) </br> ![2023-10-08_17873_-1](https://img.shields.io/github/stars/getcursor/cursor.svg)  |  一个专为AI编程而设计的编辑器 |
 | 77| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) </br> ![2023-10-08_17786_1](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg)  | 可在浏览器本地运行一个ChatGPT克隆版 |

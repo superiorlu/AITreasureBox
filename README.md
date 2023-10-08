@@ -100,7 +100,6 @@
 | 71|[grpc/grpc-go](https://github.com/grpc/grpc-go) </br> ![2023-10-08_18937_3](https://img.shields.io/github/stars/grpc/grpc-go.svg)|The Go language implementation of gRPC. HTTP/2 based RPC|
 | 72| [yetone/openai-translator](https://github.com/yetone/openai-translator)  </br> ![2023-10-08_18495_-1](https://img.shields.io/github/stars/yetone/openai-translator.svg)          |            Browser extension and cross-platform desktop application for translation based on ChatGPT API |
 | 73|[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) </br> ![2023-10-08_18474_1](https://img.shields.io/github/stars/iperov/DeepFaceLive.svg)               |Real-time face swap for PC streaming or video calls|
-|⭐ 74|[jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) </br> ![2023-10-08_18409_9](https://img.shields.io/github/stars/jaegertracing/jaeger.svg)|CNCF Jaeger, a Distributed Tracing Platform|
 | 75|[deepinsight/insightface](https://github.com/deepinsight/insightface) </br> ![2023-10-08_18351_2](https://img.shields.io/github/stars/deepinsight/insightface.svg)       |State-of-the-art 2D and 3D Face Analysis Project|
 | 76| [getcursor/cursor](https://github.com/getcursor/cursor) </br> ![2023-10-08_17873_-1](https://img.shields.io/github/stars/getcursor/cursor.svg) | An editor made for programming with AI|
 | 77| [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) </br> ![2023-10-08_17786_1](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui.svg) | A ChatGPT clone for running locally in your browser |
