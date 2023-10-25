@@ -446,7 +446,7 @@
 | 417|[Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) </br> ![2023-10-25_1666_0](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory.svg)|一个用于语言模型微调开发的开源工具包。|
 | 418|[lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) </br> ![2023-10-25_1590_0](https://img.shields.io/github/stars/lobehub/lobe-chat.svg)|🤖 Lobe Chat - 一个开源、可扩展（函数调用）、高性能的聊天机器人框架。它支持一键免费部署您的私人ChatGPT/LLM网络应用程序。|
 | 419|[linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai) </br> ![2023-10-25_1281_0](https://img.shields.io/github/stars/linyiLYi/snake-ai.svg)|一个能够战胜经典游戏“贪吃蛇”的人工智能代理。|
-|⭐ 420|[eureka-research/Eureka](https://github.com/eureka-research/Eureka) </br> ![2023-10-25_1095_160](https://img.shields.io/github/stars/eureka-research/Eureka.svg)|请将下面内容翻译成中文并只返回翻译后的内容: Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"|
+|⭐ 420|[eureka-research/Eureka](https://github.com/eureka-research/Eureka) </br> ![2023-10-25_1095_160](https://img.shields.io/github/stars/eureka-research/Eureka.svg)|Eureka:通过对大型语言模型编码实现人类水平奖励设计的官方仓库|
 
 **说明:**
 | 符号| 规则 |
