@@ -62,7 +62,7 @@ def update_repos(start_str, end_str, file_name, repo_stars, latest_repos)
         next
       end
     end
-    repo_info[:star_count] = repo_stars[repo_name]
+    repo_info[:star_count] = repo_stars[repo_name] unless repo_stars[repo_name].nil?
     repos[repo_name] = repo_info
   end
 
