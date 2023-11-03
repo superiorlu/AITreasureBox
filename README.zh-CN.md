@@ -459,7 +459,6 @@
 | 430|[AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) </br> ![2023-11-03_1615_7](https://img.shields.io/github/stars/AI-Citizen/SolidGPT.svg)|与您的代码仓库进行全方位交流，提出仓库级别的代码问题，并讨论您的需求。AI扫描并学习您的代码仓库，为您提供仓库级别的代码答案🧱 🧱|
 |⭐ 431|[li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) </br> ![2023-11-03_1380_46](https://img.shields.io/github/stars/li-plus/chatglm.cpp.svg)|ChatGLM-6B 和 ChatGLM2-6B 的 C 语言实现，以及 ChatGLM3 和更多的LLMs。|
 | 432|[linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai) </br> ![2023-11-03_1293_0](https://img.shields.io/github/stars/linyiLYi/snake-ai.svg)|一个能够战胜经典游戏“贪吃蛇”的人工智能代理。|
-| 433|[Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) </br> ![2023-11-03_1076_1](https://img.shields.io/github/stars/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral.svg)|开源系统用于识别潜在的选举欺诈，减少其发生和影响。|
 
 **说明:**
 | 符号| 规则 |

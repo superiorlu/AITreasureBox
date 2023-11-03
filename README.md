@@ -459,7 +459,6 @@
 | 430|[AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) </br> ![2023-11-03_1615_7](https://img.shields.io/github/stars/AI-Citizen/SolidGPT.svg)|Chat everything with your code repository, ask repository level code questions, and discuss your requirements. AI Scan and learning your code repository, provide you code repository level answer🧱 🧱|
 |⭐ 431|[li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) </br> ![2023-11-03_1380_46](https://img.shields.io/github/stars/li-plus/chatglm.cpp.svg)|C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs|
 | 432|[linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai) </br> ![2023-11-03_1293_0](https://img.shields.io/github/stars/linyiLYi/snake-ai.svg)|An AI agent that beats the classic game "Snake".|
-| 433|[Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) </br> ![2023-11-03_1076_1](https://img.shields.io/github/stars/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral.svg)|Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto.|
 
 **Tip:**
 | symbol| rule |
