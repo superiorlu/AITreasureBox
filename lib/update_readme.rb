@@ -7,11 +7,11 @@ require 'json'
 # update repos
 def update_all_repos
   repo_stars = {} # cache stars
-  latest_repos = fetch_repos
+  latest_repos, exclued_repos = fetch_repos
 
-  update_repos('## Repos', '**Tip:**', 'README.md', repo_stars, latest_repos)
+  update_repos('## Repos', '**Tip:**', 'README.md', repo_stars, latest_repos, exclued_repos)
   latest_repos.each{|repo, repo_info| repo_info[:desc] = repo_info[:cn_desc]}
-  update_repos('## 代码库', '**说明:**', 'README.zh-CN.md', repo_stars, latest_repos)
+  update_repos('## 代码库', '**说明:**', 'README.zh-CN.md', repo_stars, latest_repos, exclued_repos)
 end
 
 # update last date
@@ -21,7 +21,7 @@ def update_all_last_update
 end
 
 # update repos content
-def update_repos(start_str, end_str, file_name, repo_stars, latest_repos)
+def update_repos(start_str, end_str, file_name, repo_stars, latest_repos, exclued_repos)
   readme = File.read(file_name)
   lines = readme.lines
   start_index = lines.index {|e| e.include?(start_str)}
@@ -65,6 +65,9 @@ def update_repos(start_str, end_str, file_name, repo_stars, latest_repos)
     repo_info[:star_count] = repo_stars[repo_name] unless repo_stars[repo_name].nil?
     repos[repo_name] = repo_info
   end
+
+  # exclude repos
+  repos.reject!{|repo| exclued_repos.include?(repo)}
 
   new_readme = ''
   new_readme << lines[0..(start_index + 4)].join
@@ -196,16 +199,21 @@ def fetch_repos
 
   response = http.request(request)
   repos = {}
+  exclued_repos = []
   if response.code == '200'
     result = JSON.parse(response.body)
-    Array(result['data']).each do |repo|
+    Array(result['data']['recommendRepos']).each do |repo|
       repo_info = format("[%s](%s) </br> ![%s_%s_%s](https://img.shields.io/github/stars/%s.svg)",
         repo['fullName'], repo['link'], repo['crawlDate'], repo['stars'], repo['starsToday'], repo['fullName'])
       latest_repo = { repo_name: repo['fullName'], trending: true, repo_info: repo_info, desc: repo['desc'], cn_desc: repo['cnDesc'], additional_info: repo['additionalInfo'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, forced: repo['forced'], original_index: -1 }
       repos[repo['fullName']] = latest_repo
     end
+
+    Array(result['data']['excludeRepos']).each do |repo|
+      exclued_repos << format("%s/%s", repo['owner'], repo['name'])
+    end
   end
-  repos
+  [repos, exclued_repos]
 end
 
 # main
