@@ -13,6 +13,9 @@
 <p align="center">
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/superiorlu/AiTreasureBox/main.yml" />
 <img alt="GitHub last update" src="https://img.shields.io/badge/last update-02:30:59UTC-brightgreen" />
+<a href="https://www.buymeacoffee.com/aitreasurebox" target="_blank">
+  <img alt="Buy Me Coffee" src="https://img.shields.io/badge/donate-Buy%20Me%20A%20Coffee-brightgreen.svg" />
+</a>
 </p>
 
 ## 目录
