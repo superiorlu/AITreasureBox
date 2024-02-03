@@ -205,7 +205,7 @@ def fetch_repos
     Array(result['data']['recommendRepos']).each do |repo|
       repo_info = format("[%s](%s) </br> ![%s_%s_%s](https://img.shields.io/github/stars/%s.svg)",
         repo['fullName'], repo['link'], repo['crawlDate'], repo['stars'], repo['starsToday'], repo['fullName'])
-      latest_repo = { repo_name: repo['fullName'], trending: true, repo_info: repo_info, desc: repo['desc'], cn_desc: repo['cnDesc'], additional_info: repo['additionalInfo'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, forced: repo['forced'], original_index: -1 }
+      latest_repo = { repo_name: repo['fullName'], trending: repo['trending'], repo_info: repo_info, desc: repo['desc'], cn_desc: repo['cnDesc'], additional_info: repo['additionalInfo'], star_count: repo['stars'].to_i, change_stars: repo['starsToday'].to_i, forced: repo['forced'], original_index: -1 }
       repos[repo['fullName']] = latest_repo
     end
 
