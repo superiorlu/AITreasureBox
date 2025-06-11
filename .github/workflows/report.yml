@@ -42,5 +42,5 @@ jobs:
       - name: Report
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOS_URL: ${{ secrets.REPORT_REPOS_URL }}
+          REPORT_REPOS_URL: ${{ secrets.REPORT_REPOS_URL }}
         run: ruby lib/trending.rb
