@@ -1572,6 +1572,7 @@
 | 10   | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)| LLaMA: a collection of foundation language models ranging from 7B to 65B parameters|
 |  11  | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) |Papers from the computer science community to read and discuss|
 |  12  | [CVPR 2023 papers](https://github.com/SkalskiP/top-cvpr-2023-papers) |The most exciting and influential CVPR 2023 papers|
+|  13  | [AI and Agent Research Papers](https://arize.com/ai-research-papers/) |Bi-weekly conversations with paper authors on their work, from OpenAI to NVIDIA and Google|
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
