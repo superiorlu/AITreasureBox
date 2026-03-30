@@ -1736,3 +1736,22 @@
 ## Thanks
 If this project has been helpful to you in any way, please give it a ⭐️ by clicking on the star.
 
+
+
+## Installation
+
+```bash
+# Installation instructions
+```
+
+
+## Usage
+
+```python
+# Usage examples
+```
+
+
+## Contributing
+
+Contributions are welcome!
