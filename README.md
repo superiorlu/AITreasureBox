@@ -1739,6 +1739,7 @@
 |    12 | [Hugging Face](https://huggingface.co/)| Build, train and deploy state of the art models powered by the reference open source in machine learning |
 |    13 | [Claude](https://www.anthropic.com/product) <a alt="Click Me" href="https://slack.com/apps/A04KGS7N9A8-claude?tab=more_info" target="_blank"><img src="https://img.shields.io/badge/Slack-Open%20in%20App-brightgreen" alt="Open in App"/></a> | A next-generation AI assistant for your tasks, no matter the scale |
 |    14 | [Poe](https://poe.com/)| Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots|
+|    15 | [NotHumanSearch](https://nothumansearch.ai/mcp) | MCP discovery engine and search index for AI-agent-ready websites; exposes search_sites, verify_mcp, and list_categories tools over JSON-RPC |
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
@@ -1757,6 +1758,8 @@
 | 9| [Stability AI](https://stability.ai/)| The world's leading open source generative AI company which opened source Stable Diffusion |
 | 10| [Meta AI](https://ai.facebook.com/)| Whether it be research, product or infrastructure development, we’re driven to innovate responsibly with AI to benefit the world |
 | 11| [ANTHROPIC](https://www.anthropic.com/)| AI research and products that put safety at the frontier |
+| 12| [AI Dev Jobs](https://aidevboard.com/) | Curated AI/ML engineering job board aggregating 8,000+ roles from 489+ companies with a REST API and MCP server for agents |
+| 13| [NotHumanSearch](https://nothumansearch.ai/) | Search and monitoring directory of agent-ready websites, scoring sites by llms.txt / OpenAPI / ai-plugin / MCP signals |
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
@@ -1777,6 +1780,7 @@
 | 10   | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)| LLaMA: a collection of foundation language models ranging from 7B to 65B parameters|
 |  11  | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) |Papers from the computer science community to read and discuss|
 |  12  | [CVPR 2023 papers](https://github.com/SkalskiP/top-cvpr-2023-papers) |The most exciting and influential CVPR 2023 papers|
+|  13  | [8bitconcepts Research](https://8bitconcepts.com/) | Enterprise AI research papers on agentic systems, MCP adoption, retrieval quality, and evaluation methodology |
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
