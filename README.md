@@ -1761,6 +1761,7 @@
 
 | <div style="width:30px">No.</div> | Tool     | Description     | 
 | ----:|:----------------------------------------------- |:------------------------------------------------------------------------------------------- |
+| - | [Suppr](https://suppr.wilddata.cn/) | AI literature search, document translation, and deep-research workspace for researchers, supporting PubMed/OpenAlex search and Zotero plugin workflow. |
 |    1 | [ChatGPT](https://chat.openai.com/chat)         | A sibling model to InstructGPT, which is trained to follow instructions in a prompt and provide a detailed response |
 |    2 | [DALL·E 2](https://labs.openai.com/) | Create original, realistic images and art from a text description                   |
 |    3 | [Murf AI](https://murf.ai/)                | AI enabled, real people's voices|
