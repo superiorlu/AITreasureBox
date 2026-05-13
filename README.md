@@ -1754,6 +1754,7 @@
 | 1725|[myshell-ai/JetMoE](https://github.com/myshell-ai/JetMoE) </br> ![2026-05-13_987_0](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg)|Reaching LLaMA2 Performance with 0.1M Dollars|
 | 1726|[Semperis/EntraGoat](https://github.com/Semperis/EntraGoat) </br> ![2026-05-13_940_0](https://img.shields.io/github/stars/Semperis/EntraGoat.svg)|A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.|
 | 1727|[mustafaaljadery/gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) </br> ![2026-05-13_934_0](https://img.shields.io/github/stars/mustafaaljadery/gemma-2B-10M.svg)|Gemma 2B with 10M context length using Infini-attention.|
+| 1728|[dakera-ai/dakera-mcp](https://github.com/dakera-ai/dakera-mcp) </br> ![](https://img.shields.io/github/stars/dakera-ai/dakera-mcp.svg)|Self-hosted agent memory server with HNSW vector indexing, decay-weighted recall, and RocksDB persistence. MCP-native with multi-session support and cross-agent knowledge sharing. Python, JavaScript, Rust, and Go SDKs.|
 
 **Tip:**
 | symbol| rule |
