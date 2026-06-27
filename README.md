@@ -1856,6 +1856,7 @@
 |    12 | [Hugging Face](https://huggingface.co/)| Build, train and deploy state of the art models powered by the reference open source in machine learning |
 |    13 | [Claude](https://www.anthropic.com/product) <a alt="Click Me" href="https://slack.com/apps/A04KGS7N9A8-claude?tab=more_info" target="_blank"><img src="https://img.shields.io/badge/Slack-Open%20in%20App-brightgreen" alt="Open in App"/></a> | A next-generation AI assistant for your tasks, no matter the scale |
 |    14 | [Poe](https://poe.com/)| Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots|
+|    15 | [Seedream AI Studio](https://seedream4.video/)| Multi-model AI image generation using ByteDance Seedream 5.0/4.5/4.0, with one-click image-to-video animation via Kling 2.1. Free tier available.|
 
 
 <p align="right">[<a href="#top">Back to Top</a>]</p>
