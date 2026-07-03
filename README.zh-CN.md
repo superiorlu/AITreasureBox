@@ -1874,6 +1874,7 @@
 |    12 | [Hugging Face](https://huggingface.co/)| 构建、训练和部署最先进的模型的平台 |
 |    13 | [Claude](https://www.anthropic.com/product)  <a alt="Click Me" href="https://bmpidev.slack.com/apps/A04KGS7N9A8-claude?tab=more_info" target="_blank"><img src="https://img.shields.io/badge/Slack-Open%20in%20App-brightgreen" alt="Open in App"/></a>  | 一个面向各种规模任务的下一代人工智能助手 |
 |    14 | [Poe](https://poe.com/)| Poe 允许提问、获得即时答案，并与人工智能进行双向对话，提供对 GPT-4、gpt-3.5-turbo、Anthropic公司的Claude以及其他多种机器人的访问|
+|    15 | [agent-qa](https://github.com/vostride/agent-qa)| 面向 Web 和移动应用的自改进 QA Agent，支持自然语言测试、运行记忆和回归检测 |
 
 
 <p align="right">[<a href="#top">回到页首</a>]</p>
