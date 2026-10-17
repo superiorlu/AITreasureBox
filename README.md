@@ -1990,6 +1990,7 @@
 | 1961|[myshell-ai/JetMoE](https://github.com/myshell-ai/JetMoE) </br> ![2026-10-17_989_0](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg)|Reaching LLaMA2 Performance with 0.1M Dollars|
 | 1962|[mustafaaljadery/gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) </br> ![2026-10-17_929_0](https://img.shields.io/github/stars/mustafaaljadery/gemma-2B-10M.svg)|Gemma 2B with 10M context length using Infini-attention.|
 | 1963|[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) </br> ![2026-10-17_29383_0](https://img.shields.io/github/stars/cheahjs/free-llm-api-resources.svg)|A list of free LLM inference resources accessible via API.|
+| 1964|[benord-labs/frink](https://github.com/benord-labs/frink) </br> ![2026-10-17_49_0](https://img.shields.io/github/stars/benord-labs/frink.svg)|Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.|
 
 **Tip:**
 | symbol| rule |

@@ -1990,6 +1990,7 @@
 | 1961|[myshell-ai/JetMoE](https://github.com/myshell-ai/JetMoE) </br> ![2026-10-17_989_0](https://img.shields.io/github/stars/myshell-ai/JetMoE.svg)|用0.1百万美元实现LLaMA2性能|
 | 1962|[mustafaaljadery/gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) </br> ![2026-10-17_929_0](https://img.shields.io/github/stars/mustafaaljadery/gemma-2B-10M.svg)|Gemma 2B使用Infini-attention，具有10M的上下文长度。|
 | 1963|[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) </br> ![2026-10-17_29383_0](https://img.shields.io/github/stars/cheahjs/free-llm-api-resources.svg)|一份可通过API访问的免费LLM推理资源列表。|
+| 1964|[benord-labs/frink](https://github.com/benord-labs/frink) </br> ![2026-10-17_49_0](https://img.shields.io/github/stars/benord-labs/frink.svg)|人人可用的精细化自动化：通过可视化工作流，让 AI 编码代理（Claude Code、Codex、OpenCode、GitHub Copilot、Cursor）处理你的工单、错误和定时任务，并在做出任何更改前先征求你的同意。本地运行、开源，支持 macOS 和 Linux。|
 
 **说明:**
 | 符号| 规则 |
